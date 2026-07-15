@@ -12,6 +12,7 @@ test.describe('Category Dropdown Tests', () => {
 
     // Focus the category dropdown directly to avoid flaky Tab navigation
     await category.focus();
+    //Below We are verifying that the category dropdown is focused after focusing it programmatically
     await expect(category).toBeFocused();
 
     // 2. Open the dropdown using Space or Enter
