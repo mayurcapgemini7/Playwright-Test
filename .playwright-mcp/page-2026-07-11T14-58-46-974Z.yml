@@ -1,0 +1,2816 @@
+- generic [ref=e2]:
+  - navigation "Shortcuts menu" [ref=e3]:
+    - heading "Skip to" [level=2] [ref=e4]
+    - list "Skip to" [ref=e5]:
+      - listitem [ref=e6]:
+        - link "main content" [ref=e7] [cursor=pointer]:
+          - /url: "#skippedLink"
+          - text: Main content
+    - separator [ref=e8]
+    - heading "Keyboard shortcuts" [level=2] [ref=e9]
+    - list "Keyboard shortcuts" [ref=e10]:
+      - listitem [ref=e11]:
+        - link "Search, alt, forward slash" [ref=e12] [cursor=pointer]:
+          - /url: javascript:void(0)
+          - generic [ref=e13]:
+            - generic [ref=e14]: Search
+            - generic [ref=e15]:
+              - generic [ref=e16]: alt
+              - generic [ref=e17]: +
+              - generic [ref=e18]: /
+      - listitem [ref=e19]:
+        - link "Cart, shift, alt, c" [ref=e20] [cursor=pointer]:
+          - /url: javascript:void(0)
+          - generic [ref=e21]:
+            - generic [ref=e22]: Cart
+            - generic [ref=e23]:
+              - generic [ref=e24]: shift
+              - generic [ref=e25]: +
+              - generic [ref=e26]: alt
+              - generic [ref=e27]: +
+              - generic [ref=e28]: C
+      - listitem [ref=e29]:
+        - link "Home, shift, alt, h" [ref=e30] [cursor=pointer]:
+          - /url: javascript:void(0)
+          - generic [ref=e31]:
+            - generic [ref=e32]: Home
+            - generic [ref=e33]:
+              - generic [ref=e34]: shift
+              - generic [ref=e35]: +
+              - generic [ref=e36]: alt
+              - generic [ref=e37]: +
+              - generic [ref=e38]: H
+      - listitem [ref=e39]:
+        - link "Your orders, shift, alt, o" [ref=e40] [cursor=pointer]:
+          - /url: javascript:void(0)
+          - generic [ref=e41]:
+            - generic [ref=e42]: Orders
+            - generic [ref=e43]:
+              - generic [ref=e44]: shift
+              - generic [ref=e45]: +
+              - generic [ref=e46]: alt
+              - generic [ref=e47]: +
+              - generic [ref=e48]: O
+      - listitem [ref=e49]:
+        - button "Show/hide shortcuts, shift, alt, z" [ref=e50] [cursor=pointer]:
+          - generic [ref=e51]:
+            - generic [ref=e52]: Show/Hide shortcuts
+            - generic [ref=e53]:
+              - generic [ref=e54]: shift
+              - generic [ref=e55]: +
+              - generic [ref=e56]: alt
+              - generic [ref=e57]: +
+              - generic [ref=e58]: Z
+    - generic [ref=e64]: To move between items, use your keyboard's up or down arrows.
+  - banner [ref=e65]:
+    - navigation "Primary" [ref=e66]:
+      - generic [ref=e67]:
+        - generic [ref=e68]:
+          - link "Amazon.in" [ref=e70] [cursor=pointer]:
+            - /url: /ref=nav_logo
+            - generic: .in
+          - button "Delivering to Pune 411004 Update location" [ref=e73] [cursor=pointer]:
+            - generic [ref=e75]:
+              - generic [ref=e76]: Delivering to Pune 411004
+              - generic [ref=e77]: Update location
+        - search [ref=e80]:
+          - generic [ref=e83]:
+            - generic [ref=e85]: Computers & Accessories
+            - combobox "Select the department you want to search in" [ref=e87] [cursor=pointer]:
+              - option "All Categories"
+              - option "Alexa Skills"
+              - option "Amazon Devices"
+              - option "Amazon Fashion"
+              - option "Amazon Fresh"
+              - option "Amazon Fresh Meat"
+              - option "Amazon Pharmacy"
+              - option "Appliances"
+              - option "Apps & Games"
+              - option "Audible Audiobooks"
+              - option "Baby"
+              - option "Beauty"
+              - option "Books"
+              - option "Car & Motorbike"
+              - option "Clothing & Accessories"
+              - option "Collectibles"
+              - option "Computers & Accessories" [selected]
+              - option "Deals"
+              - option "Electronics"
+              - option "Furniture"
+              - option "Garden & Outdoors"
+              - option "Gift Cards"
+              - option "Grocery & Gourmet Foods"
+              - option "Health & Personal Care"
+              - option "Home & Kitchen"
+              - option "Industrial & Scientific"
+              - option "Jewellery"
+              - option "Kindle Store"
+              - option "Luggage & Bags"
+              - option "Luxury Beauty"
+              - option "Movies & TV Shows"
+              - option "MP3 Music"
+              - option "Music"
+              - option "Musical Instruments"
+              - option "Office Products"
+              - option "Pet Supplies"
+              - option "Prime Video"
+              - option "Shoes & Handbags"
+              - option "Software"
+              - option "Sports, Fitness & Outdoors"
+              - option "Subscribe & Save"
+              - option "Tools & Home Improvement"
+              - option "Toys & Games"
+              - option "Under ₹500"
+              - option "Video Games"
+              - option "Watches"
+          - searchbox "Search Amazon.in" [ref=e90]
+          - generic "Go" [ref=e93] [cursor=pointer]:
+            - button "Go" [ref=e94]
+        - generic [ref=e96]:
+          - generic [ref=e97]:
+            - link "Choose a language for shopping in Amazon India. The current selection is English (EN)." [ref=e98] [cursor=pointer]:
+              - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang
+              - generic [ref=e101]:
+                - img "India" [ref=e102]
+                - generic [ref=e103]: EN
+            - button "Expand to Change Language or Country" [ref=e104] [cursor=pointer]
+          - generic [ref=e105]:
+            - link "Hello, sign in Account & Lists" [ref=e106] [cursor=pointer]:
+              - /url: https://www.amazon.in/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fb%3Fnode%3D976392031%26ref_%3Dnav_ya_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0
+              - generic [ref=e108]: Hello, sign in
+              - generic [ref=e109]: Account & Lists
+            - button "Expand Account and Lists" [ref=e110] [cursor=pointer]
+          - link "Returns & Orders" [ref=e111] [cursor=pointer]:
+            - /url: /gp/css/order-history?ref_=nav_orders_first
+            - generic [ref=e112]: Returns
+            - generic [ref=e113]: "& Orders"
+          - link "0 items in cart" [ref=e114] [cursor=pointer]:
+            - /url: /gp/cart/view.html?ref_=nav_cart
+            - generic [ref=e116]: "0"
+            - generic [ref=e119]: Cart
+      - generic [ref=e120]:
+        - button "Open All Categories Menu" [ref=e122] [cursor=pointer]:
+          - generic [ref=e124]: All
+        - list [ref=e128]:
+          - listitem [ref=e129]:
+            - generic [ref=e130]:
+              - link "Fresh" [ref=e131] [cursor=pointer]:
+                - /url: /fresh?ref_=nav_cs_grocery
+              - button "Fresh Details" [ref=e132] [cursor=pointer]
+          - listitem [ref=e133]:
+            - link "MX Player" [ref=e135] [cursor=pointer]:
+              - /url: /minitv?ref_=nav_avod_desktop_topnav
+          - listitem [ref=e136]:
+            - link "Sell" [ref=e138] [cursor=pointer]:
+              - /url: /b/32702023031?node=32702023031&ld=AZINSOANavDesktop_T3&ref_=nav_cs_sell_T3
+          - listitem [ref=e139]:
+            - link "Bestsellers" [ref=e141] [cursor=pointer]:
+              - /url: /gp/bestsellers/?ref_=nav_cs_bestsellers
+          - listitem [ref=e142]:
+            - link "Today's Deals" [ref=e144] [cursor=pointer]:
+              - /url: /deals?ref_=nav_cs_gb
+          - listitem [ref=e145]:
+            - link "Mobiles" [ref=e147] [cursor=pointer]:
+              - /url: /mobile-phones/b/?ie=UTF8&node=1389401031&ref_=nav_cs_mobiles
+          - listitem [ref=e148]:
+            - link "New Releases" [ref=e150] [cursor=pointer]:
+              - /url: /gp/new-releases/?ref_=nav_cs_newreleases
+          - listitem [ref=e151]:
+            - generic [ref=e152]:
+              - link "Prime" [ref=e153] [cursor=pointer]:
+                - /url: /prime?ref_=nav_cs_primelink_nonmember
+              - button "Prime Details" [ref=e154] [cursor=pointer]
+          - listitem [ref=e155]:
+            - link "Amazon Pay" [ref=e157] [cursor=pointer]:
+              - /url: /gp/sva/dashboard?ref_=nav_cs_apay
+          - listitem [ref=e158]:
+            - link "Electronics" [ref=e160] [cursor=pointer]:
+              - /url: /electronics/b/?ie=UTF8&node=976419031&ref_=nav_cs_electronics
+          - listitem [ref=e161]:
+            - link "Customer Service" [ref=e163] [cursor=pointer]:
+              - /url: /gp/help/customer/display.html?nodeId=200507590&ref_=nav_cs_help
+          - listitem [ref=e164]:
+            - link "Home & Kitchen" [ref=e166] [cursor=pointer]:
+              - /url: /Home-Kitchen/b/?ie=UTF8&node=976442031&ref_=nav_cs_home
+          - listitem [ref=e167]:
+            - link "Fashion" [ref=e169] [cursor=pointer]:
+              - /url: /gp/browse.html?node=6648217031&ref_=nav_cs_fashion
+          - listitem [ref=e170]:
+            - link "Computers" [ref=e172] [cursor=pointer]:
+              - /url: /computers-and-accessories/b/?ie=UTF8&node=976392031&ref_=nav_cs_pc
+          - listitem [ref=e173]:
+            - link "Toys & Games" [ref=e175] [cursor=pointer]:
+              - /url: /Toys-Games/b/?ie=UTF8&node=1350380031&ref_=nav_cs_toys
+          - listitem [ref=e176]:
+            - link "Car & Motorbike" [ref=e178] [cursor=pointer]:
+              - /url: /Car-Motorbike-Store/b/?ie=UTF8&node=4772060031&ref_=nav_cs_automotive
+          - listitem [ref=e179]:
+            - link "Pet Supplies" [ref=e181] [cursor=pointer]:
+              - /url: /Pet-Supplies/b/?ie=UTF8&node=2454181031&ref_=nav_cs_pets
+          - listitem [ref=e182]:
+            - link "Home Improvement" [ref=e184] [cursor=pointer]:
+              - /url: /Home-Improvement/b/?ie=UTF8&node=4286640031&ref_=nav_cs_hi
+          - listitem [ref=e185]:
+            - link "Gift Cards" [ref=e187] [cursor=pointer]:
+              - /url: /gift-card-store/b/?ie=UTF8&node=3704982031&ref_=nav_cs_gc
+          - listitem [ref=e188]:
+            - link "Sports, Fitness & Outdoors" [ref=e190] [cursor=pointer]:
+              - /url: /Sports/b/?ie=UTF8&node=1984443031&ref_=nav_cs_sports
+          - listitem [ref=e191]:
+            - link "Beauty & Personal Care" [ref=e193] [cursor=pointer]:
+              - /url: /beauty/b/?ie=UTF8&node=1355016031&ref_=nav_cs_beauty
+          - listitem [ref=e194]:
+            - link "Video Games" [ref=e196] [cursor=pointer]:
+              - /url: /video-games/b/?ie=UTF8&node=976460031&ref_=nav_cs_video_games
+          - listitem [ref=e197]:
+            - link "Baby" [ref=e199] [cursor=pointer]:
+              - /url: /Baby/b/?ie=UTF8&node=1571274031&ref_=nav_cs_baby
+          - listitem [ref=e200]:
+            - link "Custom Products" [ref=e202] [cursor=pointer]:
+              - /url: /Amazon-Custom/b/?ie=UTF8&node=32615889031&ref_=nav_cs_custom
+          - listitem [ref=e203]:
+            - link "Grocery & Gourmet Foods" [ref=e205] [cursor=pointer]:
+              - /url: /Gourmet-Specialty-Foods/b/?ie=UTF8&node=2454178031&ref_=nav_cs_grocery
+          - listitem [ref=e206]:
+            - link "Health, Household & Personal Care" [ref=e208] [cursor=pointer]:
+              - /url: /health-and-personal-care/b/?ie=UTF8&node=1350384031&ref_=nav_cs_hpc
+          - listitem [ref=e209]:
+            - link "AmazonBasics" [ref=e211] [cursor=pointer]:
+              - /url: /b/?node=6637738031&ref_=nav_cs_amazonbasics
+          - listitem [ref=e212]:
+            - link "Audible" [ref=e214] [cursor=pointer]:
+              - /url: /Audible-Books-and-Originals/b/?ie=UTF8&node=17941593031&ref_=nav_cs_audible
+          - listitem [ref=e215]:
+            - link "Subscribe & Save" [ref=e217] [cursor=pointer]:
+              - /url: /auto-deliveries/landing?ref_=nav_cs_sns
+          - listitem [ref=e218]:
+            - link "Kindle eBooks" [ref=e220] [cursor=pointer]:
+              - /url: /Kindle-eBooks/b/?ie=UTF8&node=1634753031&ref_=nav_cs_kindle_books
+          - listitem [ref=e221]:
+            - link "Books" [ref=e223] [cursor=pointer]:
+              - /url: /Books/b/?ie=UTF8&node=976389031&ref_=nav_cs_books
+          - listitem [ref=e224]:
+            - link "Flights" [ref=e226] [cursor=pointer]:
+              - /url: /flights?ref_=nav_cs_apay_desktop_topnav_flights
+      - list [ref=e231]:
+        - listitem [ref=e232]:
+          - link "Electronics" [ref=e234] [cursor=pointer]:
+            - /url: /electronics/b/?ie=UTF8&node=976419031&ref_=topnav_storetab_top_elec_mega
+            - img "Electronics" [ref=e236]
+        - listitem [ref=e237]:
+          - generic [ref=e238]:
+            - link "Mobiles & Accessories" [ref=e239] [cursor=pointer]:
+              - /url: /b/?_encoding=UTF8&node=1389401031&ref_=sv_top_elec_mega_1
+            - button "Mobiles & Accessories, You are currently on a drop-down. To open this drop-down, Press Enter." [ref=e240] [cursor=pointer]
+        - listitem [ref=e241]:
+          - generic [ref=e242]:
+            - link "Laptops & Accessories" [ref=e243] [cursor=pointer]:
+              - /url: /b/?_encoding=UTF8&node=976392031&ref_=sv_top_elec_mega_2
+            - button "Laptops & Accessories, You are currently on a drop-down. To open this drop-down, Press Enter." [ref=e244] [cursor=pointer]
+        - listitem [ref=e245]:
+          - generic [ref=e246]:
+            - link "TV & Home Entertainment" [ref=e247] [cursor=pointer]:
+              - /url: /b/?_encoding=UTF8&node=1389375031&ref_=sv_top_elec_mega_3
+            - button "TV & Home Entertainment, You are currently on a drop-down. To open this drop-down, Press Enter." [ref=e248] [cursor=pointer]
+        - listitem [ref=e249]:
+          - generic [ref=e250]:
+            - link "Audio" [ref=e251] [cursor=pointer]:
+              - /url: /b/?_encoding=UTF8&node=1389335031&ref_=sv_top_elec_mega_4
+            - button "Audio, You are currently on a drop-down. To open this drop-down, Press Enter." [ref=e252] [cursor=pointer]
+        - listitem [ref=e253]:
+          - generic [ref=e254]:
+            - link "Cameras" [ref=e255] [cursor=pointer]:
+              - /url: /b/?_encoding=UTF8&node=1388977031&ref_=sv_top_elec_mega_5
+            - button "Cameras, You are currently on a drop-down. To open this drop-down, Press Enter." [ref=e256] [cursor=pointer]
+        - listitem [ref=e257]:
+          - generic [ref=e258]:
+            - link "Computer Peripherals" [ref=e259] [cursor=pointer]:
+              - /url: /b/?_encoding=UTF8&node=1375248031&ref_=sv_top_elec_mega_6
+            - button "Computer Peripherals, You are currently on a drop-down. To open this drop-down, Press Enter." [ref=e260] [cursor=pointer]
+        - listitem [ref=e261]:
+          - generic [ref=e262]:
+            - link "Smart Technology" [ref=e263] [cursor=pointer]:
+              - /url: /b/?_encoding=UTF8&node=13773797031&ref_=sv_top_elec_mega_7
+            - button "Smart Technology, You are currently on a drop-down. To open this drop-down, Press Enter." [ref=e264] [cursor=pointer]
+        - listitem [ref=e265]:
+          - generic [ref=e266]:
+            - link "Musical Instruments" [ref=e267] [cursor=pointer]:
+              - /url: /b/?_encoding=UTF8&node=3677697031&ref_=sv_top_elec_mega_8
+            - button "Musical Instruments, You are currently on a drop-down. To open this drop-down, Press Enter." [ref=e268] [cursor=pointer]
+        - listitem [ref=e269]:
+          - generic [ref=e270]:
+            - link "Office & Stationery" [ref=e271] [cursor=pointer]:
+              - /url: /b/?_encoding=UTF8&node=2454172031&ref_=sv_top_elec_mega_9
+            - button "Office & Stationery, You are currently on a drop-down. To open this drop-down, Press Enter." [ref=e272] [cursor=pointer]
+      - dialog [ref=e273]
+  - generic [ref=e278]:
+    - generic [ref=e284]:
+      - img "." [ref=e289]
+      - generic [ref=e290]:
+        - link "." [ref=e294] [cursor=pointer]:
+          - /url: /b?_encoding=UTF8&node=14154608031&ref_=cct_cg_onCall_2a1&pf_rd_p=5d0bca33-c24e-484c-9b8d-8e25d87a0406&pf_rd_r=SA26QG04YY7TY8BX5PS5
+          - img "." [ref=e295]
+        - link "." [ref=e299] [cursor=pointer]:
+          - /url: /b?_encoding=UTF8&node=1375419031&ref_=cct_cg_onCall_2b1&pf_rd_p=5d0bca33-c24e-484c-9b8d-8e25d87a0406&pf_rd_r=SA26QG04YY7TY8BX5PS5
+          - img "." [ref=e300]
+        - link "." [ref=e304] [cursor=pointer]:
+          - /url: /b?_encoding=UTF8&node=1375309031&ref_=cct_cg_onCall_2c1&pf_rd_p=5d0bca33-c24e-484c-9b8d-8e25d87a0406&pf_rd_r=SA26QG04YY7TY8BX5PS5
+          - img "." [ref=e305]
+        - link "." [ref=e309] [cursor=pointer]:
+          - /url: /s?_encoding=UTF8&bbn=1375248031&rh=n%3A976392031%2Cn%3A1375248031%2Cn%3A1375328031&ref_=cct_cg_onCall_2d1&pf_rd_p=5d0bca33-c24e-484c-9b8d-8e25d87a0406&pf_rd_r=SA26QG04YY7TY8BX5PS5
+          - img "." [ref=e310]
+      - generic [ref=e311]:
+        - link "." [ref=e315] [cursor=pointer]:
+          - /url: /b?_encoding=UTF8&node=1375313031&ref_=cct_cg_onCall_3a1&pf_rd_p=5d0bca33-c24e-484c-9b8d-8e25d87a0406&pf_rd_r=SA26QG04YY7TY8BX5PS5
+          - img "." [ref=e316]
+        - link "." [ref=e320] [cursor=pointer]:
+          - /url: /b?_encoding=UTF8&node=1375420031&ref_=cct_cg_onCall_3b1&pf_rd_p=5d0bca33-c24e-484c-9b8d-8e25d87a0406&pf_rd_r=SA26QG04YY7TY8BX5PS5
+          - img "." [ref=e321]
+        - link "." [ref=e325] [cursor=pointer]:
+          - /url: /s?_encoding=UTF8&bbn=1375248031&rh=n%3A976392031%2Cn%3A1375248031%2Cn%3A27209289031&ref_=cct_cg_onCall_3c1&pf_rd_p=5d0bca33-c24e-484c-9b8d-8e25d87a0406&pf_rd_r=SA26QG04YY7TY8BX5PS5
+          - img "." [ref=e326]
+        - link "." [ref=e330] [cursor=pointer]:
+          - /url: /s?_encoding=UTF8&bbn=1375248031&rh=n%3A976392031%2Cn%3A1375248031%2Cn%3A1375342031&ref_=cct_cg_onCall_3d1&pf_rd_p=5d0bca33-c24e-484c-9b8d-8e25d87a0406&pf_rd_r=SA26QG04YY7TY8BX5PS5
+          - img "." [ref=e331]
+    - generic [ref=e334]:
+      - group [ref=e335]:
+        - heading "Category" [level=1] [ref=e337]
+        - list "Category" [ref=e338]:
+          - listitem [ref=e339]:
+            - heading "Computers & Accessories" [level=2] [ref=e341]
+          - listitem [ref=e342]:
+            - link "Accessories & Peripherals" [ref=e344] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cn%3A1375248031&dc&qid=1783781923&rnid=976392031&ref=sr_nr_n_1
+          - listitem [ref=e345]:
+            - link "Components" [ref=e347] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cn%3A1375344031&dc&qid=1783781923&rnid=976392031&ref=sr_nr_n_2
+          - listitem [ref=e348]:
+            - link "Desktops" [ref=e350] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cn%3A1375392031&dc&qid=1783781923&rnid=976392031&ref=sr_nr_n_3
+          - listitem [ref=e351]:
+            - link "External Devices & Data Storage" [ref=e353] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cn%3A1375393031&dc&qid=1783781923&rnid=976392031&ref=sr_nr_n_4
+          - listitem [ref=e354]:
+            - link "Laptops" [ref=e356] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cn%3A1375424031&dc&qid=1783781923&rnid=976392031&ref=sr_nr_n_5
+          - listitem [ref=e357]:
+            - link "Monitors" [ref=e359] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cn%3A1375425031&dc&qid=1783781923&rnid=976392031&ref=sr_nr_n_6
+          - listitem [ref=e360]:
+            - link "Networking Devices" [ref=e362] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cn%3A1375427031&dc&qid=1783781923&rnid=976392031&ref=sr_nr_n_7
+          - listitem [ref=e363]:
+            - link "Printers, Inks & Accessories" [ref=e365] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cn%3A14784019031&dc&qid=1783781923&rnid=976392031&ref=sr_nr_n_8
+          - listitem [ref=e366]:
+            - link "Scanners" [ref=e368] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cn%3A1375452031&dc&qid=1783781923&rnid=976392031&ref=sr_nr_n_9
+          - listitem [ref=e369]:
+            - link "Tablets" [ref=e371] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cn%3A1375458031&dc&qid=1783781923&rnid=976392031&ref=sr_nr_n_10
+          - listitem [ref=e372]:
+            - link "Warranties" [ref=e374] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cn%3A11599544031&dc&qid=1783781923&rnid=976392031&ref=sr_nr_n_11
+      - group [ref=e375]:
+        - generic [ref=e376]: Amazon Prime
+        - list "Amazon Prime" [ref=e377]:
+          - listitem [ref=e378]:
+            - link "Prime Eligible Prime Eligible" [ref=e380] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_85%3A10440599031&dc&qid=1783781923&rnid=10440598031&ref=sr_nr_p_85_1
+              - generic [ref=e382]:
+                - checkbox "Prime Eligible" [ref=e383]
+                - generic:
+                  - generic: Prime Eligible
+              - img "Prime Eligible" [ref=e385]
+      - group [ref=e386]:
+        - generic [ref=e387]: Delivery Day
+        - list "Delivery Day" [ref=e388]:
+          - listitem [ref=e389]:
+            - link "Get It by Tomorrow Get It by Tomorrow" [ref=e391] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_90%3A6741118031&dc&qid=1783781923&rnid=6741116031&ref=sr_nr_p_90_0
+              - generic [ref=e393]:
+                - checkbox "Get It by Tomorrow" [ref=e394]
+                - generic:
+                  - generic: Get It by Tomorrow
+              - text: Get It by Tomorrow
+      - group [ref=e396]:
+        - generic [ref=e397]: Brands
+        - list "Brands" [ref=e398]:
+          - listitem [ref=e399]:
+            - link "boAt boAt" [ref=e401] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_123%3A214020&dc&qid=1783781923&rnid=91049095031&ref=sr_nr_p_123_0
+              - generic [ref=e403]:
+                - checkbox "boAt" [ref=e404]
+                - generic:
+                  - generic: boAt
+              - text: boAt
+          - listitem [ref=e406]:
+            - link "Sony Sony" [ref=e408] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_123%3A237204&dc&qid=1783781923&rnid=91049095031&ref=sr_nr_p_123_1
+              - generic [ref=e410]:
+                - checkbox "Sony" [ref=e411]
+                - generic:
+                  - generic: Sony
+              - text: Sony
+          - listitem [ref=e413]:
+            - link "HP HP" [ref=e415] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_123%3A308445&dc&qid=1783781923&rnid=91049095031&ref=sr_nr_p_123_2
+              - generic [ref=e417]:
+                - checkbox "HP" [ref=e418]
+                - generic:
+                  - generic: HP
+              - text: HP
+          - listitem [ref=e420]:
+            - link "JBL JBL" [ref=e422] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_123%3A233043&dc&qid=1783781923&rnid=91049095031&ref=sr_nr_p_123_3
+              - generic [ref=e424]:
+                - checkbox "JBL" [ref=e425]
+                - generic:
+                  - generic: JBL
+              - text: JBL
+          - listitem [ref=e427]:
+            - link "Apple Apple" [ref=e429] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_123%3A110955&dc&qid=1783781923&rnid=91049095031&ref=sr_nr_p_123_4
+              - generic [ref=e431]:
+                - checkbox "Apple" [ref=e432]
+                - generic:
+                  - generic: Apple
+              - text: Apple
+          - listitem [ref=e434]:
+            - link "ZEBRONICS ZEBRONICS" [ref=e436] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_123%3A396324&dc&qid=1783781923&rnid=91049095031&ref=sr_nr_p_123_5
+              - generic [ref=e438]:
+                - checkbox "ZEBRONICS" [ref=e439]
+                - generic:
+                  - generic: ZEBRONICS
+              - text: ZEBRONICS
+          - listitem [ref=e441]:
+            - link "Portronics Portronics" [ref=e443] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_123%3A415162&dc&qid=1783781923&rnid=91049095031&ref=sr_nr_p_123_6
+              - generic [ref=e445]:
+                - checkbox "Portronics" [ref=e446]
+                - generic:
+                  - generic: Portronics
+              - text: Portronics
+          - listitem [ref=e448]:
+            - link "Lenovo Lenovo" [ref=e450] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_123%3A391242&dc&qid=1783781923&rnid=91049095031&ref=sr_nr_p_123_7
+              - generic [ref=e452]:
+                - checkbox "Lenovo" [ref=e453]
+                - generic:
+                  - generic: Lenovo
+              - text: Lenovo
+          - listitem [ref=e455]:
+            - link "Noise Noise" [ref=e457] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_123%3A42717&dc&qid=1783781923&rnid=91049095031&ref=sr_nr_p_123_8
+              - generic [ref=e459]:
+                - checkbox "Noise" [ref=e460]
+                - generic:
+                  - generic: Noise
+              - text: Noise
+          - listitem [ref=e462]:
+            - link "Samsung Samsung" [ref=e464] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_123%3A46655&dc&qid=1783781923&rnid=91049095031&ref=sr_nr_p_123_9
+              - generic [ref=e466]:
+                - checkbox "Samsung" [ref=e467]
+                - generic:
+                  - generic: Samsung
+              - text: Samsung
+      - group [ref=e469]:
+        - generic [ref=e470]: Customer Reviews
+        - list "Customer Reviews" [ref=e471]:
+          - listitem [ref=e472]:
+            - generic "4 Stars & Up" [ref=e474]:
+              - link "4 Stars & Up & Up" [ref=e475] [cursor=pointer]:
+                - /url: /s?rh=n%3A976392031%2Cp_72%3A1318476031&dc&qid=1783781923&rnid=1318475031&ref=sr_nr_p_72_0
+                - generic [ref=e477]: 4 Stars & Up
+                - text: "& Up"
+      - group [ref=e478]:
+        - generic [ref=e479]: Price
+        - list "Price" [ref=e480]:
+          - listitem [ref=e481]:
+            - link "Under ₹1,000" [ref=e483] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_36%3A-99999&dc&qid=1783781923&rnid=1318502031&ref=sr_nr_p_36_0
+          - listitem [ref=e484]:
+            - link "₹1,000 - ₹5,000" [ref=e486] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_36%3A100000-500000&dc&qid=1783781923&rnid=1318502031&ref=sr_nr_p_36_1
+          - listitem [ref=e487]:
+            - link "₹5,000 - ₹10,000" [ref=e489] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_36%3A500000-1000000&dc&qid=1783781923&rnid=1318502031&ref=sr_nr_p_36_2
+          - listitem [ref=e490]:
+            - link "₹10,000 - ₹20,000" [ref=e492] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_36%3A1000000-2000000&dc&qid=1783781923&rnid=1318502031&ref=sr_nr_p_36_3
+          - listitem [ref=e493]:
+            - link "Over ₹20,000" [ref=e495] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_36%3A2000000-&dc&qid=1783781923&rnid=1318502031&ref=sr_nr_p_36_4
+      - group [ref=e496]:
+        - generic [ref=e497]: Deals & Discounts
+        - list "Deals & Discounts" [ref=e498]:
+          - listitem [ref=e499]:
+            - link "All Discounts" [ref=e501] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_n_deal_type%3A26921226031&dc&qid=1783781923&rnid=26921223031&ref=sr_nr_p_n_deal_type_0
+          - listitem [ref=e502]:
+            - link "Buy More, Save More" [ref=e504] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_n_deal_type%3A210770213031&dc&qid=1783781923&rnid=26921223031&ref=sr_nr_p_n_deal_type_1
+          - listitem [ref=e505]:
+            - link "Coupons" [ref=e507] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_n_deal_type%3A210770212031&dc&qid=1783781923&rnid=26921223031&ref=sr_nr_p_n_deal_type_2
+          - listitem [ref=e508]:
+            - link "Today's Deals" [ref=e510] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_n_deal_type%3A26921224031&dc&qid=1783781923&rnid=26921223031&ref=sr_nr_p_n_deal_type_3
+      - group [ref=e511]:
+        - generic [ref=e512]: Computers & Accessories Brands
+        - list "Computers & Accessories Brands" [ref=e513]:
+          - listitem [ref=e514]:
+            - link "Made for Amazon Made for Amazon" [ref=e516] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_n_format_browse-bin%3A30678577031&dc&qid=1783781923&rnid=30678571031&ref=sr_nr_p_n_format_browse-bin_0
+              - generic [ref=e518]:
+                - checkbox "Made for Amazon" [ref=e519]
+                - generic:
+                  - generic: Made for Amazon
+              - text: Made for Amazon
+          - listitem [ref=e521]:
+            - link "Top Brands Top Brands" [ref=e523] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_n_format_browse-bin%3A30678576031&dc&qid=1783781923&rnid=30678571031&ref=sr_nr_p_n_format_browse-bin_1
+              - generic [ref=e525]:
+                - checkbox "Top Brands" [ref=e526]
+                - generic:
+                  - generic: Top Brands
+              - text: Top Brands
+      - group [ref=e528]:
+        - generic [ref=e529]: Top Brands
+        - list "Top Brands" [ref=e530]:
+          - listitem [ref=e531]:
+            - link "Top Brands Top Brands" [ref=e533] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_n_g-101014971069111%3A206270883031&dc&qid=1783781923&rnid=206270882031&ref=sr_nr_p_n_g-101014971069111_0
+              - generic [ref=e535]:
+                - checkbox "Top Brands" [ref=e536]
+                - generic:
+                  - generic: Top Brands
+              - text: Top Brands
+      - group [ref=e538]:
+        - generic [ref=e539]: Discount
+        - list "Discount" [ref=e540]:
+          - listitem [ref=e541]:
+            - link "10% Off or more" [ref=e543] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_n_pct-off-with-tax%3A2665399031&dc&qid=1783781923&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_0
+          - listitem [ref=e544]:
+            - link "25% Off or more" [ref=e546] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_n_pct-off-with-tax%3A2665400031&dc&qid=1783781923&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_1
+          - listitem [ref=e547]:
+            - link "35% Off or more" [ref=e549] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_n_pct-off-with-tax%3A2665402031&dc&qid=1783781923&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_2
+          - listitem [ref=e550]:
+            - link "50% Off or more" [ref=e552] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_n_pct-off-with-tax%3A2665401031&dc&qid=1783781923&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_3
+          - listitem [ref=e553]:
+            - link "60% Off or more" [ref=e555] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_n_pct-off-with-tax%3A27060456031&dc&qid=1783781923&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_4
+          - listitem [ref=e556]:
+            - link "70% Off or more" [ref=e558] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_n_pct-off-with-tax%3A27060457031&dc&qid=1783781923&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_5
+      - group [ref=e559]:
+        - generic [ref=e560]: New Arrivals
+        - list "New Arrivals" [ref=e561]:
+          - listitem [ref=e562]:
+            - link "Last 30 days" [ref=e564] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_n_date_first_available_absolute%3A1318487031&dc&qid=1783781923&rnid=1318486031&ref=sr_nr_p_n_date_first_available_absolute_0
+          - listitem [ref=e565]:
+            - link "Last 90 days" [ref=e567] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_n_date_first_available_absolute%3A1318488031&dc&qid=1783781923&rnid=1318486031&ref=sr_nr_p_n_date_first_available_absolute_1
+      - group [ref=e568]:
+        - generic [ref=e569]: Availability
+        - list "Availability" [ref=e570]:
+          - listitem [ref=e571]:
+            - link "Include Out of Stock Include Out of Stock" [ref=e573] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_n_availability%3A1318485031&dc&qid=1783781923&rnid=1318483031&ref=sr_nr_p_n_availability_1
+              - generic [ref=e575]:
+                - checkbox "Include Out of Stock" [ref=e576]
+                - generic:
+                  - generic: Include Out of Stock
+              - text: Include Out of Stock
+      - group [ref=e578]:
+        - generic [ref=e579]: Pay On Delivery
+        - list "Pay On Delivery" [ref=e580]:
+          - listitem [ref=e581]:
+            - link "Eligible for Pay On Delivery Eligible for Pay On Delivery" [ref=e583] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_n_is_cod_eligible%3A4931671031&dc&qid=1783781923&rnid=4931670031&ref=sr_nr_p_n_is_cod_eligible_0
+              - generic [ref=e585]:
+                - checkbox "Eligible for Pay On Delivery" [ref=e586]
+                - generic:
+                  - generic: Eligible for Pay On Delivery
+              - text: Eligible for Pay On Delivery
+      - group [ref=e588]:
+        - generic [ref=e589]: Seller
+        - list "Seller" [ref=e590]:
+          - listitem [ref=e591]:
+            - link "Clicktech Retail Private Ltd Clicktech Retail Private Ltd" [ref=e593] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_6%3AAJ6SIZC8YQDZX&dc&qid=1783781923&rnid=1318474031&ref=sr_nr_p_6_0
+              - generic [ref=e595]:
+                - checkbox "Clicktech Retail Private Ltd" [ref=e596]
+                - generic:
+                  - generic: Clicktech Retail Private Ltd
+              - text: Clicktech Retail Private Ltd
+          - listitem [ref=e598]:
+            - link "Cocoblu Retail Cocoblu Retail" [ref=e600] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_6%3AA1WYWER0W24N8S&dc&qid=1783781923&rnid=1318474031&ref=sr_nr_p_6_1
+              - generic [ref=e602]:
+                - checkbox "Cocoblu Retail" [ref=e603]
+                - generic:
+                  - generic: Cocoblu Retail
+              - text: Cocoblu Retail
+          - listitem [ref=e605]:
+            - link "Clicktech Business Clicktech Business" [ref=e607] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_6%3AA34RBS7MAVZ4G4&dc&qid=1783781923&rnid=1318474031&ref=sr_nr_p_6_2
+              - generic [ref=e609]:
+                - checkbox "Clicktech Business" [ref=e610]
+                - generic:
+                  - generic: Clicktech Business
+              - text: Clicktech Business
+          - listitem [ref=e612]:
+            - link "POSHACE-RENEWTECH POSHACE-RENEWTECH" [ref=e614] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_6%3AA2JHZTBWPK0X2N&dc&qid=1783781923&rnid=1318474031&ref=sr_nr_p_6_3
+              - generic [ref=e616]:
+                - checkbox "POSHACE-RENEWTECH" [ref=e617]
+                - generic:
+                  - generic: POSHACE-RENEWTECH
+              - text: POSHACE-RENEWTECH
+          - listitem [ref=e619]:
+            - link "STS Shop STS Shop" [ref=e621] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_6%3AA1ZJ9VB2OVIKVD&dc&qid=1783781923&rnid=1318474031&ref=sr_nr_p_6_4
+              - generic [ref=e623]:
+                - checkbox "STS Shop" [ref=e624]
+                - generic:
+                  - generic: STS Shop
+              - text: STS Shop
+          - listitem [ref=e626]:
+            - link "USA Warehouse. USA Warehouse." [ref=e628] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_6%3AA2PRL1RFFZO5CK&dc&qid=1783781923&rnid=1318474031&ref=sr_nr_p_6_5
+              - generic [ref=e630]:
+                - checkbox "USA Warehouse." [ref=e631]
+                - generic:
+                  - generic: USA Warehouse.
+              - text: USA Warehouse.
+          - listitem [ref=e633]:
+            - link "Cart2Globe Cart2Globe" [ref=e635] [cursor=pointer]:
+              - /url: /s?rh=n%3A976392031%2Cp_6%3AA324FKG9CG7HUT&dc&qid=1783781923&rnid=1318474031&ref=sr_nr_p_6_6
+              - generic [ref=e637]:
+                - checkbox "Cart2Globe" [ref=e638]
+                - generic:
+                  - generic: Cart2Globe
+              - text: Cart2Globe
+    - generic [ref=e640]:
+      - generic [ref=e643]:
+        - generic [ref=e645]:
+          - heading "New launches | Gaming accessories" [level=2] [ref=e647]
+          - separator [ref=e648]
+        - group [ref=e649]:
+          - group [ref=e653]:
+            - list [ref=e654]:
+              - listitem [ref=e655]:
+                - generic [ref=e656]:
+                  - 'link "Razer DeathAdder V4 Pro Gaming Mouse (Model No: RZ01-05330100-R3A1) | 56 g Wireless Esports Mouse | Focus Pro Razer DeathAdder V4 Pro Gaming Mouse (Model No: RZ01-05330100-R3A1) | 56 g Wireless Esports Mouse | Focus Pro 45K Optical Sensor | 8,000 Hz HyperSpeed | Optical Scroll Wheel | Gen-4 Switches_ Black Razer" [ref=e657] [cursor=pointer]':
+                    - /url: https://www.amazon.in/Razer-DeathAdder-Gaming-Mouse-Model/dp/B0FGX8N9KP/ref=s9_acsd_al_ot_c2_x_0_t?_encoding=UTF8&pf_rd_m=A21TJRUUN4KGV&pf_rd_s=merchandised-search-6&pf_rd_r=SA26QG04YY7TY8BX5PS5&pf_rd_p=c1ef2f1c-9f04-4f3a-8254-ab49b5de2889&pf_rd_t=&pf_rd_i=976392031
+                    - 'img "Razer DeathAdder V4 Pro Gaming Mouse (Model No: RZ01-05330100-R3A1) | 56 g Wireless Esports Mouse | Focus Pro" [ref=e659]'
+                    - generic [ref=e661]:
+                      - generic [ref=e662]: "Razer DeathAdder V4 Pro Gaming Mouse (Model No: RZ01-05330100-R3A1) | 56 g Wireless Esports Mouse | Focus Pro 45K Optical Sensor | 8,000 Hz HyperSpeed | Optical Scroll Wheel | Gen-4 Switches_ Black"
+                      - generic [ref=e663]: Razer DeathAdder V4 Pro Gaming Mouse (…
+                    - generic [ref=e665]:
+                      - generic [ref=e666]: Razer
+                      - generic [ref=e667]: Razer
+                  - generic [ref=e668]:
+                    - generic [ref=e669]:
+                      - generic [ref=e670]: ₹19,281.00
+                      - generic [ref=e671]:
+                        - text: ₹
+                        - generic [ref=e672]:
+                          - text: 19,281
+                          - generic [ref=e673]: .
+                        - text: "00"
+                    - generic [ref=e674]:
+                      - generic [ref=e675]: ₹27,999.00
+                      - text: ₹27,999.00
+                  - generic [ref=e676]:
+                    - generic "4.4 out of 5 stars" [ref=e677]:
+                      - generic [ref=e678]: 4.4 out of 5 stars
+                    - text: "38"
+              - listitem [ref=e679]:
+                - generic [ref=e680]:
+                  - link "JBL Quantum 100M2 Wired Gaming Headphones, Supports Windows sonic spatial audio, 40mm Realistic Dynamic Driver JBL Quantum 100M2 Wired Gaming Headphones, Supports Windows sonic spatial audio, 40mm Realistic Dynamic Drivers, Omnidirectional Detachable Mic, Breathable Memory Foam cushions, PC/Xbox/PS/3.5mm-Black JBL" [ref=e681] [cursor=pointer]:
+                    - /url: https://www.amazon.in/JBL-Detachable-Microphone-QuantumSOUND-Compatible/dp/B0D6NLHV8N/ref=s9_acsd_al_ot_c2_x_1_t?_encoding=UTF8&pf_rd_m=A21TJRUUN4KGV&pf_rd_s=merchandised-search-6&pf_rd_r=SA26QG04YY7TY8BX5PS5&pf_rd_p=c1ef2f1c-9f04-4f3a-8254-ab49b5de2889&pf_rd_t=&pf_rd_i=976392031
+                    - img "JBL Quantum 100M2 Wired Gaming Headphones, Supports Windows sonic spatial audio, 40mm Realistic Dynamic Driver" [ref=e683]
+                    - generic [ref=e685]:
+                      - generic [ref=e686]: JBL Quantum 100M2 Wired Gaming Headphones, Supports Windows sonic spatial audio, 40mm Realistic Dynamic Drivers, Omnidirectional Detachable Mic, Breathable Memory Foam cushions, PC/Xbox/PS/3.5mm-Black
+                      - generic [ref=e687]: JBL Quantum 100M2 Wired Gaming Headp…
+                    - generic [ref=e689]:
+                      - generic [ref=e690]: JBL
+                      - generic [ref=e691]: JBL
+                  - generic [ref=e692]:
+                    - generic [ref=e693]:
+                      - generic [ref=e694]: ₹2,999.00
+                      - generic [ref=e695]:
+                        - text: ₹
+                        - generic [ref=e696]:
+                          - text: 2,999
+                          - generic [ref=e697]: .
+                        - text: "00"
+                    - generic [ref=e698]:
+                      - generic [ref=e699]: ₹4,499.00
+                      - text: ₹4,499.00
+                  - generic [ref=e700]:
+                    - generic "4.0 out of 5 stars" [ref=e701]:
+                      - generic [ref=e702]: 4.0 out of 5 stars
+                    - text: 5,936
+              - listitem [ref=e703]:
+                - generic [ref=e704]:
+                  - link "Razer Hammerhead V3 - Wired Earbuds for Gaming Razer Hammerhead V3 - Wired Earbuds for Gaming Razer" [ref=e705] [cursor=pointer]:
+                    - /url: https://www.amazon.in/Razer-Hammerhead-V3-Earbuds-Gaming/dp/B0FJFCTFBV/ref=s9_acsd_al_ot_c2_x_2_t?_encoding=UTF8&pf_rd_m=A21TJRUUN4KGV&pf_rd_s=merchandised-search-6&pf_rd_r=SA26QG04YY7TY8BX5PS5&pf_rd_p=c1ef2f1c-9f04-4f3a-8254-ab49b5de2889&pf_rd_t=&pf_rd_i=976392031
+                    - img "Razer Hammerhead V3 - Wired Earbuds for Gaming" [ref=e707]
+                    - generic [ref=e709]:
+                      - generic [ref=e710]: Razer Hammerhead V3 - Wired Earbuds for Gaming
+                      - generic [ref=e711]: Razer Hammerhead V3 - Wired Earbuds for…
+                    - generic [ref=e713]:
+                      - generic [ref=e714]: Razer
+                      - generic [ref=e715]: Razer
+                  - generic [ref=e716]:
+                    - generic [ref=e717]:
+                      - generic [ref=e718]: ₹5,867.00
+                      - generic [ref=e719]:
+                        - text: ₹
+                        - generic [ref=e720]:
+                          - text: 5,867
+                          - generic [ref=e721]: .
+                        - text: "00"
+                    - generic [ref=e722]:
+                      - generic [ref=e723]: ₹9,999.00
+                      - text: ₹9,999.00
+                  - generic [ref=e724]:
+                    - generic "3.7 out of 5 stars" [ref=e725]:
+                      - generic [ref=e726]: 3.7 out of 5 stars
+                    - text: "15"
+              - listitem [ref=e727]:
+                - generic [ref=e728]:
+                  - 'link "Razer Seiren V3 Mini USB Microphone: Condenser Mic - Supercardioid Pickup Pattern - Tap-to-Mute Sensor with LE Razer Seiren V3 Mini USB Microphone: Condenser Mic - Supercardioid Pickup Pattern - Tap-to-Mute Sensor with LED Indicator - Shock Absorber - Ultra Compact - PC, Discord, OBS Studio, XSplit - Black Razer" [ref=e729] [cursor=pointer]':
+                    - /url: https://www.amazon.in/Razer-Seiren-Mini-Microphone-Mute/dp/B0CMTQPWQ8/ref=s9_acsd_al_ot_c2_x_3_t?_encoding=UTF8&pf_rd_m=A21TJRUUN4KGV&pf_rd_s=merchandised-search-6&pf_rd_r=SA26QG04YY7TY8BX5PS5&pf_rd_p=c1ef2f1c-9f04-4f3a-8254-ab49b5de2889&pf_rd_t=&pf_rd_i=976392031
+                    - 'img "Razer Seiren V3 Mini USB Microphone: Condenser Mic - Supercardioid Pickup Pattern - Tap-to-Mute Sensor with LE" [ref=e731]'
+                    - generic [ref=e733]:
+                      - generic [ref=e734]: "Razer Seiren V3 Mini USB Microphone: Condenser Mic - Supercardioid Pickup Pattern - Tap-to-Mute Sensor with LED Indicator - Shock Absorber - Ultra Compact - PC, Discord, OBS Studio, XSplit - Black"
+                      - generic [ref=e735]: "Razer Seiren V3 Mini USB Microphone: Co…"
+                    - generic [ref=e737]:
+                      - generic [ref=e738]: Razer
+                      - generic [ref=e739]: Razer
+                  - generic [ref=e740]:
+                    - generic [ref=e741]:
+                      - generic [ref=e742]: ₹4,220.00
+                      - generic [ref=e743]:
+                        - text: ₹
+                        - generic [ref=e744]:
+                          - text: 4,220
+                          - generic [ref=e745]: .
+                        - text: "00"
+                    - generic [ref=e746]:
+                      - generic [ref=e747]: ₹8,999.00
+                      - text: ₹8,999.00
+                  - generic [ref=e748]:
+                    - generic "4.6 out of 5 stars" [ref=e749]:
+                      - generic [ref=e750]: 4.6 out of 5 stars
+                    - text: "705"
+              - listitem [ref=e751]:
+                - generic [ref=e752]:
+                  - link "Kreo Harpy Gaming Mouse Wired, 55g Ultra-Lightweight Mouse, Customizable RGB Mouse for Laptop Gaming, Mouse fo Kreo Harpy Gaming Mouse Wired, 55g Ultra-Lightweight Mouse, Customizable RGB Mouse for Laptop Gaming, Mouse for Pc, 1000Hz Polling Rate, 12800 DPI Kreo" [ref=e753] [cursor=pointer]:
+                    - /url: https://www.amazon.in/Kreo-Ultra-Lightweight-Customizable-Symmetrical-Ergonomic/dp/B0F43QRQRP/ref=s9_acsd_al_ot_c2_x_4_t?_encoding=UTF8&pf_rd_m=A21TJRUUN4KGV&pf_rd_s=merchandised-search-6&pf_rd_r=SA26QG04YY7TY8BX5PS5&pf_rd_p=c1ef2f1c-9f04-4f3a-8254-ab49b5de2889&pf_rd_t=&pf_rd_i=976392031
+                    - img "Kreo Harpy Gaming Mouse Wired, 55g Ultra-Lightweight Mouse, Customizable RGB Mouse for Laptop Gaming, Mouse fo" [ref=e755]
+                    - generic [ref=e757]:
+                      - generic [ref=e758]: Kreo Harpy Gaming Mouse Wired, 55g Ultra-Lightweight Mouse, Customizable RGB Mouse for Laptop Gaming, Mouse for Pc, 1000Hz Polling Rate, 12800 DPI
+                      - generic [ref=e759]: Kreo Harpy Gaming Mouse Wired, 55g Ult…
+                    - generic [ref=e761]:
+                      - generic [ref=e762]: Kreo
+                      - generic [ref=e763]: Kreo
+                  - generic [ref=e764]:
+                    - generic [ref=e765]:
+                      - generic [ref=e766]: ₹549.00
+                      - generic [ref=e767]:
+                        - text: ₹
+                        - generic [ref=e768]:
+                          - text: "549"
+                          - generic [ref=e769]: .
+                        - text: "00"
+                    - generic [ref=e770]:
+                      - generic [ref=e771]: ₹1,499.00
+                      - text: ₹1,499.00
+                  - generic [ref=e772]:
+                    - generic "4.3 out of 5 stars" [ref=e773]:
+                      - generic [ref=e774]: 4.3 out of 5 stars
+                    - text: 1,347
+              - listitem [ref=e775]:
+                - generic [ref=e776]:
+                  - link "Zebronics Transformer M Plus Wired Gaming Mouse, Up to 12800 DPI, 6 Buttons with a 6-Level DPI Switch, 8 RGB M Zebronics Transformer M Plus Wired Gaming Mouse, Up to 12800 DPI, 6 Buttons with a 6-Level DPI Switch, 8 RGB Modes, 1000Hz Polling Rate, 1.5m Detachable Cable, Gaming Grade Sensor (Grey + Blue) ZEBRONICS" [ref=e777] [cursor=pointer]:
+                    - /url: https://www.amazon.in/ZEBRONICS-Transformer-Buttons-6-Level-Detachable/dp/B0FF4ZJNM3/ref=s9_acsd_al_ot_c2_x_5_t?_encoding=UTF8&pf_rd_m=A21TJRUUN4KGV&pf_rd_s=merchandised-search-6&pf_rd_r=SA26QG04YY7TY8BX5PS5&pf_rd_p=c1ef2f1c-9f04-4f3a-8254-ab49b5de2889&pf_rd_t=&pf_rd_i=976392031
+                    - img "Zebronics Transformer M Plus Wired Gaming Mouse, Up to 12800 DPI, 6 Buttons with a 6-Level DPI Switch, 8 RGB M" [ref=e779]
+                    - generic [ref=e781]:
+                      - generic [ref=e782]: Zebronics Transformer M Plus Wired Gaming Mouse, Up to 12800 DPI, 6 Buttons with a 6-Level DPI Switch, 8 RGB Modes, 1000Hz Polling Rate, 1.5m Detachable Cable, Gaming Grade Sensor (Grey + Blue)
+                      - generic [ref=e783]: Zebronics Transformer M Plus Wired Gamin…
+                    - generic [ref=e785]:
+                      - generic [ref=e786]: ZEBRONICS
+                      - generic [ref=e787]: ZEBRONICS
+                  - generic [ref=e788]:
+                    - generic [ref=e789]:
+                      - generic [ref=e790]: ₹529.00
+                      - generic [ref=e791]:
+                        - text: ₹
+                        - generic [ref=e792]:
+                          - text: "529"
+                          - generic [ref=e793]: .
+                        - text: "00"
+                    - generic [ref=e794]:
+                      - generic [ref=e795]: ₹1,299.00
+                      - text: ₹1,299.00
+                  - generic [ref=e796]:
+                    - generic "4.2 out of 5 stars" [ref=e797]:
+                      - generic [ref=e798]: 4.2 out of 5 stars
+                    - text: "476"
+              - listitem [ref=e799]:
+                - generic [ref=e800]:
+                  - 'link "Razer Basilisk Mobile Portable Ergonomic Wireless Gaming Mouse: 10 Programmable Controls HyperScroll - Optical Razer Basilisk Mobile Portable Ergonomic Wireless Gaming Mouse: 10 Programmable Controls HyperScroll - Optical Switches Gen-3 - Long Battery Life - AI Prompt - 2.4 GHz, Bluetooth, USB C Razer" [ref=e801] [cursor=pointer]':
+                    - /url: https://www.amazon.in/Razer-Basilisk-Portable-Ergonomic-Wireless/dp/B0F85WRNZG/ref=s9_acsd_al_ot_c2_x_6_t?_encoding=UTF8&pf_rd_m=A21TJRUUN4KGV&pf_rd_s=merchandised-search-6&pf_rd_r=SA26QG04YY7TY8BX5PS5&pf_rd_p=c1ef2f1c-9f04-4f3a-8254-ab49b5de2889&pf_rd_t=&pf_rd_i=976392031
+                    - 'img "Razer Basilisk Mobile Portable Ergonomic Wireless Gaming Mouse: 10 Programmable Controls HyperScroll - Optical" [ref=e803]'
+                    - generic [ref=e805]:
+                      - generic [ref=e806]: "Razer Basilisk Mobile Portable Ergonomic Wireless Gaming Mouse: 10 Programmable Controls HyperScroll - Optical Switches Gen-3 - Long Battery Life - AI Prompt - 2.4 GHz, Bluetooth, USB C"
+                      - generic [ref=e807]: Razer Basilisk Mobile Portable Ergonomic…
+                    - generic [ref=e809]:
+                      - generic [ref=e810]: Razer
+                      - generic [ref=e811]: Razer
+                  - generic [ref=e812]:
+                    - generic [ref=e813]:
+                      - generic [ref=e814]: ₹5,723.00
+                      - generic [ref=e815]:
+                        - text: ₹
+                        - generic [ref=e816]:
+                          - text: 5,723
+                          - generic [ref=e817]: .
+                        - text: "00"
+                    - generic [ref=e818]:
+                      - generic [ref=e819]: ₹15,999.00
+                      - text: ₹15,999.00
+                  - generic [ref=e820]:
+                    - generic "4.2 out of 5 stars" [ref=e821]:
+                      - generic [ref=e822]: 4.2 out of 5 stars
+                    - text: "77"
+      - list [ref=e831]:
+        - listitem [ref=e832]:
+          - link "Computer accessories" [ref=e833] [cursor=pointer]:
+            - /url: /b?node=1375248031&ref_=cepc_sbc_atfbau_1&pf_rd_r=SA26QG04YY7TY8BX5PS5&pf_rd_p=fb7e83bb-5de2-4138-b523-47499c785148&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_s=merchandised-search-7&pf_rd_t=&pf_rd_i=976392031
+            - img "Computer accessories" [ref=e835]
+            - generic [ref=e837]: Computer accessories
+        - listitem [ref=e838]:
+          - link "Pen drives" [ref=e839] [cursor=pointer]:
+            - /url: /s?bbn=1375393031&rh=n%3A976392031%2Cn%3A1375393031%2Cn%3A1375411031&ref_=cepc_sbc_atfbau_2&pf_rd_r=SA26QG04YY7TY8BX5PS5&pf_rd_p=fb7e83bb-5de2-4138-b523-47499c785148&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_s=merchandised-search-7&pf_rd_t=&pf_rd_i=976392031
+            - img "Pen drives" [ref=e841]
+            - generic [ref=e843]: Pen drives
+        - listitem [ref=e844]:
+          - link "Memory cards" [ref=e845] [cursor=pointer]:
+            - /url: /s?bbn=1375393031&rh=n%3A976392031%2Cn%3A1375393031%2Cn%3A1388963031&ref_=cepc_sbc_atfbau_3&pf_rd_r=SA26QG04YY7TY8BX5PS5&pf_rd_p=fb7e83bb-5de2-4138-b523-47499c785148&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_s=merchandised-search-7&pf_rd_t=&pf_rd_i=976392031
+            - img "Memory cards" [ref=e847]
+            - generic [ref=e849]: Memory cards
+        - listitem [ref=e850]:
+          - link "Office products" [ref=e851] [cursor=pointer]:
+            - /url: /b?node=2454172031&ref_=cepc_sbc_atfbau_4&pf_rd_r=SA26QG04YY7TY8BX5PS5&pf_rd_p=fb7e83bb-5de2-4138-b523-47499c785148&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_s=merchandised-search-7&pf_rd_t=&pf_rd_i=976392031
+            - img "Office products" [ref=e853]
+            - generic [ref=e855]: Office products
+        - listitem [ref=e856]:
+          - link "Routers & networking devices" [ref=e857] [cursor=pointer]:
+            - /url: /b?node=1375427031&ref_=cepc_sbc_atfbau_5&pf_rd_r=SA26QG04YY7TY8BX5PS5&pf_rd_p=fb7e83bb-5de2-4138-b523-47499c785148&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_s=merchandised-search-7&pf_rd_t=&pf_rd_i=976392031
+            - img "Routers & networking devices" [ref=e859]
+            - generic [ref=e861]: Routers & networking devices
+        - listitem [ref=e862]:
+          - link "Hard drives & SSDs" [ref=e863] [cursor=pointer]:
+            - /url: /s?bbn=1375393031&rh=n%3A976392031%2Cn%3A1375393031%2Cn%3A1375395031&ref_=cepc_sbc_atfbau_6&pf_rd_r=SA26QG04YY7TY8BX5PS5&pf_rd_p=fb7e83bb-5de2-4138-b523-47499c785148&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_s=merchandised-search-7&pf_rd_t=&pf_rd_i=976392031
+            - img "Hard drives & SSDs" [ref=e865]
+            - generic [ref=e867]: Hard drives & SSDs
+        - listitem [ref=e868]:
+          - link "Components" [ref=e869] [cursor=pointer]:
+            - /url: /b?node=1375344031&ref_=cepc_sbc_atfbau_7&pf_rd_r=SA26QG04YY7TY8BX5PS5&pf_rd_p=fb7e83bb-5de2-4138-b523-47499c785148&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_s=merchandised-search-7&pf_rd_t=&pf_rd_i=976392031
+            - img "Components" [ref=e871]
+            - generic [ref=e873]: Components
+      - generic [ref=e877]:
+        - generic [ref=e878]:
+          - heading "Deals on gaming accessories" [level=3] [ref=e880]:
+            - generic [ref=e881]: Deals on gaming accessories
+          - link "Explore more" [ref=e882] [cursor=pointer]:
+            - /url: /s?i=computers&bbn=1375248031&rh=n%3A10462251031%2Cp_36%3A93000-%2Cp_n_deal_type%3A26921224031%2Cp_6%3AAJ6SIZC8YQDZX&pf_rd_p=5837cdce-0dfa-4f75-8023-6908c46c2f64&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=EPL-GAMASS_cta
+            - generic [ref=e883]: Explore more
+        - region [ref=e886]:
+          - list [ref=e891]:
+            - listitem
+            - listitem [ref=e892]:
+              - 'link "Logitech G102 Light Sync Gaming Mouse with Customizable RGB Lighting, 6 Programmable Buttons, Gaming Grade Sensor, 8K DPI Tracking,16.8mn Color, Light Weight - Black ₹1,195.00 M.R.P: ₹2,295.00" [ref=e895] [cursor=pointer]':
+                - /url: /Logitech-G102-Customizable-Lighting-Programmable/dp/B08LT9BMPP?pf_rd_p=5837cdce-0dfa-4f75-8023-6908c46c2f64&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=EPL-GAMASS_B08LT9BMPP
+                - generic [ref=e897]:
+                  - generic [ref=e898]: Logitech G102 Light Sync Gaming Mouse with Customizable RGB Lighting, 6 Programmable Buttons, Gaming Grade Sensor, 8K DPI Tracking,16.8mn Color, Light Weight - Black
+                  - generic [ref=e900]:
+                    - generic [ref=e901]:
+                      - generic [ref=e902]: ₹1,195.00
+                      - generic [ref=e903]:
+                        - text: ₹
+                        - generic [ref=e904]: 1,195
+                        - text: "00"
+                    - generic [ref=e905]:
+                      - generic [ref=e906]: "M.R.P:"
+                      - generic [ref=e907]:
+                        - generic [ref=e908]: ₹2,295.00
+                        - text: ₹2,295.00
+            - listitem [ref=e909]:
+              - 'link "Razer BlackShark V2 X Smartchoice Wired Gaming Headset with Mic, 7.1 Surround Sound, 50mm Drivers, Memory Foam Cushions, Multi-Platform (PC/PS/Xbox/Switch/Mobile), 3.5mm Jack_Black ₹4,542.00 M.R.P: ₹7,999.00" [ref=e912] [cursor=pointer]':
+                - /url: /Razer-BlackShark-V2-Headset-RZ04-03240100-R3M1/dp/B08WBJHVYV?pf_rd_p=5837cdce-0dfa-4f75-8023-6908c46c2f64&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=EPL-GAMASS_B08WBJHVYV
+                - generic [ref=e914]:
+                  - generic [ref=e915]: Razer BlackShark V2 X Smartchoice Wired Gaming Headset with Mic, 7.1 Surround Sound, 50mm Drivers, Memory Foam Cushions, Multi-Platform (PC/PS/Xbox/Switch/Mobile), 3.5mm Jack_Black
+                  - generic [ref=e917]:
+                    - generic [ref=e918]:
+                      - generic [ref=e919]: ₹4,542.00
+                      - generic [ref=e920]:
+                        - text: ₹
+                        - generic [ref=e921]: 4,542
+                        - text: "00"
+                    - generic [ref=e922]:
+                      - generic [ref=e923]: "M.R.P:"
+                      - generic [ref=e924]:
+                        - generic [ref=e925]: ₹7,999.00
+                        - text: ₹7,999.00
+            - listitem [ref=e926]:
+              - 'link "Razer Bluetooth DeathAdder V2 X Hyper Speed: Award-Winning Ergonomic Design with 14000 DPI - Ultra-Fast Hyper Speed Wireless Ergonomic Gaming Mouse - 235hr Battery Life - RZ01-04130100-R3A1, Black ₹3,680.00 M.R.P: ₹14,999.00" [ref=e929] [cursor=pointer]':
+                - /url: /Razer-DeathAdder-Hyperspeed-Award-Winning-RZ01-04130100-R3A1/dp/B09KH6NFXG?pf_rd_p=5837cdce-0dfa-4f75-8023-6908c46c2f64&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=EPL-GAMASS_B09KH6NFXG
+                - generic [ref=e931]:
+                  - generic [ref=e932]: "Razer Bluetooth DeathAdder V2 X Hyper Speed: Award-Winning Ergonomic Design with 14000 DPI - Ultra-Fast Hyper Speed Wireless Ergonomic Gaming Mouse - 235hr Battery Life - RZ01-04130100-R3A1, Black"
+                  - generic [ref=e934]:
+                    - generic [ref=e935]:
+                      - generic [ref=e936]: ₹3,680.00
+                      - generic [ref=e937]:
+                        - text: ₹
+                        - generic [ref=e938]: 3,680
+                        - text: "00"
+                    - generic [ref=e939]:
+                      - generic [ref=e940]: "M.R.P:"
+                      - generic [ref=e941]:
+                        - generic [ref=e942]: ₹14,999.00
+                        - text: ₹14,999.00
+            - listitem [ref=e943]:
+              - 'link "Razer Cobra Smartchoice Wired Gaming Mouse, 58g Lightweight Design, Gen-3 Optical Switches, Chroma RGB Underglow, 8500 DPI Optical Sensor, Speedflex Cable, Black ₹3,245.00 M.R.P: ₹5,399.00" [ref=e946] [cursor=pointer]':
+                - /url: /Razer-Smartchoice-Lightweight-Underglow-Speedflex/dp/B0C5XNRVWM?pf_rd_p=5837cdce-0dfa-4f75-8023-6908c46c2f64&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=EPL-GAMASS_B0C5XNRVWM
+                - generic [ref=e948]:
+                  - generic [ref=e949]: Razer Cobra Smartchoice Wired Gaming Mouse, 58g Lightweight Design, Gen-3 Optical Switches, Chroma RGB Underglow, 8500 DPI Optical Sensor, Speedflex Cable, Black
+                  - generic [ref=e951]:
+                    - generic [ref=e952]:
+                      - generic [ref=e953]: ₹3,245.00
+                      - generic [ref=e954]:
+                        - text: ₹
+                        - generic [ref=e955]: 3,245
+                        - text: "00"
+                    - generic [ref=e956]:
+                      - generic [ref=e957]: "M.R.P:"
+                      - generic [ref=e958]:
+                        - generic [ref=e959]: ₹5,399.00
+                        - text: ₹5,399.00
+            - listitem [ref=e960]:
+              - 'link "Razer DeathAdder Essential Wired Gaming Mouse I Single-Color Green Lighting I 6400DPI Optical Sensor- Black - RZ01-03850100-R3M1 ₹1,695.00 M.R.P: ₹4,499.00" [ref=e963] [cursor=pointer]':
+                - /url: /Razer-DeathAdder-RZ01-02540100-R3M1-Essential-Optical/dp/B07F2GC4S9?pf_rd_p=5837cdce-0dfa-4f75-8023-6908c46c2f64&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=EPL-GAMASS_B07F2GC4S9
+                - generic [ref=e965]:
+                  - generic [ref=e966]: Razer DeathAdder Essential Wired Gaming Mouse I Single-Color Green Lighting I 6400DPI Optical Sensor- Black - RZ01-03850100-R3M1
+                  - generic [ref=e968]:
+                    - generic [ref=e969]:
+                      - generic [ref=e970]: ₹1,695.00
+                      - generic [ref=e971]:
+                        - text: ₹
+                        - generic [ref=e972]: 1,695
+                        - text: "00"
+                    - generic [ref=e973]:
+                      - generic [ref=e974]: "M.R.P:"
+                      - generic [ref=e975]:
+                        - generic [ref=e976]: ₹4,499.00
+                        - text: ₹4,499.00
+            - listitem [ref=e977]:
+              - 'link "Razer Basilisk V3 Smartchoice Wired Gaming Mouse, Ergonomic Design, 26K DPI Optical Sensor, 11 Programmable Buttons, HyperScroll Tilt Wheel, Chroma RGB Lighting, Black ₹5,100.00 M.R.P: ₹7,499.00" [ref=e980] [cursor=pointer]':
+                - /url: /Razer-Smartchoice-Ergonomic-Programmable-HyperScroll/dp/B097F8H1MC?pf_rd_p=5837cdce-0dfa-4f75-8023-6908c46c2f64&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=EPL-GAMASS_B097F8H1MC
+                - generic [ref=e982]:
+                  - generic [ref=e983]: Razer Basilisk V3 Smartchoice Wired Gaming Mouse, Ergonomic Design, 26K DPI Optical Sensor, 11 Programmable Buttons, HyperScroll Tilt Wheel, Chroma RGB Lighting, Black
+                  - generic [ref=e985]:
+                    - generic [ref=e986]:
+                      - generic [ref=e987]: ₹5,100.00
+                      - generic [ref=e988]:
+                        - text: ₹
+                        - generic [ref=e989]: 5,100
+                        - text: "00"
+                    - generic [ref=e990]:
+                      - generic [ref=e991]: "M.R.P:"
+                      - generic [ref=e992]:
+                        - generic [ref=e993]: ₹7,499.00
+                        - text: ₹7,499.00
+            - listitem [ref=e994]:
+              - 'link "Razer Kraken X Lite Ultralight Gaming Headset: 7.1 Surround Sound Capable - Lightweight Frame - Bendable Cardioid Microphone - for PC, Xbox, PS4, Nintendo Switch - Classic Black ₹3,859.00 M.R.P: ₹6,999.00" [ref=e997] [cursor=pointer]':
+                - /url: /Razer-Kraken-Ultralight-Gaming-Headset/dp/B07XC936P8?pf_rd_p=5837cdce-0dfa-4f75-8023-6908c46c2f64&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=EPL-GAMASS_B07XC936P8
+                - generic [ref=e999]:
+                  - generic [ref=e1000]: "Razer Kraken X Lite Ultralight Gaming Headset: 7.1 Surround Sound Capable - Lightweight Frame - Bendable Cardioid Microphone - for PC, Xbox, PS4, Nintendo Switch - Classic Black"
+                  - generic [ref=e1002]:
+                    - generic [ref=e1003]:
+                      - generic [ref=e1004]: ₹3,859.00
+                      - generic [ref=e1005]:
+                        - text: ₹
+                        - generic [ref=e1006]: 3,859
+                        - text: "00"
+                    - generic [ref=e1007]:
+                      - generic [ref=e1008]: "M.R.P:"
+                      - generic [ref=e1009]:
+                        - generic [ref=e1010]: ₹6,999.00
+                        - text: ₹6,999.00
+            - listitem [ref=e1011]:
+              - 'link "Razer BlackShark V2 X - White | Multi-Platform Wired Esports On Ear Headset - RZ04-03240700-R3M1 ₹4,452.00 M.R.P: ₹7,999.00" [ref=e1014] [cursor=pointer]':
+                - /url: /Razer-BlackShark-V2-Multi-Platform-RZ04-03240700-R3M1/dp/B09QFYNJMB?pf_rd_p=5837cdce-0dfa-4f75-8023-6908c46c2f64&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=EPL-GAMASS_B09QFYNJMB
+                - generic [ref=e1016]:
+                  - generic [ref=e1017]: Razer BlackShark V2 X - White | Multi-Platform Wired Esports On Ear Headset - RZ04-03240700-R3M1
+                  - generic [ref=e1019]:
+                    - generic [ref=e1020]:
+                      - generic [ref=e1021]: ₹4,452.00
+                      - generic [ref=e1022]:
+                        - text: ₹
+                        - generic [ref=e1023]: 4,452
+                        - text: "00"
+                    - generic [ref=e1024]:
+                      - generic [ref=e1025]: "M.R.P:"
+                      - generic [ref=e1026]:
+                        - generic [ref=e1027]: ₹7,999.00
+                        - text: ₹7,999.00
+            - listitem [ref=e1028]:
+              - 'link "Razer Barracuda X 2022 Smartchoice Wireless Gaming Headset Dual Wireless Bluetooth 2 4GHz Lightweight Design 40mm Drivers Detachable Mic 50Hr Battery USB C Multi Platform PC PS5 Switch Mobile Black ₹9,596.00 M.R.P: ₹14,999.00" [ref=e1031] [cursor=pointer]':
+                - /url: /Razer-Barracuda-Wireless-Multi-Platform-Packaging-RZ04-04430100-R3M1/dp/B09X5G16ZM?pf_rd_p=5837cdce-0dfa-4f75-8023-6908c46c2f64&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=EPL-GAMASS_B09X5G16ZM
+                - generic [ref=e1033]:
+                  - generic [ref=e1034]: Razer Barracuda X 2022 Smartchoice Wireless Gaming Headset Dual Wireless Bluetooth 2 4GHz Lightweight Design 40mm Drivers Detachable Mic 50Hr Battery USB C Multi Platform PC PS5 Switch Mobile Black
+                  - generic [ref=e1036]:
+                    - generic [ref=e1037]:
+                      - generic [ref=e1038]: ₹9,596.00
+                      - generic [ref=e1039]:
+                        - text: ₹
+                        - generic [ref=e1040]: 9,596
+                        - text: "00"
+                    - generic [ref=e1041]:
+                      - generic [ref=e1042]: "M.R.P:"
+                      - generic [ref=e1043]:
+                        - generic [ref=e1044]: ₹14,999.00
+                        - text: ₹14,999.00
+            - listitem [ref=e1045]:
+              - 'link "Razer DeathAdder V3 Pro Smartchoice Wireless Gaming Mouse, Ultra Lightweight Design, Focus Pro 30K Optical Sensor, HyperSpeed Wireless, Gen-3 Optical Switches, 5 Programmable Buttons, Black ₹10,955.00 M.R.P: ₹26,999.00" [ref=e1048] [cursor=pointer]':
+                - /url: /Razer-DeathAdder-Wireless-Gaming-Mouse/dp/B0B92HV8CP?pf_rd_p=5837cdce-0dfa-4f75-8023-6908c46c2f64&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=EPL-GAMASS_B0B92HV8CP
+                - generic [ref=e1050]:
+                  - generic [ref=e1051]: Razer DeathAdder V3 Pro Smartchoice Wireless Gaming Mouse, Ultra Lightweight Design, Focus Pro 30K Optical Sensor, HyperSpeed Wireless, Gen-3 Optical Switches, 5 Programmable Buttons, Black
+                  - generic [ref=e1053]:
+                    - generic [ref=e1054]:
+                      - generic [ref=e1055]: ₹10,955.00
+                      - generic [ref=e1056]:
+                        - text: ₹
+                        - generic [ref=e1057]: 10,955
+                        - text: "00"
+                    - generic [ref=e1058]:
+                      - generic [ref=e1059]: "M.R.P:"
+                      - generic [ref=e1060]:
+                        - generic [ref=e1061]: ₹26,999.00
+                        - text: ₹26,999.00
+            - listitem [ref=e1062]:
+              - 'link "HP GK400F Mechanical Gaming Keyboard,dust & Spill Resistant,RGB Backlit Keys,Metal Panel,Full-Sized Keyboard Design ₹1,708.00 M.R.P: ₹2,499.00" [ref=e1065] [cursor=pointer]':
+                - /url: /HP-Mechanical-Keyboard-Resistant-Full-Sized/dp/B0CW2VHDS4?pf_rd_p=5837cdce-0dfa-4f75-8023-6908c46c2f64&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=EPL-GAMASS_B0CW2VHDS4
+                - generic [ref=e1067]:
+                  - generic [ref=e1068]: HP GK400F Mechanical Gaming Keyboard,dust & Spill Resistant,RGB Backlit Keys,Metal Panel,Full-Sized Keyboard Design
+                  - generic [ref=e1070]:
+                    - generic [ref=e1071]:
+                      - generic [ref=e1072]: ₹1,708.00
+                      - generic [ref=e1073]:
+                        - text: ₹
+                        - generic [ref=e1074]: 1,708
+                        - text: "00"
+                    - generic [ref=e1075]:
+                      - generic [ref=e1076]: "M.R.P:"
+                      - generic [ref=e1077]:
+                        - generic [ref=e1078]: ₹2,499.00
+                        - text: ₹2,499.00
+            - listitem [ref=e1079]:
+              - 'link "Cosmic Byte ARES Wireless Controller for PC, Upgraded Hall Effect Joystick & Triggers, Dual Vibration, Backit LED Buttons, Turbo, Auto Turbo (Black) ₹1,399.00 M.R.P: ₹2,199.00" [ref=e1082] [cursor=pointer]':
+                - /url: /Cosmic-Byte-ARES-Wireless-Controller/dp/B09GRW4V2H?pf_rd_p=5837cdce-0dfa-4f75-8023-6908c46c2f64&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=EPL-GAMASS_B09GRW4V2H
+                - generic [ref=e1084]:
+                  - generic [ref=e1085]: Cosmic Byte ARES Wireless Controller for PC, Upgraded Hall Effect Joystick & Triggers, Dual Vibration, Backit LED Buttons, Turbo, Auto Turbo (Black)
+                  - generic [ref=e1087]:
+                    - generic [ref=e1088]:
+                      - generic [ref=e1089]: ₹1,399.00
+                      - generic [ref=e1090]:
+                        - text: ₹
+                        - generic [ref=e1091]: 1,399
+                        - text: "00"
+                    - generic [ref=e1092]:
+                      - generic [ref=e1093]: "M.R.P:"
+                      - generic [ref=e1094]:
+                        - generic [ref=e1095]: ₹2,199.00
+                        - text: ₹2,199.00
+      - generic [ref=e1099]:
+        - generic [ref=e1100]:
+          - heading "Deals on Headphones" [level=3] [ref=e1102]:
+            - generic [ref=e1103]: Deals on Headphones
+          - link "Explore more" [ref=e1104] [cursor=pointer]:
+            - /url: /l/1388921031?pf_rd_p=d2d89470-a722-4e9b-869d-294476b44edd&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=Jup-LapsUNrec_cta
+            - generic [ref=e1105]: Explore more
+        - region [ref=e1108]:
+          - list [ref=e1113]:
+            - listitem [ref=e1114]:
+              - 'link "JBL C100SI Wired In Ear Headphones With Mic, Pure Bass Sound, One Button Multi-Function Remote, Premium Metallic Finish, Angled Buds For Comfort Fit (Black) ₹649.00 M.R.P: ₹1,290.00" [ref=e1117] [cursor=pointer]':
+                - /url: /JBL-Headphones-Multi-function-Premium-Metallic/dp/B01DEWVZ2C?pf_rd_p=d2d89470-a722-4e9b-869d-294476b44edd&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=Jup-LapsUNrec_B01DEWVZ2C
+                - generic [ref=e1119]:
+                  - generic [ref=e1120]: JBL C100SI Wired In Ear Headphones With Mic, Pure Bass Sound, One Button Multi-Function Remote, Premium Metallic Finish, Angled Buds For Comfort Fit (Black)
+                  - generic [ref=e1122]:
+                    - generic [ref=e1123]:
+                      - generic [ref=e1124]: ₹649.00
+                      - generic [ref=e1125]:
+                        - text: ₹
+                        - generic [ref=e1126]: "649"
+                        - text: "00"
+                    - generic [ref=e1127]:
+                      - generic [ref=e1128]: "M.R.P:"
+                      - generic [ref=e1129]:
+                        - generic [ref=e1130]: ₹1,290.00
+                        - text: ₹1,290.00
+            - listitem [ref=e1131]:
+              - 'link "Boat BassHeads 225 in-Ear Super Extra Bass Wired Headphones, with Mic (Black) ₹599.00 M.R.P: ₹999.00" [ref=e1134] [cursor=pointer]':
+                - /url: /BassHeads-225-Super-Extra-Headphones/dp/B01M9C51T9?pf_rd_p=d2d89470-a722-4e9b-869d-294476b44edd&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=Jup-LapsUNrec_B01M9C51T9
+                - generic [ref=e1136]:
+                  - generic [ref=e1137]: Boat BassHeads 225 in-Ear Super Extra Bass Wired Headphones, with Mic (Black)
+                  - generic [ref=e1139]:
+                    - generic [ref=e1140]:
+                      - generic [ref=e1141]: ₹599.00
+                      - generic [ref=e1142]:
+                        - text: ₹
+                        - generic [ref=e1143]: "599"
+                        - text: "00"
+                    - generic [ref=e1144]:
+                      - generic [ref=e1145]: "M.R.P:"
+                      - generic [ref=e1146]:
+                        - generic [ref=e1147]: ₹999.00
+                        - text: ₹999.00
+            - listitem [ref=e1148]:
+              - 'link "boAt Bassheads 105 Wired in Ear Earphones with Mic (Black) ₹399.00 M.R.P: ₹999.00" [ref=e1151] [cursor=pointer]':
+                - /url: /boAt-Bassheads-105-Wired-Headset/dp/B08YYQ3WFG?pf_rd_p=d2d89470-a722-4e9b-869d-294476b44edd&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=Jup-LapsUNrec_B08YYQ3WFG
+                - generic [ref=e1153]:
+                  - generic [ref=e1154]: boAt Bassheads 105 Wired in Ear Earphones with Mic (Black)
+                  - generic [ref=e1156]:
+                    - generic [ref=e1157]:
+                      - generic [ref=e1158]: ₹399.00
+                      - generic [ref=e1159]:
+                        - text: ₹
+                        - generic [ref=e1160]: "399"
+                        - text: "00"
+                    - generic [ref=e1161]:
+                      - generic [ref=e1162]: "M.R.P:"
+                      - generic [ref=e1163]:
+                        - generic [ref=e1164]: ₹999.00
+                        - text: ₹999.00
+            - listitem [ref=e1165]:
+              - 'link "JBL Tune 310 Wired in Ear Type C Headphones, Hi-Res Audio with Digital-to-Analog Converter, 3-Button EQ Preset Remote with Microphone, Tangle-Free Flat Cable, Compatible with USB-C Devices (Black) ₹1,299.00 M.R.P: ₹1,999.00" [ref=e1168] [cursor=pointer]':
+                - /url: /JBL-Headphones-Microphone-Tangle-Free-Compatible/dp/B0CTMTYY1D?pf_rd_p=d2d89470-a722-4e9b-869d-294476b44edd&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=Jup-LapsUNrec_B0CTMTYY1D
+                - generic [ref=e1170]:
+                  - generic [ref=e1171]: JBL Tune 310 Wired in Ear Type C Headphones, Hi-Res Audio with Digital-to-Analog Converter, 3-Button EQ Preset Remote with Microphone, Tangle-Free Flat Cable, Compatible with USB-C Devices (Black)
+                  - generic [ref=e1173]:
+                    - generic [ref=e1174]:
+                      - generic [ref=e1175]: ₹1,299.00
+                      - generic [ref=e1176]:
+                        - text: ₹
+                        - generic [ref=e1177]: 1,299
+                        - text: "00"
+                    - generic [ref=e1178]:
+                      - generic [ref=e1179]: "M.R.P:"
+                      - generic [ref=e1180]:
+                        - generic [ref=e1181]: ₹1,999.00
+                        - text: ₹1,999.00
+            - listitem [ref=e1182]:
+              - 'link "JBL C200SI, Premium in Ear Wired Earphones with Mic, Signature Sound, One Button Multi-Function Remote, Premium Metallic Finish, Angled Earbuds for Comfort fit (Gun Metal) ₹798.00 M.R.P: ₹1,499.00" [ref=e1185] [cursor=pointer]':
+                - /url: /C200SI-Earphones-Signature-Multi-Function-Metallic/dp/B07DFYSGS3?pf_rd_p=d2d89470-a722-4e9b-869d-294476b44edd&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=Jup-LapsUNrec_B07DFYSGS3
+                - generic [ref=e1187]:
+                  - generic [ref=e1188]: JBL C200SI, Premium in Ear Wired Earphones with Mic, Signature Sound, One Button Multi-Function Remote, Premium Metallic Finish, Angled Earbuds for Comfort fit (Gun Metal)
+                  - generic [ref=e1190]:
+                    - generic [ref=e1191]:
+                      - generic [ref=e1192]: ₹798.00
+                      - generic [ref=e1193]:
+                        - text: ₹
+                        - generic [ref=e1194]: "798"
+                        - text: "00"
+                    - generic [ref=e1195]:
+                      - generic [ref=e1196]: "M.R.P:"
+                      - generic [ref=e1197]:
+                        - generic [ref=e1198]: ₹1,499.00
+                        - text: ₹1,499.00
+            - listitem [ref=e1199]:
+              - 'link "JBL Tune 310 Wired in Ear Type C Headphones, Hi-Res Audio with Digital-to-Analog Converter, 3-Button EQ Preset Remote with Microphone, Tangle-Free Flat Cable, Compatible with USB-C Devices (Blue) ₹1,499.00 M.R.P: ₹1,999.00" [ref=e1202] [cursor=pointer]':
+                - /url: /JBL-Headphones-Microphone-Tangle-Free-Compatible/dp/B0CTMVFL59?pf_rd_p=d2d89470-a722-4e9b-869d-294476b44edd&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=Jup-LapsUNrec_B0CTMVFL59
+                - generic [ref=e1204]:
+                  - generic [ref=e1205]: JBL Tune 310 Wired in Ear Type C Headphones, Hi-Res Audio with Digital-to-Analog Converter, 3-Button EQ Preset Remote with Microphone, Tangle-Free Flat Cable, Compatible with USB-C Devices (Blue)
+                  - generic [ref=e1207]:
+                    - generic [ref=e1208]:
+                      - generic [ref=e1209]: ₹1,499.00
+                      - generic [ref=e1210]:
+                        - text: ₹
+                        - generic [ref=e1211]: 1,499
+                        - text: "00"
+                    - generic [ref=e1212]:
+                      - generic [ref=e1213]: "M.R.P:"
+                      - generic [ref=e1214]:
+                        - generic [ref=e1215]: ₹1,999.00
+                        - text: ₹1,999.00
+            - listitem [ref=e1216]:
+              - 'link "JBL C100SI Wired In Ear Headphones with Mic, JBL Pure Bass Sound, One Button Multi-function Remote, Premium Metallic Finish, Angled Buds for Comfort fit (Red) ₹649.00 M.R.P: ₹1,299.00" [ref=e1219] [cursor=pointer]':
+                - /url: /Headphones-Multi-function-Premium-Metallic-Comfort/dp/B01DF26V7A?pf_rd_p=d2d89470-a722-4e9b-869d-294476b44edd&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=Jup-LapsUNrec_B01DF26V7A
+                - generic [ref=e1221]:
+                  - generic [ref=e1222]: JBL C100SI Wired In Ear Headphones with Mic, JBL Pure Bass Sound, One Button Multi-function Remote, Premium Metallic Finish, Angled Buds for Comfort fit (Red)
+                  - generic [ref=e1224]:
+                    - generic [ref=e1225]:
+                      - generic [ref=e1226]: ₹649.00
+                      - generic [ref=e1227]:
+                        - text: ₹
+                        - generic [ref=e1228]: "649"
+                        - text: "00"
+                    - generic [ref=e1229]:
+                      - generic [ref=e1230]: "M.R.P:"
+                      - generic [ref=e1231]:
+                        - generic [ref=e1232]: ₹1,299.00
+                        - text: ₹1,299.00
+            - listitem [ref=e1233]:
+              - 'link "Sennheiser IE 300 Hi-Res Audiophile in Ear Wired Headphones,German Design,7Mm XWB Driver,Detachable MMCX Cable,Rich Bass,Perfect Or Gaming,Noise-Isolating Fit,Silicone & Foam Tips,2Y Warranty,Black ₹13,990.00 M.R.P: ₹32,990.00" [ref=e1236] [cursor=pointer]':
+                - /url: /Sennheiser-IE-300-Wired-Headphone/dp/B08SW56CDQ?pf_rd_p=d2d89470-a722-4e9b-869d-294476b44edd&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=Jup-LapsUNrec_B08SW56CDQ
+                - generic [ref=e1238]:
+                  - generic [ref=e1239]: Sennheiser IE 300 Hi-Res Audiophile in Ear Wired Headphones,German Design,7Mm XWB Driver,Detachable MMCX Cable,Rich Bass,Perfect Or Gaming,Noise-Isolating Fit,Silicone & Foam Tips,2Y Warranty,Black
+                  - generic [ref=e1241]:
+                    - generic [ref=e1242]:
+                      - generic [ref=e1243]: ₹13,990.00
+                      - generic [ref=e1244]:
+                        - text: ₹
+                        - generic [ref=e1245]: 13,990
+                        - text: "00"
+                    - generic [ref=e1246]:
+                      - generic [ref=e1247]: "M.R.P:"
+                      - generic [ref=e1248]:
+                        - generic [ref=e1249]: ₹32,990.00
+                        - text: ₹32,990.00
+            - listitem [ref=e1250]:
+              - 'link "Sennheiser HD 560S Open-Back Audiophile Over Ear Wired Headphones,Neutral Reference Sound,Angled Transducers,Wide Soundstage,Detachable Cable,Lightweight,Natural Sound for Gaming,2Y Warranty ₹13,990.00 M.R.P: ₹20,990.00" [ref=e1253] [cursor=pointer]':
+                - /url: /Sennheiser-HD-560S-560s/dp/B08HNFV61M?pf_rd_p=d2d89470-a722-4e9b-869d-294476b44edd&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=Jup-LapsUNrec_B08HNFV61M
+                - generic [ref=e1255]:
+                  - generic [ref=e1256]: Sennheiser HD 560S Open-Back Audiophile Over Ear Wired Headphones,Neutral Reference Sound,Angled Transducers,Wide Soundstage,Detachable Cable,Lightweight,Natural Sound for Gaming,2Y Warranty
+                  - generic [ref=e1258]:
+                    - generic [ref=e1259]:
+                      - generic [ref=e1260]: ₹13,990.00
+                      - generic [ref=e1261]:
+                        - text: ₹
+                        - generic [ref=e1262]: 13,990
+                        - text: "00"
+                    - generic [ref=e1263]:
+                      - generic [ref=e1264]: "M.R.P:"
+                      - generic [ref=e1265]:
+                        - generic [ref=e1266]: ₹20,990.00
+                        - text: ₹20,990.00
+            - listitem [ref=e1267]:
+              - 'link "Sennheiser CX 80s Wired in Ear Earphones with in-Line Microphone, Superior Sound, One Button Smart Control, Lightweight Design, 3.5mm Jack, 3 Ear Tip Sizes, 2Y Warranty, ‎Voice Control, Black ₹1,790.00 M.R.P: ₹2,490.00" [ref=e1270] [cursor=pointer]':
+                - /url: /Sennheiser-CX-80S-Headphones-One-Button/dp/B084X7Y51M?pf_rd_p=d2d89470-a722-4e9b-869d-294476b44edd&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=Jup-LapsUNrec_B084X7Y51M
+                - generic [ref=e1272]:
+                  - generic [ref=e1273]: Sennheiser CX 80s Wired in Ear Earphones with in-Line Microphone, Superior Sound, One Button Smart Control, Lightweight Design, 3.5mm Jack, 3 Ear Tip Sizes, 2Y Warranty, ‎Voice Control, Black
+                  - generic [ref=e1275]:
+                    - generic [ref=e1276]:
+                      - generic [ref=e1277]: ₹1,790.00
+                      - generic [ref=e1278]:
+                        - text: ₹
+                        - generic [ref=e1279]: 1,790
+                        - text: "00"
+                    - generic [ref=e1280]:
+                      - generic [ref=e1281]: "M.R.P:"
+                      - generic [ref=e1282]:
+                        - generic [ref=e1283]: ₹2,490.00
+                        - text: ₹2,490.00
+      - generic [ref=e1286]:
+        - generic [ref=e1288]:
+          - heading "Up to 70% off | Gaming Accessories" [level=2] [ref=e1290]
+          - separator [ref=e1291]
+        - group [ref=e1292]:
+          - group [ref=e1296]:
+            - list [ref=e1297]:
+              - listitem [ref=e1298]:
+                - generic [ref=e1299]:
+                  - link "Razer Huntsman Mini - Mercury Edition - 60% Optical Gaming Keyboard (Clicky Purple Switch) - FRML Packaging Razer Huntsman Mini - Mercury Edition - 60% Optical Gaming Keyboard (Clicky Purple Switch) - FRML Packaging Razer" [ref=e1300] [cursor=pointer]:
+                    - /url: https://www.amazon.in/Razer-Huntsman-Mini-WiredOptical-Packaging/dp/B08BZDLVNN/ref=s9_acsd_al_ot_c2_x_0_t?_encoding=UTF8&pf_rd_m=A21TJRUUN4KGV&pf_rd_s=merchandised-search-14&pf_rd_r=SA26QG04YY7TY8BX5PS5&pf_rd_p=ff7b2f18-01f5-4399-85a9-ab29f1b5976a&pf_rd_t=&pf_rd_i=976392031
+                    - img "Razer Huntsman Mini - Mercury Edition - 60% Optical Gaming Keyboard (Clicky Purple Switch) - FRML Packaging" [ref=e1302]
+                    - generic [ref=e1304]:
+                      - generic [ref=e1305]: Razer Huntsman Mini - Mercury Edition - 60% Optical Gaming Keyboard (Clicky Purple Switch) - FRML Packaging
+                      - generic [ref=e1306]: Razer Huntsman Mini - Mercury Edition - 60…
+                    - generic [ref=e1308]:
+                      - generic [ref=e1309]: Razer
+                      - generic [ref=e1310]: Razer
+                  - generic [ref=e1311]:
+                    - generic [ref=e1312]:
+                      - generic [ref=e1313]: ₹8,786.00
+                      - generic [ref=e1314]:
+                        - text: ₹
+                        - generic [ref=e1315]:
+                          - text: 8,786
+                          - generic [ref=e1316]: .
+                        - text: "00"
+                    - generic [ref=e1317]:
+                      - generic [ref=e1318]: ₹15,999.00
+                      - text: ₹15,999.00
+                  - generic [ref=e1319]:
+                    - generic "4.5 out of 5 stars" [ref=e1320]:
+                      - generic [ref=e1321]: 4.5 out of 5 stars
+                    - text: 1,643
+              - listitem [ref=e1322]:
+                - generic [ref=e1323]:
+                  - link "Razer Barracuda X 2022 Smartchoice Wireless Gaming Headset Dual Wireless Bluetooth 2 4GHz Lightweight Design 4 Razer Barracuda X 2022 Smartchoice Wireless Gaming Headset Dual Wireless Bluetooth 2 4GHz Lightweight Design 40mm Drivers Detachable Mic 50Hr Battery USB C Multi Platform PC PS5 Switch Mobile Black Razer" [ref=e1324] [cursor=pointer]:
+                    - /url: https://www.amazon.in/Razer-Barracuda-Wireless-Multi-Platform-Packaging-RZ04-04430100-R3M1/dp/B09X5G16ZM/ref=s9_acsd_al_ot_c2_x_1_t?_encoding=UTF8&pf_rd_m=A21TJRUUN4KGV&pf_rd_s=merchandised-search-14&pf_rd_r=SA26QG04YY7TY8BX5PS5&pf_rd_p=ff7b2f18-01f5-4399-85a9-ab29f1b5976a&pf_rd_t=&pf_rd_i=976392031
+                    - img "Razer Barracuda X 2022 Smartchoice Wireless Gaming Headset Dual Wireless Bluetooth 2 4GHz Lightweight Design 4" [ref=e1326]
+                    - generic [ref=e1328]:
+                      - generic [ref=e1329]: Razer Barracuda X 2022 Smartchoice Wireless Gaming Headset Dual Wireless Bluetooth 2 4GHz Lightweight Design 40mm Drivers Detachable Mic 50Hr Battery USB C Multi Platform PC PS5 Switch Mobile Black
+                      - generic [ref=e1330]: Razer Barracuda X 2022 Smartchoice Wi…
+                    - generic [ref=e1332]:
+                      - generic [ref=e1333]: Razer
+                      - generic [ref=e1334]: Razer
+                  - generic [ref=e1335]:
+                    - generic [ref=e1336]:
+                      - generic [ref=e1337]: ₹9,596.00
+                      - generic [ref=e1338]:
+                        - text: ₹
+                        - generic [ref=e1339]:
+                          - text: 9,596
+                          - generic [ref=e1340]: .
+                        - text: "00"
+                    - generic [ref=e1341]:
+                      - generic [ref=e1342]: ₹14,999.00
+                      - text: ₹14,999.00
+                  - generic [ref=e1343]:
+                    - generic "4.2 out of 5 stars" [ref=e1344]:
+                      - generic [ref=e1345]: 4.2 out of 5 stars
+                    - text: 1,617
+              - listitem [ref=e1346]:
+                - generic [ref=e1347]:
+                  - link "Razer Naga V2 Pro Smartchoice Wireless Gaming Mouse, Interchangeable Side Plates (2/6/12 Buttons), 20K DPI Opt Razer Naga V2 Pro Smartchoice Wireless Gaming Mouse, Interchangeable Side Plates (2/6/12 Buttons), 20K DPI Optical Sensor, Fast Switches, Chroma RGB Lighting, Black Razer" [ref=e1348] [cursor=pointer]:
+                    - /url: https://www.amazon.in/Razer-Wireless-Gaming-Mouse-Lighting-RZ01-04400100-R3A1/dp/B0BW414LJL/ref=s9_acsd_al_ot_c2_x_2_t?_encoding=UTF8&pf_rd_m=A21TJRUUN4KGV&pf_rd_s=merchandised-search-14&pf_rd_r=SA26QG04YY7TY8BX5PS5&pf_rd_p=ff7b2f18-01f5-4399-85a9-ab29f1b5976a&pf_rd_t=&pf_rd_i=976392031
+                    - img "Razer Naga V2 Pro Smartchoice Wireless Gaming Mouse, Interchangeable Side Plates (2/6/12 Buttons), 20K DPI Opt" [ref=e1350]
+                    - generic [ref=e1352]:
+                      - generic [ref=e1353]: Razer Naga V2 Pro Smartchoice Wireless Gaming Mouse, Interchangeable Side Plates (2/6/12 Buttons), 20K DPI Optical Sensor, Fast Switches, Chroma RGB Lighting, Black
+                      - generic [ref=e1354]: Razer Naga V2 Pro Smartchoice Wireless…
+                    - generic [ref=e1356]:
+                      - generic [ref=e1357]: Razer
+                      - generic [ref=e1358]: Razer
+                  - generic [ref=e1359]:
+                    - generic [ref=e1360]:
+                      - generic [ref=e1361]: ₹20,030.00
+                      - generic [ref=e1362]:
+                        - text: ₹
+                        - generic [ref=e1363]:
+                          - text: 20,030
+                          - generic [ref=e1364]: .
+                        - text: "00"
+                    - generic [ref=e1365]:
+                      - generic [ref=e1366]: ₹31,999.00
+                      - text: ₹31,999.00
+                  - generic [ref=e1367]:
+                    - generic "3.8 out of 5 stars" [ref=e1368]:
+                      - generic [ref=e1369]: 3.8 out of 5 stars
+                    - text: "41"
+              - listitem [ref=e1370]:
+                - generic [ref=e1371]:
+                  - link "Ant Esports GM600 RGB Wired Gaming Mouse 7200 DPI Optical Sensor 6 Adjustable DPI Levels 7 Programmable Button Ant Esports GM600 RGB Wired Gaming Mouse 7200 DPI Optical Sensor 6 Adjustable DPI Levels 7 Programmable Buttons HUANO 50M Click Switches 14 RGB Modes Ergonomic USB Mouse for PC Laptop Gaming & Office Ant Esports" [ref=e1372] [cursor=pointer]:
+                    - /url: https://www.amazon.in/Ant-Esports-GM600-RGB-Programable/dp/B09NDK13WW/ref=s9_acsd_al_ot_c2_x_3_t?_encoding=UTF8&pf_rd_m=A21TJRUUN4KGV&pf_rd_s=merchandised-search-14&pf_rd_r=SA26QG04YY7TY8BX5PS5&pf_rd_p=ff7b2f18-01f5-4399-85a9-ab29f1b5976a&pf_rd_t=&pf_rd_i=976392031
+                    - img "Ant Esports GM600 RGB Wired Gaming Mouse 7200 DPI Optical Sensor 6 Adjustable DPI Levels 7 Programmable Button" [ref=e1374]
+                    - generic [ref=e1376]:
+                      - generic [ref=e1377]: Ant Esports GM600 RGB Wired Gaming Mouse 7200 DPI Optical Sensor 6 Adjustable DPI Levels 7 Programmable Buttons HUANO 50M Click Switches 14 RGB Modes Ergonomic USB Mouse for PC Laptop Gaming & Office
+                      - generic [ref=e1378]: Ant Esports GM600 RGB Wired Gaming…
+                    - generic [ref=e1380]:
+                      - generic [ref=e1381]: Ant Esports
+                      - generic [ref=e1382]: Ant Esports
+                  - generic [ref=e1383]:
+                    - generic [ref=e1384]:
+                      - generic [ref=e1385]: ₹629.00
+                      - generic [ref=e1386]:
+                        - text: ₹
+                        - generic [ref=e1387]:
+                          - text: "629"
+                          - generic [ref=e1388]: .
+                        - text: "00"
+                    - generic [ref=e1389]:
+                      - generic [ref=e1390]: ₹1,999.00
+                      - text: ₹1,999.00
+                  - generic [ref=e1391]:
+                    - generic "4.4 out of 5 stars" [ref=e1392]:
+                      - generic [ref=e1393]: 4.4 out of 5 stars
+                    - text: "957"
+              - listitem [ref=e1394]:
+                - generic [ref=e1395]:
+                  - link "Razer BlackShark V2 X Smartchoice Wired Gaming Headset with Mic, 7.1 Surround Sound, 50mm Drivers, Memory Foam Razer BlackShark V2 X Smartchoice Wired Gaming Headset with Mic, 7.1 Surround Sound, 50mm Drivers, Memory Foam Cushions, Multi-Platform (PC/PS/Xbox/Switch/Mobile), 3.5mm Jack_Black Razer" [ref=e1396] [cursor=pointer]:
+                    - /url: https://www.amazon.in/Razer-BlackShark-V2-Headset-RZ04-03240100-R3M1/dp/B08WBJHVYV/ref=s9_acsd_al_ot_c2_x_4_t?_encoding=UTF8&pf_rd_m=A21TJRUUN4KGV&pf_rd_s=merchandised-search-14&pf_rd_r=SA26QG04YY7TY8BX5PS5&pf_rd_p=ff7b2f18-01f5-4399-85a9-ab29f1b5976a&pf_rd_t=&pf_rd_i=976392031
+                    - img "Razer BlackShark V2 X Smartchoice Wired Gaming Headset with Mic, 7.1 Surround Sound, 50mm Drivers, Memory Foam" [ref=e1398]
+                    - generic [ref=e1400]:
+                      - generic [ref=e1401]: Razer BlackShark V2 X Smartchoice Wired Gaming Headset with Mic, 7.1 Surround Sound, 50mm Drivers, Memory Foam Cushions, Multi-Platform (PC/PS/Xbox/Switch/Mobile), 3.5mm Jack_Black
+                      - generic [ref=e1402]: Razer BlackShark V2 X Smartchoice Wired G…
+                    - generic [ref=e1404]:
+                      - generic [ref=e1405]: Razer
+                      - generic [ref=e1406]: Razer
+                  - generic [ref=e1407]:
+                    - generic [ref=e1408]:
+                      - generic [ref=e1409]: ₹4,542.00
+                      - generic [ref=e1410]:
+                        - text: ₹
+                        - generic [ref=e1411]:
+                          - text: 4,542
+                          - generic [ref=e1412]: .
+                        - text: "00"
+                    - generic [ref=e1413]:
+                      - generic [ref=e1414]: ₹7,999.00
+                      - text: ₹7,999.00
+                  - generic [ref=e1415]:
+                    - generic "4.4 out of 5 stars" [ref=e1416]:
+                      - generic [ref=e1417]: 4.4 out of 5 stars
+                    - text: 4,636
+              - listitem [ref=e1418]:
+                - generic [ref=e1419]:
+                  - link "Zowie BenQ U2 Wireless Gaming Mouse for Esports, Sport Science, Enhanced Receiver, 60g Lightweight, 3200 DPI 3 Zowie BenQ U2 Wireless Gaming Mouse for Esports, Sport Science, Enhanced Receiver, 60g Lightweight, 3200 DPI 3395 Sensor, 5 Buttons, 70 Hr Battery Life BenQ" [ref=e1420] [cursor=pointer]:
+                    - /url: https://www.amazon.in/BenQ-U2-Wireless-enhanced-lightweight/dp/B0CT8KVMWC/ref=s9_acsd_al_ot_c2_x_5_t?_encoding=UTF8&pf_rd_m=A21TJRUUN4KGV&pf_rd_s=merchandised-search-14&pf_rd_r=SA26QG04YY7TY8BX5PS5&pf_rd_p=ff7b2f18-01f5-4399-85a9-ab29f1b5976a&pf_rd_t=&pf_rd_i=976392031
+                    - img "Zowie BenQ U2 Wireless Gaming Mouse for Esports, Sport Science, Enhanced Receiver, 60g Lightweight, 3200 DPI 3" [ref=e1422]
+                    - generic [ref=e1424]:
+                      - generic [ref=e1425]: Zowie BenQ U2 Wireless Gaming Mouse for Esports, Sport Science, Enhanced Receiver, 60g Lightweight, 3200 DPI 3395 Sensor, 5 Buttons, 70 Hr Battery Life
+                      - generic [ref=e1426]: Zowie BenQ U2 Wireless Gaming Mo…
+                    - generic [ref=e1428]:
+                      - generic [ref=e1429]: BenQ
+                      - generic [ref=e1430]: BenQ
+                  - generic [ref=e1431]:
+                    - generic [ref=e1432]:
+                      - generic [ref=e1433]: ₹7,490.00
+                      - generic [ref=e1434]:
+                        - text: ₹
+                        - generic [ref=e1435]:
+                          - text: 7,490
+                          - generic [ref=e1436]: .
+                        - text: "00"
+                    - generic [ref=e1437]:
+                      - generic [ref=e1438]: ₹19,900.00
+                      - text: ₹19,900.00
+                  - generic [ref=e1439]:
+                    - generic "4.3 out of 5 stars" [ref=e1440]:
+                      - generic [ref=e1441]: 4.3 out of 5 stars
+                    - text: "53"
+              - listitem [ref=e1442]:
+                - generic [ref=e1443]:
+                  - link "HyperX Cloud II Smartchoice Wired Gaming Headset for PC, PS5 / PS4. Active Noise Cancellation, Over Ear, circu HyperX Cloud II Smartchoice Wired Gaming Headset for PC, PS5 / PS4. Active Noise Cancellation, Over Ear, circumaural, Closed Back, HyperX Virtual 7.1 Surround Sound - Black-Red (4P5M0AA) HyperX" [ref=e1444] [cursor=pointer]:
+                    - /url: https://www.amazon.in/HyperX-Cloud-Gaming-Headset-Xbox/dp/B00SAYCXWG/ref=s9_acsd_al_ot_c2_x_6_t?_encoding=UTF8&pf_rd_m=A21TJRUUN4KGV&pf_rd_s=merchandised-search-14&pf_rd_r=SA26QG04YY7TY8BX5PS5&pf_rd_p=ff7b2f18-01f5-4399-85a9-ab29f1b5976a&pf_rd_t=&pf_rd_i=976392031
+                    - img "HyperX Cloud II Smartchoice Wired Gaming Headset for PC, PS5 / PS4. Active Noise Cancellation, Over Ear, circu" [ref=e1446]
+                    - generic [ref=e1448]:
+                      - generic [ref=e1449]: HyperX Cloud II Smartchoice Wired Gaming Headset for PC, PS5 / PS4. Active Noise Cancellation, Over Ear, circumaural, Closed Back, HyperX Virtual 7.1 Surround Sound - Black-Red (4P5M0AA)
+                      - generic [ref=e1450]: HyperX Cloud II Smartchoice Wired G…
+                    - generic [ref=e1452]:
+                      - generic [ref=e1453]: HyperX
+                      - generic [ref=e1454]: HyperX
+                  - generic [ref=e1455]:
+                    - generic [ref=e1456]:
+                      - generic [ref=e1457]: ₹5,999.00
+                      - generic [ref=e1458]:
+                        - text: ₹
+                        - generic [ref=e1459]:
+                          - text: 5,999
+                          - generic [ref=e1460]: .
+                        - text: "00"
+                    - generic [ref=e1461]:
+                      - generic [ref=e1462]: ₹12,987.00
+                      - text: ₹12,987.00
+                  - generic [ref=e1463]:
+                    - generic "4.3 out of 5 stars" [ref=e1464]:
+                      - generic [ref=e1465]: 4.3 out of 5 stars
+                    - text: 97,492
+              - listitem [ref=e1466]:
+                - generic [ref=e1467]:
+                  - link "Logitech G Pro X Gaming Wired Over Ear Headphones with Mic Blue Voice DTS Headphone:X 2.0, 50Mm Pro-G Drivers, Logitech G Pro X Gaming Wired Over Ear Headphones with Mic Blue Voice DTS Headphone:X 2.0, 50Mm Pro-G Drivers, 2.0 Surround Sound for Esports Gaming, Pc/Ps/Xbox/Vr/Nintendo Switch - (Black) Logitech G" [ref=e1468] [cursor=pointer]:
+                    - /url: https://www.amazon.in/Logitech-Gaming-Headset-Blue-Technology/dp/B07VMS65WX/ref=s9_acsd_al_ot_c2_x_7_t?_encoding=UTF8&pf_rd_m=A21TJRUUN4KGV&pf_rd_s=merchandised-search-14&pf_rd_r=SA26QG04YY7TY8BX5PS5&pf_rd_p=ff7b2f18-01f5-4399-85a9-ab29f1b5976a&pf_rd_t=&pf_rd_i=976392031
+                    - img "Logitech G Pro X Gaming Wired Over Ear Headphones with Mic Blue Voice DTS Headphone:X 2.0, 50Mm Pro-G Drivers," [ref=e1470]
+                    - generic [ref=e1472]:
+                      - generic [ref=e1473]: Logitech G Pro X Gaming Wired Over Ear Headphones with Mic Blue Voice DTS Headphone:X 2.0, 50Mm Pro-G Drivers, 2.0 Surround Sound for Esports Gaming, Pc/Ps/Xbox/Vr/Nintendo Switch - (Black)
+                      - generic [ref=e1474]: Logitech G Pro X Gaming Wired Over…
+                    - generic [ref=e1476]:
+                      - generic [ref=e1477]: Logitech G
+                      - generic [ref=e1478]: Logitech G
+                  - generic [ref=e1479]:
+                    - generic [ref=e1480]:
+                      - generic [ref=e1481]: ₹12,045.00
+                      - generic [ref=e1482]:
+                        - text: ₹
+                        - generic [ref=e1483]:
+                          - text: 12,045
+                          - generic [ref=e1484]: .
+                        - text: "00"
+                    - generic [ref=e1485]:
+                      - generic [ref=e1486]: ₹17,495.00
+                      - text: ₹17,495.00
+                  - generic [ref=e1487]:
+                    - generic "4.2 out of 5 stars" [ref=e1488]:
+                      - generic [ref=e1489]: 4.2 out of 5 stars
+                    - text: "504"
+      - generic [ref=e1493]:
+        - generic [ref=e1494]:
+          - heading "Deals on PC Accessories" [level=3] [ref=e1496]:
+            - generic [ref=e1497]: Deals on PC Accessories
+          - link "Explore more" [ref=e1498] [cursor=pointer]:
+            - /url: /l/1375248031?pf_rd_p=ad288fb5-635e-41bc-b0c0-ae88c875ce98&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_cta
+            - generic [ref=e1499]: Explore more
+        - region [ref=e1502]:
+          - list [ref=e1507]:
+            - listitem [ref=e1508]:
+              - 'link "Dell KM3322W Wireless USB Keyboard and Mouse Combo, Anti-Fade & Spill-Resistant Keys, up to 36 Month Battery Life, 3Y Advance Exchange Warranty - Black ₹1,285.00 M.R.P: ₹2,499.00" [ref=e1511] [cursor=pointer]':
+                - /url: /Dell-Wireless-Keyboard-Mouse-Spill-Resistant/dp/B09T3H12GV?pf_rd_p=ad288fb5-635e-41bc-b0c0-ae88c875ce98&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B09T3H12GV
+                - generic [ref=e1513]:
+                  - generic [ref=e1514]: Dell KM3322W Wireless USB Keyboard and Mouse Combo, Anti-Fade & Spill-Resistant Keys, up to 36 Month Battery Life, 3Y Advance Exchange Warranty - Black
+                  - generic [ref=e1516]:
+                    - generic [ref=e1517]:
+                      - generic [ref=e1518]: ₹1,285.00
+                      - generic [ref=e1519]:
+                        - text: ₹
+                        - generic [ref=e1520]: 1,285
+                        - text: "00"
+                    - generic [ref=e1521]:
+                      - generic [ref=e1522]: "M.R.P:"
+                      - generic [ref=e1523]:
+                        - generic [ref=e1524]: ₹2,499.00
+                        - text: ₹2,499.00
+            - listitem [ref=e1525]:
+              - 'link "HP H200 Wireless Headset ₹1,699.00 M.R.P: ₹3,749.00" [ref=e1528] [cursor=pointer]':
+                - /url: /HP-99Y16AA-H200-Wireless-Headset/dp/B0DHKJ5HWL?pf_rd_p=ad288fb5-635e-41bc-b0c0-ae88c875ce98&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0DHKJ5HWL
+                - generic [ref=e1530]:
+                  - generic [ref=e1531]: HP H200 Wireless Headset
+                  - generic [ref=e1533]:
+                    - generic [ref=e1534]:
+                      - generic [ref=e1535]: ₹1,699.00
+                      - generic [ref=e1536]:
+                        - text: ₹
+                        - generic [ref=e1537]: 1,699
+                        - text: "00"
+                    - generic [ref=e1538]:
+                      - generic [ref=e1539]: "M.R.P:"
+                      - generic [ref=e1540]:
+                        - generic [ref=e1541]: ₹3,749.00
+                        - text: ₹3,749.00
+            - listitem [ref=e1542]:
+              - 'link "HP K120 Wired Keyboard/3 Years RTB Warranty ₹892.00 M.R.P: ₹1,299.00" [ref=e1545] [cursor=pointer]':
+                - /url: /HP-AB3C9AA-K120-Wired-Keyboard/dp/B0DXPHG886?pf_rd_p=ad288fb5-635e-41bc-b0c0-ae88c875ce98&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0DXPHG886
+                - generic [ref=e1547]:
+                  - generic [ref=e1548]: HP K120 Wired Keyboard/3 Years RTB Warranty
+                  - generic [ref=e1550]:
+                    - generic [ref=e1551]:
+                      - generic [ref=e1552]: ₹892.00
+                      - generic [ref=e1553]:
+                        - text: ₹
+                        - generic [ref=e1554]: "892"
+                        - text: "00"
+                    - generic [ref=e1555]:
+                      - generic [ref=e1556]: "M.R.P:"
+                      - generic [ref=e1557]:
+                        - generic [ref=e1558]: ₹1,299.00
+                        - text: ₹1,299.00
+            - listitem [ref=e1559]:
+              - 'link "ZEBRONICS Companion 107 2.4GHz Wireless Keyboard & Mouse Combo, 104 Keys, UV Printed keycaps, 12 Integrated Multimedia Keys, 3 Button Mouse, 1200 DPI, High Precision, Advanced Optical Sensor (Black) ₹599.00 M.R.P: ₹999.00" [ref=e1562] [cursor=pointer]':
+                - /url: /Zebronics-Zeb-Companion-107-Wireless-Keyboard/dp/B087FXHB6J?pf_rd_p=ad288fb5-635e-41bc-b0c0-ae88c875ce98&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B087FXHB6J
+                - generic [ref=e1564]:
+                  - generic [ref=e1565]: ZEBRONICS Companion 107 2.4GHz Wireless Keyboard & Mouse Combo, 104 Keys, UV Printed keycaps, 12 Integrated Multimedia Keys, 3 Button Mouse, 1200 DPI, High Precision, Advanced Optical Sensor (Black)
+                  - generic [ref=e1567]:
+                    - generic [ref=e1568]:
+                      - generic [ref=e1569]: ₹599.00
+                      - generic [ref=e1570]:
+                        - text: ₹
+                        - generic [ref=e1571]: "599"
+                        - text: "00"
+                    - generic [ref=e1572]:
+                      - generic [ref=e1573]: "M.R.P:"
+                      - generic [ref=e1574]:
+                        - generic [ref=e1575]: ₹999.00
+                        - text: ₹999.00
+            - listitem [ref=e1576]:
+              - 'link "Dell MS116 Wired Mouse, 1000 DPI, Scrolling Wheel, 2 Buttons, 1 x USB, Optical LED Tracking, Plug and Play, Scrolling Wheel, Black ₹280.00 M.R.P: ₹999.00" [ref=e1579] [cursor=pointer]':
+                - /url: /Dell-MS116-1000DPI-Wired-Optical/dp/B01HJI0FS2?pf_rd_p=ad288fb5-635e-41bc-b0c0-ae88c875ce98&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B01HJI0FS2
+                - generic [ref=e1581]:
+                  - generic [ref=e1582]: Dell MS116 Wired Mouse, 1000 DPI, Scrolling Wheel, 2 Buttons, 1 x USB, Optical LED Tracking, Plug and Play, Scrolling Wheel, Black
+                  - generic [ref=e1584]:
+                    - generic [ref=e1585]:
+                      - generic [ref=e1586]: ₹280.00
+                      - generic [ref=e1587]:
+                        - text: ₹
+                        - generic [ref=e1588]: "280"
+                        - text: "00"
+                    - generic [ref=e1589]:
+                      - generic [ref=e1590]: "M.R.P:"
+                      - generic [ref=e1591]:
+                        - generic [ref=e1592]: ₹999.00
+                        - text: ₹999.00
+            - listitem [ref=e1593]:
+              - 'link "Logitech M186 Wireless Mouse, 2.4GHz with USB Mini Receiver, 3 Years Battery Life, 1000 DPI Optical Tracking, Ambidextrous, Compatible with PC, Mac, Laptop ₹595.00 M.R.P: ₹1,195.00" [ref=e1596] [cursor=pointer]':
+                - /url: /Logitech-Wireless-Receiver-Ambidextrous-Compatible/dp/B0D18192T2?pf_rd_p=ad288fb5-635e-41bc-b0c0-ae88c875ce98&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0D18192T2
+                - generic [ref=e1598]:
+                  - generic [ref=e1599]: Logitech M186 Wireless Mouse, 2.4GHz with USB Mini Receiver, 3 Years Battery Life, 1000 DPI Optical Tracking, Ambidextrous, Compatible with PC, Mac, Laptop
+                  - generic [ref=e1601]:
+                    - generic [ref=e1602]:
+                      - generic [ref=e1603]: ₹595.00
+                      - generic [ref=e1604]:
+                        - text: ₹
+                        - generic [ref=e1605]: "595"
+                        - text: "00"
+                    - generic [ref=e1606]:
+                      - generic [ref=e1607]: "M.R.P:"
+                      - generic [ref=e1608]:
+                        - generic [ref=e1609]: ₹1,195.00
+                        - text: ₹1,195.00
+            - listitem [ref=e1610]:
+              - 'link "Logitech MK215 Wireless Keyboard and Mouse Combo for Windows, 2.4 GHz Wireless, Compact Design, 2-Year Battery Life(Keyboard),5 Month Battery Life(Mouse) PC/Laptop- Black ₹1,095.00 M.R.P: ₹1,945.00" [ref=e1613] [cursor=pointer]':
+                - /url: /Logitech-MK215-Wireless-Keyboard-Mouse/dp/B012MQS060?pf_rd_p=ad288fb5-635e-41bc-b0c0-ae88c875ce98&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B012MQS060
+                - generic [ref=e1615]:
+                  - generic [ref=e1616]: Logitech MK215 Wireless Keyboard and Mouse Combo for Windows, 2.4 GHz Wireless, Compact Design, 2-Year Battery Life(Keyboard),5 Month Battery Life(Mouse) PC/Laptop- Black
+                  - generic [ref=e1618]:
+                    - generic [ref=e1619]:
+                      - generic [ref=e1620]: ₹1,095.00
+                      - generic [ref=e1621]:
+                        - text: ₹
+                        - generic [ref=e1622]: 1,095
+                        - text: "00"
+                    - generic [ref=e1623]:
+                      - generic [ref=e1624]: "M.R.P:"
+                      - generic [ref=e1625]:
+                        - generic [ref=e1626]: ₹1,945.00
+                        - text: ₹1,945.00
+            - listitem [ref=e1627]:
+              - 'link "Amazon Basics Upgraded 2nd Gen Stylus Pen | Only for iPad 2018-2025 Air 3/4/5/M2/M3, mini 5/6, 6/7/8/9/10/11, Pro 11\", 12.9\" & M4 | White ₹1,299.00 M.R.P: ₹5,999.00" [ref=e1630] [cursor=pointer]':
+                - /url: /Amazon-Basics-Upgraded-Stylus-White/dp/B0CCPCK17S?pf_rd_p=ad288fb5-635e-41bc-b0c0-ae88c875ce98&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0CCPCK17S
+                - generic [ref=e1632]:
+                  - generic [ref=e1633]: Amazon Basics Upgraded 2nd Gen Stylus Pen | Only for iPad 2018-2025 Air 3/4/5/M2/M3, mini 5/6, 6/7/8/9/10/11, Pro 11", 12.9" & M4 | White
+                  - generic [ref=e1635]:
+                    - generic [ref=e1636]:
+                      - generic [ref=e1637]: ₹1,299.00
+                      - generic [ref=e1638]:
+                        - text: ₹
+                        - generic [ref=e1639]: 1,299
+                        - text: "00"
+                    - generic [ref=e1640]:
+                      - generic [ref=e1641]: "M.R.P:"
+                      - generic [ref=e1642]:
+                        - generic [ref=e1643]: ₹5,999.00
+                        - text: ₹5,999.00
+            - listitem [ref=e1644]:
+              - 'link "HP KM120 Wired Mouse and Keyboard Combo (AB3D0AA) ₹904.00 M.R.P: ₹1,399.00" [ref=e1647] [cursor=pointer]':
+                - /url: /HP-KM120-Wired-Keyboard-AB3D0AA/dp/B0DXPQ9XHT?pf_rd_p=ad288fb5-635e-41bc-b0c0-ae88c875ce98&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0DXPQ9XHT
+                - generic [ref=e1649]:
+                  - generic [ref=e1650]: HP KM120 Wired Mouse and Keyboard Combo (AB3D0AA)
+                  - generic [ref=e1652]:
+                    - generic [ref=e1653]:
+                      - generic [ref=e1654]: ₹904.00
+                      - generic [ref=e1655]:
+                        - text: ₹
+                        - generic [ref=e1656]: "904"
+                        - text: "00"
+                    - generic [ref=e1657]:
+                      - generic [ref=e1658]: "M.R.P:"
+                      - generic [ref=e1659]:
+                        - generic [ref=e1660]: ₹1,399.00
+                        - text: ₹1,399.00
+            - listitem [ref=e1661]:
+              - 'link "Portronics Toad One Bluetooth Mouse with 2.4 GHz & BT 5.3 Dual Wireless, 6 Buttons, Rechargeable, RGB Lights, Connect 3 Devices, Ergonomic Design for Laptop, Smartphone, Tablet (Black) ₹699.00 M.R.P: ₹999.00" [ref=e1664] [cursor=pointer]':
+                - /url: /Portronics-Wireless-Bluetooth-Connectivity-Rechargeable/dp/B0BG8LZNYL?pf_rd_p=ad288fb5-635e-41bc-b0c0-ae88c875ce98&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0BG8LZNYL
+                - generic [ref=e1666]:
+                  - generic [ref=e1667]: Portronics Toad One Bluetooth Mouse with 2.4 GHz & BT 5.3 Dual Wireless, 6 Buttons, Rechargeable, RGB Lights, Connect 3 Devices, Ergonomic Design for Laptop, Smartphone, Tablet (Black)
+                  - generic [ref=e1669]:
+                    - generic [ref=e1670]:
+                      - generic [ref=e1671]: ₹699.00
+                      - generic [ref=e1672]:
+                        - text: ₹
+                        - generic [ref=e1673]: "699"
+                        - text: "00"
+                    - generic [ref=e1674]:
+                      - generic [ref=e1675]: "M.R.P:"
+                      - generic [ref=e1676]:
+                        - generic [ref=e1677]: ₹999.00
+                        - text: ₹999.00
+            - listitem [ref=e1678]:
+              - 'link "Arctic Fox Pureview Transparent Wireless and Bluetooth Rechargeable Mouse, USB Receiver,LED Battery Magic Silm for Office/PC/Mac/Laptop/Apple/ipad(Space Gray) ₹618.00 M.R.P: ₹1,999.00" [ref=e1681] [cursor=pointer]':
+                - /url: /Arctic-Fox-Transparent-Bluetooth-Rechargeable/dp/B0CP9NSXYJ?pf_rd_p=ad288fb5-635e-41bc-b0c0-ae88c875ce98&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0CP9NSXYJ
+                - generic [ref=e1683]:
+                  - generic [ref=e1684]: Arctic Fox Pureview Transparent Wireless and Bluetooth Rechargeable Mouse, USB Receiver,LED Battery Magic Silm for Office/PC/Mac/Laptop/Apple/ipad(Space Gray)
+                  - generic [ref=e1686]:
+                    - generic [ref=e1687]:
+                      - generic [ref=e1688]: ₹618.00
+                      - generic [ref=e1689]:
+                        - text: ₹
+                        - generic [ref=e1690]: "618"
+                        - text: "00"
+                    - generic [ref=e1691]:
+                      - generic [ref=e1692]: "M.R.P:"
+                      - generic [ref=e1693]:
+                        - generic [ref=e1694]: ₹1,999.00
+                        - text: ₹1,999.00
+            - listitem [ref=e1695]:
+              - 'link "HP M290 Wireless Mouse (AB3C7AA) ₹623.00 M.R.P: ₹1,199.00" [ref=e1698] [cursor=pointer]':
+                - /url: /HP-M290-Wireless-Mouse-AB3C7AA/dp/B0DXNY14GL?pf_rd_p=ad288fb5-635e-41bc-b0c0-ae88c875ce98&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0DXNY14GL
+                - generic [ref=e1700]:
+                  - generic [ref=e1701]: HP M290 Wireless Mouse (AB3C7AA)
+                  - generic [ref=e1703]:
+                    - generic [ref=e1704]:
+                      - generic [ref=e1705]: ₹623.00
+                      - generic [ref=e1706]:
+                        - text: ₹
+                        - generic [ref=e1707]: "623"
+                        - text: "00"
+                    - generic [ref=e1708]:
+                      - generic [ref=e1709]: "M.R.P:"
+                      - generic [ref=e1710]:
+                        - generic [ref=e1711]: ₹1,199.00
+                        - text: ₹1,199.00
+      - generic [ref=e1715]:
+        - generic [ref=e1716]:
+          - heading "Deals on Smartwatches" [level=3] [ref=e1718]:
+            - generic [ref=e1719]: Deals on Smartwatches
+          - link "Explore more" [ref=e1720] [cursor=pointer]:
+            - /url: /l/11599648031?pf_rd_p=eb4a826e-dd9d-4494-bbd4-381e88912e8d&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_cta
+            - generic [ref=e1721]: Explore more
+        - region [ref=e1724]:
+          - list [ref=e1729]:
+            - listitem [ref=e1730]:
+              - 'link "Fire-Boltt Ninja Call Pro Plus Bluetooth Calling Smart Watch, 1.83″ HD Display, AI Voice Assistant, 120+ Sports Modes, IP67 Waterproof, SpO2 & Heart Rate Monitor Smartwatch for Men & Women - Black ₹1,299.00 M.R.P: ₹19,999.00" [ref=e1733] [cursor=pointer]':
+                - /url: /Fire-Boltt-Bluetooth-Calling-Assistance-Resolution/dp/B0BF57RN3K?pf_rd_p=eb4a826e-dd9d-4494-bbd4-381e88912e8d&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0BF57RN3K
+                - generic [ref=e1735]:
+                  - generic [ref=e1736]: Fire-Boltt Ninja Call Pro Plus Bluetooth Calling Smart Watch, 1.83″ HD Display, AI Voice Assistant, 120+ Sports Modes, IP67 Waterproof, SpO2 & Heart Rate Monitor Smartwatch for Men & Women - Black
+                  - generic [ref=e1738]:
+                    - generic [ref=e1739]:
+                      - generic [ref=e1740]: ₹1,299.00
+                      - generic [ref=e1741]:
+                        - text: ₹
+                        - generic [ref=e1742]: 1,299
+                        - text: "00"
+                    - generic [ref=e1743]:
+                      - generic [ref=e1744]: "M.R.P:"
+                      - generic [ref=e1745]:
+                        - generic [ref=e1746]: ₹19,999.00
+                        - text: ₹19,999.00
+            - listitem [ref=e1747]:
+              - 'link "Noise Twist Round dial Smart Watch with Bluetooth Calling, 1.38\" TFT Display, up-to 7 Days Battery, 100+ Watch Faces, IP68, Heart Rate Monitor, Sleep Tracking (Jet Black) ₹1,599.00 M.R.P: ₹4,999.00" [ref=e1750] [cursor=pointer]':
+                - /url: /Noise-Launched-Bluetooth-Calling-Tracking/dp/B0BJ72WZQ7?pf_rd_p=eb4a826e-dd9d-4494-bbd4-381e88912e8d&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0BJ72WZQ7
+                - generic [ref=e1752]:
+                  - generic [ref=e1753]: Noise Twist Round dial Smart Watch with Bluetooth Calling, 1.38" TFT Display, up-to 7 Days Battery, 100+ Watch Faces, IP68, Heart Rate Monitor, Sleep Tracking (Jet Black)
+                  - generic [ref=e1755]:
+                    - generic [ref=e1756]:
+                      - generic [ref=e1757]: ₹1,599.00
+                      - generic [ref=e1758]:
+                        - text: ₹
+                        - generic [ref=e1759]: 1,599
+                        - text: "00"
+                    - generic [ref=e1760]:
+                      - generic [ref=e1761]: "M.R.P:"
+                      - generic [ref=e1762]:
+                        - generic [ref=e1763]: ₹4,999.00
+                        - text: ₹4,999.00
+            - listitem [ref=e1764]:
+              - 'link "Boat Lunar Discovery w/ 1.39\" (3.5 cm) HD Display, Turn-by-Turn Navigation, DIY Watch Face Studio, Bluetooth Calling, Emergency SOS, QR Tray, Smart Watch for Men & Women(Active Black) ₹1,399.00 M.R.P: ₹8,499.00" [ref=e1767] [cursor=pointer]':
+                - /url: /boAt-Lunar-Discovery-Navigation-Bluetooth/dp/B0DFYL4635?pf_rd_p=eb4a826e-dd9d-4494-bbd4-381e88912e8d&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0DFYL4635
+                - generic [ref=e1769]:
+                  - generic [ref=e1770]: Boat Lunar Discovery w/ 1.39" (3.5 cm) HD Display, Turn-by-Turn Navigation, DIY Watch Face Studio, Bluetooth Calling, Emergency SOS, QR Tray, Smart Watch for Men & Women(Active Black)
+                  - generic [ref=e1772]:
+                    - generic [ref=e1773]:
+                      - generic [ref=e1774]: ₹1,399.00
+                      - generic [ref=e1775]:
+                        - text: ₹
+                        - generic [ref=e1776]: 1,399
+                        - text: "00"
+                    - generic [ref=e1777]:
+                      - generic [ref=e1778]: "M.R.P:"
+                      - generic [ref=e1779]:
+                        - generic [ref=e1780]: ₹8,499.00
+                        - text: ₹8,499.00
+            - listitem [ref=e1781]:
+              - 'link "Noise Pulse 2 Max 1.85\" Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness, Smart DND, 100 Sports Modes, Smartwatch for Men and Women (Jet Black) ₹1,299.00 M.R.P: ₹5,999.00" [ref=e1784] [cursor=pointer]':
+                - /url: /Noise-Advanced-Bluetooth-Brightness-Smartwatch/dp/B0B6BLTGTT?pf_rd_p=eb4a826e-dd9d-4494-bbd4-381e88912e8d&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0B6BLTGTT
+                - generic [ref=e1786]:
+                  - generic [ref=e1787]: Noise Pulse 2 Max 1.85" Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness, Smart DND, 100 Sports Modes, Smartwatch for Men and Women (Jet Black)
+                  - generic [ref=e1789]:
+                    - generic [ref=e1790]:
+                      - generic [ref=e1791]: ₹1,299.00
+                      - generic [ref=e1792]:
+                        - text: ₹
+                        - generic [ref=e1793]: 1,299
+                        - text: "00"
+                    - generic [ref=e1794]:
+                      - generic [ref=e1795]: "M.R.P:"
+                      - generic [ref=e1796]:
+                        - generic [ref=e1797]: ₹5,999.00
+                        - text: ₹5,999.00
+            - listitem [ref=e1798]:
+              - 'link "Noise Twist Go Round dial Smartwatch with BT Calling, 1.39\" Display, Metal Build, 100+ Watch Faces, IP68, Sleep Tracking, 100+ Sports Modes, 24/7 Heart Rate Monitoring (Gold Link) ₹1,899.00 M.R.P: ₹4,999.00" [ref=e1801] [cursor=pointer]':
+                - /url: /Noise-Smartwatch-Calling-Tracking-Monitoring/dp/B0CQ4HSR2D?pf_rd_p=eb4a826e-dd9d-4494-bbd4-381e88912e8d&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0CQ4HSR2D
+                - generic [ref=e1803]:
+                  - generic [ref=e1804]: Noise Twist Go Round dial Smartwatch with BT Calling, 1.39" Display, Metal Build, 100+ Watch Faces, IP68, Sleep Tracking, 100+ Sports Modes, 24/7 Heart Rate Monitoring (Gold Link)
+                  - generic [ref=e1806]:
+                    - generic [ref=e1807]:
+                      - generic [ref=e1808]: ₹1,899.00
+                      - generic [ref=e1809]:
+                        - text: ₹
+                        - generic [ref=e1810]: 1,899
+                        - text: "00"
+                    - generic [ref=e1811]:
+                      - generic [ref=e1812]: "M.R.P:"
+                      - generic [ref=e1813]:
+                        - generic [ref=e1814]: ₹4,999.00
+                        - text: ₹4,999.00
+            - listitem [ref=e1815]:
+              - 'link "Boat Wave Sigma 3 w/Turn-by-Turn Navigation, 2.01\" HD Display, Bluetooth Calling, Crest+ OS, QR Tray, Watch Face Studio, Coins, Emergency SOS Smart Watch for Men & Women(Active Black) ₹1,499.00 M.R.P: ₹8,999.00" [ref=e1818] [cursor=pointer]':
+                - /url: /boAt-Navigation-Display-Bluetooth-Emergency/dp/B0CVQG14RR?pf_rd_p=eb4a826e-dd9d-4494-bbd4-381e88912e8d&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0CVQG14RR
+                - generic [ref=e1820]:
+                  - generic [ref=e1821]: Boat Wave Sigma 3 w/Turn-by-Turn Navigation, 2.01" HD Display, Bluetooth Calling, Crest+ OS, QR Tray, Watch Face Studio, Coins, Emergency SOS Smart Watch for Men & Women(Active Black)
+                  - generic [ref=e1823]:
+                    - generic [ref=e1824]:
+                      - generic [ref=e1825]: ₹1,499.00
+                      - generic [ref=e1826]:
+                        - text: ₹
+                        - generic [ref=e1827]: 1,499
+                        - text: "00"
+                    - generic [ref=e1828]:
+                      - generic [ref=e1829]: "M.R.P:"
+                      - generic [ref=e1830]:
+                        - generic [ref=e1831]: ₹8,999.00
+                        - text: ₹8,999.00
+            - listitem [ref=e1832]:
+              - 'link "Noise Twist Go Round dial Smartwatch with BT Calling, 1.39\" Display, Metal Build, 100+ Watch Faces, IP68, Sleep Tracking, 100+ Sports Modes, 24/7 Heart Rate Monitoring (Rose Pink) ₹1,599.00 M.R.P: ₹4,999.00" [ref=e1835] [cursor=pointer]':
+                - /url: /Noise-Smartwatch-Calling-Tracking-Monitoring/dp/B0CQ4JT6NT?pf_rd_p=eb4a826e-dd9d-4494-bbd4-381e88912e8d&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0CQ4JT6NT
+                - generic [ref=e1837]:
+                  - generic [ref=e1838]: Noise Twist Go Round dial Smartwatch with BT Calling, 1.39" Display, Metal Build, 100+ Watch Faces, IP68, Sleep Tracking, 100+ Sports Modes, 24/7 Heart Rate Monitoring (Rose Pink)
+                  - generic [ref=e1840]:
+                    - generic [ref=e1841]:
+                      - generic [ref=e1842]: ₹1,599.00
+                      - generic [ref=e1843]:
+                        - text: ₹
+                        - generic [ref=e1844]: 1,599
+                        - text: "00"
+                    - generic [ref=e1845]:
+                      - generic [ref=e1846]: "M.R.P:"
+                      - generic [ref=e1847]:
+                        - generic [ref=e1848]: ₹4,999.00
+                        - text: ₹4,999.00
+            - listitem [ref=e1849]:
+              - 'link "Boat Storm Call 3 w/TBT Navigation, Daily Activity Tracker, DIY Watch Face Studio,700+ Active Modes, 1.83\" (4.6 cm) HD Display Fitness Smart Watch for Men & Women(Active Black) ₹1,099.00 M.R.P: ₹8,449.00" [ref=e1852] [cursor=pointer]':
+                - /url: /boAt-Storm-Call-Navigation-Bluetooth/dp/B0D5LRGSCR?pf_rd_p=eb4a826e-dd9d-4494-bbd4-381e88912e8d&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0D5LRGSCR
+                - generic [ref=e1854]:
+                  - generic [ref=e1855]: Boat Storm Call 3 w/TBT Navigation, Daily Activity Tracker, DIY Watch Face Studio,700+ Active Modes, 1.83" (4.6 cm) HD Display Fitness Smart Watch for Men & Women(Active Black)
+                  - generic [ref=e1857]:
+                    - generic [ref=e1858]:
+                      - generic [ref=e1859]: ₹1,099.00
+                      - generic [ref=e1860]:
+                        - text: ₹
+                        - generic [ref=e1861]: 1,099
+                        - text: "00"
+                    - generic [ref=e1862]:
+                      - generic [ref=e1863]: "M.R.P:"
+                      - generic [ref=e1864]:
+                        - generic [ref=e1865]: ₹8,449.00
+                        - text: ₹8,449.00
+            - listitem [ref=e1866]:
+              - 'link "Noise Pulse 2 Max 1.85\" Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness, Smart DND, 100 Sports Modes, Smartwatch for Men and Women (Midnight Blue) ₹1,499.00 M.R.P: ₹5,999.00" [ref=e1869] [cursor=pointer]':
+                - /url: /Noise-Advanced-Bluetooth-Brightness-Smartwatch/dp/B0B6BPX5S9?pf_rd_p=eb4a826e-dd9d-4494-bbd4-381e88912e8d&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0B6BPX5S9
+                - generic [ref=e1871]:
+                  - generic [ref=e1872]: Noise Pulse 2 Max 1.85" Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness, Smart DND, 100 Sports Modes, Smartwatch for Men and Women (Midnight Blue)
+                  - generic [ref=e1874]:
+                    - generic [ref=e1875]:
+                      - generic [ref=e1876]: ₹1,499.00
+                      - generic [ref=e1877]:
+                        - text: ₹
+                        - generic [ref=e1878]: 1,499
+                        - text: "00"
+                    - generic [ref=e1879]:
+                      - generic [ref=e1880]: "M.R.P:"
+                      - generic [ref=e1881]:
+                        - generic [ref=e1882]: ₹5,999.00
+                        - text: ₹5,999.00
+            - listitem [ref=e1883]:
+              - 'link "Noise Twist Round dial smart Watch with Bluetooth Calling, 1.38\" TFT Display, up-to 7 Days Battery, 100+ Watch Faces, IP68, Heart Rate Monitor, Sleep Tracking (Rose Pink) ₹1,599.00 M.R.P: ₹4,999.00" [ref=e1886] [cursor=pointer]':
+                - /url: /Noise-Launched-Bluetooth-Calling-Tracking/dp/B0BJ6ZWPX5?pf_rd_p=eb4a826e-dd9d-4494-bbd4-381e88912e8d&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0BJ6ZWPX5
+                - generic [ref=e1888]:
+                  - generic [ref=e1889]: Noise Twist Round dial smart Watch with Bluetooth Calling, 1.38" TFT Display, up-to 7 Days Battery, 100+ Watch Faces, IP68, Heart Rate Monitor, Sleep Tracking (Rose Pink)
+                  - generic [ref=e1891]:
+                    - generic [ref=e1892]:
+                      - generic [ref=e1893]: ₹1,599.00
+                      - generic [ref=e1894]:
+                        - text: ₹
+                        - generic [ref=e1895]: 1,599
+                        - text: "00"
+                    - generic [ref=e1896]:
+                      - generic [ref=e1897]: "M.R.P:"
+                      - generic [ref=e1898]:
+                        - generic [ref=e1899]: ₹4,999.00
+                        - text: ₹4,999.00
+            - listitem [ref=e1900]:
+              - 'link "Noise Twist Go Round dial Smartwatch with BT Calling, 1.39\" Display, Metal Build, 100+ Watch Faces, IP68, Sleep Tracking, 100+ Sports Modes, 24/7 Heart Rate Monitoring (Elite Black) ₹1,999.00 M.R.P: ₹5,999.00" [ref=e1903] [cursor=pointer]':
+                - /url: /Noise-Smartwatch-Calling-Tracking-Monitoring/dp/B0CQ4J4YFL?pf_rd_p=eb4a826e-dd9d-4494-bbd4-381e88912e8d&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0CQ4J4YFL
+                - generic [ref=e1905]:
+                  - generic [ref=e1906]: Noise Twist Go Round dial Smartwatch with BT Calling, 1.39" Display, Metal Build, 100+ Watch Faces, IP68, Sleep Tracking, 100+ Sports Modes, 24/7 Heart Rate Monitoring (Elite Black)
+                  - generic [ref=e1908]:
+                    - generic [ref=e1909]:
+                      - generic [ref=e1910]: ₹1,999.00
+                      - generic [ref=e1911]:
+                        - text: ₹
+                        - generic [ref=e1912]: 1,999
+                        - text: "00"
+                    - generic [ref=e1913]:
+                      - generic [ref=e1914]: "M.R.P:"
+                      - generic [ref=e1915]:
+                        - generic [ref=e1916]: ₹5,999.00
+                        - text: ₹5,999.00
+            - listitem [ref=e1917]:
+              - 'link "Noise Pulse 2 Max 1.85\" Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness, Smart DND, 100 Sports Modes, Smartwatch for Men and Women (Deep Wine) ₹1,499.00 M.R.P: ₹5,999.00" [ref=e1920] [cursor=pointer]':
+                - /url: /Noise-Advanced-Bluetooth-Brightness-Smartwatch/dp/B0B6BPTFT5?pf_rd_p=eb4a826e-dd9d-4494-bbd4-381e88912e8d&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0B6BPTFT5
+                - generic [ref=e1922]:
+                  - generic [ref=e1923]: Noise Pulse 2 Max 1.85" Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness, Smart DND, 100 Sports Modes, Smartwatch for Men and Women (Deep Wine)
+                  - generic [ref=e1925]:
+                    - generic [ref=e1926]:
+                      - generic [ref=e1927]: ₹1,499.00
+                      - generic [ref=e1928]:
+                        - text: ₹
+                        - generic [ref=e1929]: 1,499
+                        - text: "00"
+                    - generic [ref=e1930]:
+                      - generic [ref=e1931]: "M.R.P:"
+                      - generic [ref=e1932]:
+                        - generic [ref=e1933]: ₹5,999.00
+                        - text: ₹5,999.00
+      - generic [ref=e1937]:
+        - generic [ref=e1938]:
+          - heading "Deals on Speakers" [level=3] [ref=e1940]:
+            - generic [ref=e1941]: Deals on Speakers
+          - link "Explore more" [ref=e1942] [cursor=pointer]:
+            - /url: /l/1389365031?pf_rd_p=c8d4e782-edc2-4e4b-b362-a085167b71ed&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_cta
+            - generic [ref=e1943]: Explore more
+        - region [ref=e1946]:
+          - list [ref=e1951]:
+            - listitem [ref=e1952]:
+              - 'link "Boat Stone 352/358 Bluetooth Speaker with 10W RMS Stereo Sound, IPX7 Water Resistance, TWS Feature, Up to 12H Total Playtime, Multi-Compatibility Modes, Free Music Streaming on JioSaavn(Raging Black) ₹1,399.00 M.R.P: ₹3,490.00" [ref=e1955] [cursor=pointer]':
+                - /url: /boAt-Bluetooth-Resistance-Playtime-Multi-Compatibility/dp/B0BYZ26QGB?pf_rd_p=c8d4e782-edc2-4e4b-b362-a085167b71ed&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0BYZ26QGB
+                - generic [ref=e1957]:
+                  - generic [ref=e1958]: Boat Stone 352/358 Bluetooth Speaker with 10W RMS Stereo Sound, IPX7 Water Resistance, TWS Feature, Up to 12H Total Playtime, Multi-Compatibility Modes, Free Music Streaming on JioSaavn(Raging Black)
+                  - generic [ref=e1960]:
+                    - generic [ref=e1961]:
+                      - generic [ref=e1962]: ₹1,399.00
+                      - generic [ref=e1963]:
+                        - text: ₹
+                        - generic [ref=e1964]: 1,399
+                        - text: "00"
+                    - generic [ref=e1965]:
+                      - generic [ref=e1966]: "M.R.P:"
+                      - generic [ref=e1967]:
+                        - generic [ref=e1968]: ₹3,490.00
+                        - text: ₹3,490.00
+            - listitem [ref=e1969]:
+              - 'link "XIAOMI Sound Outdoor Speaker (Black) | 30W Hi-Quality Speaker with Mic | Upto 12hrs Playback Time | IP67 Waterproof & Type C | Wireless Stereo Pairing ₹3,499.00 M.R.P: ₹6,999.00" [ref=e1972] [cursor=pointer]':
+                - /url: /Outdoor-Hi-Quality-Playback-Waterproof-Wireless/dp/B0DY1BW5Q3?pf_rd_p=c8d4e782-edc2-4e4b-b362-a085167b71ed&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0DY1BW5Q3
+                - generic [ref=e1974]:
+                  - generic [ref=e1975]: XIAOMI Sound Outdoor Speaker (Black) | 30W Hi-Quality Speaker with Mic | Upto 12hrs Playback Time | IP67 Waterproof & Type C | Wireless Stereo Pairing
+                  - generic [ref=e1977]:
+                    - generic [ref=e1978]:
+                      - generic [ref=e1979]: ₹3,499.00
+                      - generic [ref=e1980]:
+                        - text: ₹
+                        - generic [ref=e1981]: 3,499
+                        - text: "00"
+                    - generic [ref=e1982]:
+                      - generic [ref=e1983]: "M.R.P:"
+                      - generic [ref=e1984]:
+                        - generic [ref=e1985]: ₹6,999.00
+                        - text: ₹6,999.00
+            - listitem [ref=e1986]:
+              - 'link "JBL Go 3 Wireless Portable Bluetooth Mini Speaker, Small Speaker with Pro Sound, Vibrant Colors with Rugged Fabric Design, Lightweight IP67 Waterproof, Type C Interface (Without Mic, Black) ₹2,799.00 M.R.P: ₹3,999.00" [ref=e1989] [cursor=pointer]':
+                - /url: /JBL-Wireless-Portable-Bluetooth-Waterproof/dp/B08FB2H6Y4?pf_rd_p=c8d4e782-edc2-4e4b-b362-a085167b71ed&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B08FB2H6Y4
+                - generic [ref=e1991]:
+                  - generic [ref=e1992]: JBL Go 3 Wireless Portable Bluetooth Mini Speaker, Small Speaker with Pro Sound, Vibrant Colors with Rugged Fabric Design, Lightweight IP67 Waterproof, Type C Interface (Without Mic, Black)
+                  - generic [ref=e1994]:
+                    - generic [ref=e1995]:
+                      - generic [ref=e1996]: ₹2,799.00
+                      - generic [ref=e1997]:
+                        - text: ₹
+                        - generic [ref=e1998]: 2,799
+                        - text: "00"
+                    - generic [ref=e1999]:
+                      - generic [ref=e2000]: "M.R.P:"
+                      - generic [ref=e2001]:
+                        - generic [ref=e2002]: ₹3,999.00
+                        - text: ₹3,999.00
+            - listitem [ref=e2003]:
+              - 'link "Portronics SoundDrum P 20W Portable Bluetooth Speaker with 6-7 hrs Playback Time, Handsfree Calling, USB Slot, Aux-in Port, Type C Charging (Black) ₹1,869.00 M.R.P: ₹3,999.00" [ref=e2006] [cursor=pointer]':
+                - /url: /Portronics-SoundDrum-Portable-Bluetooth-Handsfree/dp/B09V2J596T?pf_rd_p=c8d4e782-edc2-4e4b-b362-a085167b71ed&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B09V2J596T
+                - generic [ref=e2008]:
+                  - generic [ref=e2009]: Portronics SoundDrum P 20W Portable Bluetooth Speaker with 6-7 hrs Playback Time, Handsfree Calling, USB Slot, Aux-in Port, Type C Charging (Black)
+                  - generic [ref=e2011]:
+                    - generic [ref=e2012]:
+                      - generic [ref=e2013]: ₹1,869.00
+                      - generic [ref=e2014]:
+                        - text: ₹
+                        - generic [ref=e2015]: 1,869
+                        - text: "00"
+                    - generic [ref=e2016]:
+                      - generic [ref=e2017]: "M.R.P:"
+                      - generic [ref=e2018]:
+                        - generic [ref=e2019]: ₹3,999.00
+                        - text: ₹3,999.00
+            - listitem [ref=e2020]:
+              - 'link "Portronics SoundDrum 1 12W TWS Portable Bluetooth Speaker with Powerful Bass, Bluetooth 5.3V, 360° Surround Sound, USB Drive in, Type C Fast Charging(Blue) ₹999.00 M.R.P: ₹2,499.00" [ref=e2023] [cursor=pointer]':
+                - /url: /Portronics-SoundDrum-Portable-Bluetooth-Inbuilt-FM/dp/B097D69GJ1?pf_rd_p=c8d4e782-edc2-4e4b-b362-a085167b71ed&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B097D69GJ1
+                - generic [ref=e2025]:
+                  - generic [ref=e2026]: Portronics SoundDrum 1 12W TWS Portable Bluetooth Speaker with Powerful Bass, Bluetooth 5.3V, 360° Surround Sound, USB Drive in, Type C Fast Charging(Blue)
+                  - generic [ref=e2028]:
+                    - generic [ref=e2029]:
+                      - generic [ref=e2030]: ₹999.00
+                      - generic [ref=e2031]:
+                        - text: ₹
+                        - generic [ref=e2032]: "999"
+                        - text: "00"
+                    - generic [ref=e2033]:
+                      - generic [ref=e2034]: "M.R.P:"
+                      - generic [ref=e2035]:
+                        - generic [ref=e2036]: ₹2,499.00
+                        - text: ₹2,499.00
+            - listitem [ref=e2037]:
+              - 'link "boAt Stone 193 Pro / Stone190 Pro with 5W Signature Sound, Up to 12hrs of Playtime, TWS Feature, Built-in Mic, Bluetooth v5.3, AUX Port, TF Card, IPX6 & Type-C Bluetooth Speaker (Tropical Blue) ₹1,299.00 M.R.P: ₹2,990.00" [ref=e2040] [cursor=pointer]':
+                - /url: /boAt-Stone-193-Pro-Signature/dp/B0DH8CDH9J?pf_rd_p=c8d4e782-edc2-4e4b-b362-a085167b71ed&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0DH8CDH9J
+                - generic [ref=e2042]:
+                  - generic [ref=e2043]: boAt Stone 193 Pro / Stone190 Pro with 5W Signature Sound, Up to 12hrs of Playtime, TWS Feature, Built-in Mic, Bluetooth v5.3, AUX Port, TF Card, IPX6 & Type-C Bluetooth Speaker (Tropical Blue)
+                  - generic [ref=e2045]:
+                    - generic [ref=e2046]:
+                      - generic [ref=e2047]: ₹1,299.00
+                      - generic [ref=e2048]:
+                        - text: ₹
+                        - generic [ref=e2049]: 1,299
+                        - text: "00"
+                    - generic [ref=e2050]:
+                      - generic [ref=e2051]: "M.R.P:"
+                      - generic [ref=e2052]:
+                        - generic [ref=e2053]: ₹2,990.00
+                        - text: ₹2,990.00
+            - listitem [ref=e2054]:
+              - 'link "JBL Go 3, Wireless Ultra Portable Bluetooth Speaker, Pro Sound, Vibrant Colors with Rugged Fabric Design, Waterproof, Type C (Without Mic, Blue) ₹2,975.00 M.R.P: ₹3,999.00" [ref=e2057] [cursor=pointer]':
+                - /url: /JBL-Wireless-Portable-Bluetooth-Waterproof/dp/B08FB396L1?pf_rd_p=c8d4e782-edc2-4e4b-b362-a085167b71ed&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B08FB396L1
+                - generic [ref=e2059]:
+                  - generic [ref=e2060]: JBL Go 3, Wireless Ultra Portable Bluetooth Speaker, Pro Sound, Vibrant Colors with Rugged Fabric Design, Waterproof, Type C (Without Mic, Blue)
+                  - generic [ref=e2062]:
+                    - generic [ref=e2063]:
+                      - generic [ref=e2064]: ₹2,975.00
+                      - generic [ref=e2065]:
+                        - text: ₹
+                        - generic [ref=e2066]: 2,975
+                        - text: "00"
+                    - generic [ref=e2067]:
+                      - generic [ref=e2068]: "M.R.P:"
+                      - generic [ref=e2069]:
+                        - generic [ref=e2070]: ₹3,999.00
+                        - text: ₹3,999.00
+            - listitem [ref=e2071]:
+              - 'link "XIAOMI Sound Outdoor Speaker (Blue) | |30W Hi-Quality Speaker with Mic|Upto 12hrs Playback Time|IP67 Waterproof & Type C|Wireless Stereo Pairing|Speaker for Home, Outdoor & Travel Purpose ₹3,499.00 M.R.P: ₹6,999.00" [ref=e2074] [cursor=pointer]':
+                - /url: /Outdoor-Hi-Quality-Playback-Waterproof-Wireless/dp/B0DY15J4X3?pf_rd_p=c8d4e782-edc2-4e4b-b362-a085167b71ed&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0DY15J4X3
+                - generic [ref=e2076]:
+                  - generic [ref=e2077]: XIAOMI Sound Outdoor Speaker (Blue) | |30W Hi-Quality Speaker with Mic|Upto 12hrs Playback Time|IP67 Waterproof & Type C|Wireless Stereo Pairing|Speaker for Home, Outdoor & Travel Purpose
+                  - generic [ref=e2079]:
+                    - generic [ref=e2080]:
+                      - generic [ref=e2081]: ₹3,499.00
+                      - generic [ref=e2082]:
+                        - text: ₹
+                        - generic [ref=e2083]: 3,499
+                        - text: "00"
+                    - generic [ref=e2084]:
+                      - generic [ref=e2085]: "M.R.P:"
+                      - generic [ref=e2086]:
+                        - generic [ref=e2087]: ₹6,999.00
+                        - text: ₹6,999.00
+            - listitem [ref=e2088]:
+              - 'link "JBL Go 3 Eco with eco-Friendly Recycled Materials and Packaging, Wireless Portable Bluetooth Speaker, Pro Sound, Vibrant Colors with Rugged Fabric Design, Waterproof, Type C (Without Mic, Green) ₹2,814.00 M.R.P: ₹4,499.00" [ref=e2091] [cursor=pointer]':
+                - /url: /JBL-eco-friendly-materials-packaging-Waterproof/dp/B0BSR1XNG7?pf_rd_p=c8d4e782-edc2-4e4b-b362-a085167b71ed&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0BSR1XNG7
+                - generic [ref=e2093]:
+                  - generic [ref=e2094]: JBL Go 3 Eco with eco-Friendly Recycled Materials and Packaging, Wireless Portable Bluetooth Speaker, Pro Sound, Vibrant Colors with Rugged Fabric Design, Waterproof, Type C (Without Mic, Green)
+                  - generic [ref=e2096]:
+                    - generic [ref=e2097]:
+                      - generic [ref=e2098]: ₹2,814.00
+                      - generic [ref=e2099]:
+                        - text: ₹
+                        - generic [ref=e2100]: 2,814
+                        - text: "00"
+                    - generic [ref=e2101]:
+                      - generic [ref=e2102]: "M.R.P:"
+                      - generic [ref=e2103]:
+                        - generic [ref=e2104]: ₹4,499.00
+                        - text: ₹4,499.00
+            - listitem [ref=e2105]:
+              - 'link "JBL Go 4, Wireless Ultra Portable Bluetooth Speaker, Pro Sound, Vibrant Colors, Water & Dust Proof, Type C (Without Mic, Black) ₹3,299.00 M.R.P: ₹4,999.00" [ref=e2108] [cursor=pointer]':
+                - /url: /JBL-Wireless-Portable-Bluetooth-Speaker/dp/B0CX5C6WP3?pf_rd_p=c8d4e782-edc2-4e4b-b362-a085167b71ed&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0CX5C6WP3
+                - generic [ref=e2110]:
+                  - generic [ref=e2111]: JBL Go 4, Wireless Ultra Portable Bluetooth Speaker, Pro Sound, Vibrant Colors, Water & Dust Proof, Type C (Without Mic, Black)
+                  - generic [ref=e2113]:
+                    - generic [ref=e2114]:
+                      - generic [ref=e2115]: ₹3,299.00
+                      - generic [ref=e2116]:
+                        - text: ₹
+                        - generic [ref=e2117]: 3,299
+                        - text: "00"
+                    - generic [ref=e2118]:
+                      - generic [ref=e2119]: "M.R.P:"
+                      - generic [ref=e2120]:
+                        - generic [ref=e2121]: ₹4,999.00
+                        - text: ₹4,999.00
+            - listitem [ref=e2122]:
+              - 'link "PHILIPS Audio MMS2625B 2.1 Channel, 31 W, Bluetooth Connectivity, Wired Multimedia Computer Speaker, FM, USB, Audio in Speakers, 15mm Subwoofer, Wide Compatibility - MP3 Player, TV, PC (Black) ₹3,499.00 M.R.P: ₹4,990.00" [ref=e2125] [cursor=pointer]':
+                - /url: /Philips-MMS2625B-Bluetooth-Multimedia-Speakers/dp/B07W41VQ91?pf_rd_p=c8d4e782-edc2-4e4b-b362-a085167b71ed&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B07W41VQ91
+                - generic [ref=e2127]:
+                  - generic [ref=e2128]: PHILIPS Audio MMS2625B 2.1 Channel, 31 W, Bluetooth Connectivity, Wired Multimedia Computer Speaker, FM, USB, Audio in Speakers, 15mm Subwoofer, Wide Compatibility - MP3 Player, TV, PC (Black)
+                  - generic [ref=e2130]:
+                    - generic [ref=e2131]:
+                      - generic [ref=e2132]: ₹3,499.00
+                      - generic [ref=e2133]:
+                        - text: ₹
+                        - generic [ref=e2134]: 3,499
+                        - text: "00"
+                    - generic [ref=e2135]:
+                      - generic [ref=e2136]: "M.R.P:"
+                      - generic [ref=e2137]:
+                        - generic [ref=e2138]: ₹4,990.00
+                        - text: ₹4,990.00
+            - listitem [ref=e2139]:
+              - 'link "Portronics Power Plate 14 Extension Board with 10 Universal Sockets, 25W Type-C PD, 3 USB Charging Ports, 3 Meter Long Cord, 2500 Watts, 2.1 Amp USB Output, Multi Plug for Home Appliances (White) ₹1,399.00 M.R.P: ₹1,999.00" [ref=e2142] [cursor=pointer]':
+                - /url: /Portronics-Extension-Universal-Charging-Appliances/dp/B0CYX3XGB2?pf_rd_p=c8d4e782-edc2-4e4b-b362-a085167b71ed&pf_rd_r=SA26QG04YY7TY8BX5PS5&ref_=AUG-LapsUNrec_B0CYX3XGB2
+                - generic [ref=e2144]:
+                  - generic [ref=e2145]: Portronics Power Plate 14 Extension Board with 10 Universal Sockets, 25W Type-C PD, 3 USB Charging Ports, 3 Meter Long Cord, 2500 Watts, 2.1 Amp USB Output, Multi Plug for Home Appliances (White)
+                  - generic [ref=e2147]:
+                    - generic [ref=e2148]:
+                      - generic [ref=e2149]: ₹1,399.00
+                      - generic [ref=e2150]:
+                        - text: ₹
+                        - generic [ref=e2151]: 1,399
+                        - text: "00"
+                    - generic [ref=e2152]:
+                      - generic [ref=e2153]: "M.R.P:"
+                      - generic [ref=e2154]:
+                        - generic [ref=e2155]: ₹1,999.00
+                        - text: ₹1,999.00
+      - generic [ref=e2158]:
+        - generic [ref=e2161]: 1-12 of over 70,000 results for Computers & Accessories
+        - generic [ref=e2162]:
+          - generic [ref=e2166]:
+            - link [ref=e2169] [cursor=pointer]:
+              - /url: /Bassheads-Earphones-Signature-Microphone-Integrated/dp/B0FM396D71/ref=lp_976392031_1_1?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+              - img [ref=e2171]
+            - generic [ref=e2172]:
+              - group "colours available" [ref=e2174]:
+                - list [ref=e2175]:
+                  - generic [ref=e2176]:
+                    - listitem:
+                      - link "Cool Grey":
+                        - /url: /Bassheads-Earphones-Signature-Microphone-Integrated/dp/B0FM396D71/ref=cs_sr_dp_1?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                  - generic [ref=e2179]:
+                    - listitem:
+                      - link "Active Black":
+                        - /url: /Bassheads-Earphones-Signature-Microphone-Integrated/dp/B0FM3C88PL/ref=cs_sr_dp_2?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                  - generic [ref=e2182]:
+                    - listitem:
+                      - link "Active Black-1":
+                        - /url: /Bassheads-Earphones-Signature-Microphone-Integrated/dp/B0FM38916Y/ref=cs_sr_dp_3?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                  - generic [ref=e2185]:
+                    - listitem:
+                      - link "Active White":
+                        - /url: /Bassheads-Earphones-Signature-Microphone-Integrated/dp/B0FM382T4S/ref=cs_sr_dp_4?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                  - generic [ref=e2188]:
+                    - listitem:
+                      - link "Black":
+                        - /url: /Bassheads-Earphones-Signature-Microphone-Integrated/dp/B01M9C51T9/ref=cs_sr_dp_5?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                  - generic [ref=e2191]:
+                    - listitem:
+                      - link "Off White Orange":
+                        - /url: /Bassheads-Earphones-Signature-Microphone-Integrated/dp/B0FHHFY22M/ref=cs_sr_dp_6?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                - link "+1 other color/pattern" [ref=e2195] [cursor=pointer]:
+                  - /url: /Bassheads-Earphones-Signature-Microphone-Integrated/dp/B0FM396D71/ref=cs_sr_dp_n?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                  - text: "+1"
+              - link "Boat Bassheads 300C Wired Earphones,Type-C Jack, 10mm Drivers, Signature Sound, in-Line Microphone, Integrated Controls, Voice Assistant & 120cm Cable (Cool Grey)" [ref=e2197] [cursor=pointer]:
+                - /url: /Bassheads-Earphones-Signature-Microphone-Integrated/dp/B0FM396D71/ref=lp_976392031_1_1?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                - heading "Boat Bassheads 300C Wired Earphones,Type-C Jack, 10mm Drivers, Signature Sound, in-Line Microphone, Integrated Controls, Voice Assistant & 120cm Cable (Cool Grey)" [level=2] [ref=e2198]
+              - generic [ref=e2199]:
+                - generic [ref=e2200]:
+                  - text: "4.0"
+                  - button "4.0 out of 5 stars, rating details" [ref=e2202] [cursor=pointer]:
+                    - generic [ref=e2204]: 4.0 out of 5 stars
+                  - link "119,497 ratings" [ref=e2206] [cursor=pointer]:
+                    - /url: /Bassheads-Earphones-Signature-Microphone-Integrated/dp/B0FM396D71/ref=lp_976392031_1_1?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D#customerReviews
+                    - text: (1.1L)
+                - generic [ref=e2207]: 3K+ bought in past month
+              - generic [ref=e2208]:
+                - generic [ref=e2210]:
+                  - generic [ref=e2211]: Price, product page
+                  - 'link "₹549 M.R.P: ₹999 M.R.P: ₹999" [ref=e2212] [cursor=pointer]':
+                    - /url: /Bassheads-Earphones-Signature-Microphone-Integrated/dp/B0FM396D71/ref=lp_976392031_1_1?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                    - generic [ref=e2213]:
+                      - generic [ref=e2214]: ₹549
+                      - generic [ref=e2215]: ₹549
+                    - generic [ref=e2216]: "M.R.P: ₹999"
+                    - generic [ref=e2217]:
+                      - text: "M.R.P:"
+                      - generic [ref=e2218]:
+                        - generic [ref=e2219]: ₹999
+                        - text: ₹999
+                  - text: (45% off)
+                - generic [ref=e2224]: Up to 5% back with Amazon Pay ICICI card
+              - generic [ref=e2229]: FREE delivery Sun, 19 Jul
+          - generic [ref=e2233]:
+            - link [ref=e2236] [cursor=pointer]:
+              - /url: /Compatible-Original-Television-Suitable-Command/dp/B0H67PR4LY/ref=lp_976392031_1_2?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+              - img [ref=e2238]
+            - generic [ref=e2239]:
+              - link "Remote Control Compatible for Samsung Smart 4K Tv Remote Original Led UHD QLED Television and Monitor Suitable for Frame Ultra 6 7 8 Series with Hot Keys BN59 Model Without Voice Command." [ref=e2241] [cursor=pointer]:
+                - /url: /Compatible-Original-Television-Suitable-Command/dp/B0H67PR4LY/ref=lp_976392031_1_2?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                - heading "Remote Control Compatible for Samsung Smart 4K Tv Remote Original Led UHD QLED Television and Monitor Suitable for Frame Ultra 6 7 8 Series with Hot Keys BN59 Model Without Voice Command." [level=2] [ref=e2242]
+              - generic [ref=e2244]:
+                - text: "4.5"
+                - button "4.5 out of 5 stars, rating details" [ref=e2246] [cursor=pointer]:
+                  - generic [ref=e2248]: 4.5 out of 5 stars
+                - link "5,139 ratings" [ref=e2250] [cursor=pointer]:
+                  - /url: /Compatible-Original-Television-Suitable-Command/dp/B0H67PR4LY/ref=lp_976392031_1_2?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D#customerReviews
+                  - text: (5.1K)
+              - generic [ref=e2251]:
+                - generic [ref=e2253]:
+                  - generic [ref=e2254]: Price, product page
+                  - 'link "₹299 M.R.P: ₹999 M.R.P: ₹999" [ref=e2255] [cursor=pointer]':
+                    - /url: /Compatible-Original-Television-Suitable-Command/dp/B0H67PR4LY/ref=lp_976392031_1_2?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                    - generic [ref=e2256]:
+                      - generic [ref=e2257]: ₹299
+                      - generic [ref=e2258]: ₹299
+                    - generic [ref=e2259]: "M.R.P: ₹999"
+                    - generic [ref=e2260]:
+                      - text: "M.R.P:"
+                      - generic [ref=e2261]:
+                        - generic [ref=e2262]: ₹999
+                        - text: ₹999
+                  - text: (70% off)
+                - generic [ref=e2267]: Up to 5% back with Amazon Pay ICICI card
+              - generic [ref=e2272]: FREE delivery Sun, 19 Jul on first order
+          - generic [ref=e2276]:
+            - link [ref=e2279] [cursor=pointer]:
+              - /url: /Original-Bluetooth-Accessory-Warranty-Universal/dp/B0DK1CJKM3/ref=lp_976392031_1_3?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+              - img [ref=e2281]
+            - generic [ref=e2282]:
+              - link "Jio Original & Genuine Bluetooth Voice Remote for JioFiber Set-Top Box | 43-Key Universal Replacement | Easy Pairing | 6-Month Warranty" [ref=e2284] [cursor=pointer]:
+                - /url: /Original-Bluetooth-Accessory-Warranty-Universal/dp/B0DK1CJKM3/ref=lp_976392031_1_3?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                - heading "Jio Original & Genuine Bluetooth Voice Remote for JioFiber Set-Top Box | 43-Key Universal Replacement | Easy Pairing | 6-Month Warranty" [level=2] [ref=e2285]
+              - generic [ref=e2286]:
+                - generic [ref=e2287]:
+                  - text: "4.3"
+                  - button "4.3 out of 5 stars, rating details" [ref=e2289] [cursor=pointer]:
+                    - generic [ref=e2291]: 4.3 out of 5 stars
+                  - link "363 ratings" [ref=e2293] [cursor=pointer]:
+                    - /url: /Original-Bluetooth-Accessory-Warranty-Universal/dp/B0DK1CJKM3/ref=lp_976392031_1_3?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D#customerReviews
+                    - text: (363)
+                - generic [ref=e2294]: 4K+ bought in past month
+              - generic [ref=e2295]:
+                - generic [ref=e2297]:
+                  - generic [ref=e2298]: Price, product page
+                  - 'link "₹699 M.R.P: ₹799 M.R.P: ₹799" [ref=e2299] [cursor=pointer]':
+                    - /url: /Original-Bluetooth-Accessory-Warranty-Universal/dp/B0DK1CJKM3/ref=lp_976392031_1_3?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                    - generic [ref=e2300]:
+                      - generic [ref=e2301]: ₹699
+                      - generic [ref=e2302]: ₹699
+                    - generic [ref=e2303]: "M.R.P: ₹799"
+                    - generic [ref=e2304]:
+                      - text: "M.R.P:"
+                      - generic [ref=e2305]:
+                        - generic [ref=e2306]: ₹799
+                        - text: ₹799
+                  - text: (13% off)
+                - generic [ref=e2311]: Up to 5% back with Amazon Pay ICICI card
+              - generic [ref=e2316]: FREE delivery Sun, 19 Jul
+          - generic [ref=e2320]:
+            - link [ref=e2323] [cursor=pointer]:
+              - /url: /Zebronics-Transmission-Supports-Channels-HAA1520A/dp/B0GN36R8HW/ref=lp_976392031_1_4?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+              - img [ref=e2325]
+            - generic [ref=e2326]:
+              - link "Zebronics HDMI 2.0 Cable with ARC, 4K@60Hz UHD, 1.5 Meter Cable, 18 Gbps High Speed Data Transmission, Supports 3D, CEC, 32 Audio Channels, Male-to-Male (HAA1520A)" [ref=e2328] [cursor=pointer]:
+                - /url: /Zebronics-Transmission-Supports-Channels-HAA1520A/dp/B0GN36R8HW/ref=lp_976392031_1_4?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                - heading "Zebronics HDMI 2.0 Cable with ARC, 4K@60Hz UHD, 1.5 Meter Cable, 18 Gbps High Speed Data Transmission, Supports 3D, CEC, 32 Audio Channels, Male-to-Male (HAA1520A)" [level=2] [ref=e2329]
+              - generic [ref=e2330]:
+                - generic [ref=e2331]:
+                  - text: "4.0"
+                  - button "4.0 out of 5 stars, rating details" [ref=e2333] [cursor=pointer]:
+                    - generic [ref=e2335]: 4.0 out of 5 stars
+                  - link "34 ratings" [ref=e2337] [cursor=pointer]:
+                    - /url: /Zebronics-Transmission-Supports-Channels-HAA1520A/dp/B0GN36R8HW/ref=lp_976392031_1_4?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D#customerReviews
+                    - text: (34)
+                - generic [ref=e2338]: 1K+ bought in past month
+              - generic [ref=e2339]:
+                - generic [ref=e2341]:
+                  - generic [ref=e2342]: Price, product page
+                  - 'link "₹149 M.R.P: ₹699 M.R.P: ₹699" [ref=e2343] [cursor=pointer]':
+                    - /url: /Zebronics-Transmission-Supports-Channels-HAA1520A/dp/B0GN36R8HW/ref=lp_976392031_1_4?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                    - generic [ref=e2344]:
+                      - generic [ref=e2345]: ₹149
+                      - generic [ref=e2346]: ₹149
+                    - generic [ref=e2347]: "M.R.P: ₹699"
+                    - generic [ref=e2348]:
+                      - text: "M.R.P:"
+                      - generic [ref=e2349]:
+                        - generic [ref=e2350]: ₹699
+                        - text: ₹699
+                  - text: (79% off)
+                - generic [ref=e2355]: Up to 5% back with Amazon Pay ICICI card
+              - generic [ref=e2360]: FREE delivery Sun, 19 Jul on first order
+          - generic [ref=e2364]:
+            - link [ref=e2367] [cursor=pointer]:
+              - /url: /Alienware-AW2726DM-Smartchoice-FreeSync-AdaptiveSync/dp/B0GYG3VLMR/ref=lp_976392031_1_5?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+              - img [ref=e2369]
+            - generic [ref=e2370]:
+              - link "Alienware AW2726DM (Smartchoice) 26.5\" QD OLED Monitor|99% DCI-P3, 0.03ms GTG, 240Hz Ref|AMD FreeSync Premium VESA AdaptiveSync|HDMI*2, DP 1.4|1500000:1 Contrast, 400 cd/m2 Brightness|Ergonomic" [ref=e2372] [cursor=pointer]:
+                - /url: /Alienware-AW2726DM-Smartchoice-FreeSync-AdaptiveSync/dp/B0GYG3VLMR/ref=lp_976392031_1_5?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                - heading "Alienware AW2726DM (Smartchoice) 26.5\" QD OLED Monitor|99% DCI-P3, 0.03ms GTG, 240Hz Ref|AMD FreeSync Premium VESA AdaptiveSync|HDMI*2, DP 1.4|1500000:1 Contrast, 400 cd/m2 Brightness|Ergonomic" [level=2] [ref=e2373]
+              - generic [ref=e2374]:
+                - generic [ref=e2375]:
+                  - text: "4.6"
+                  - button "4.6 out of 5 stars, rating details" [ref=e2377] [cursor=pointer]:
+                    - generic [ref=e2379]: 4.6 out of 5 stars
+                  - link "6 ratings" [ref=e2381] [cursor=pointer]:
+                    - /url: /Alienware-AW2726DM-Smartchoice-FreeSync-AdaptiveSync/dp/B0GYG3VLMR/ref=lp_976392031_1_5?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D#customerReviews
+                    - text: (6)
+                - generic [ref=e2382]: 100+ bought in past month
+              - generic [ref=e2383]:
+                - generic [ref=e2385]:
+                  - generic [ref=e2386]: Price, product page
+                  - 'link "₹46,999 M.R.P: ₹48,537 M.R.P: ₹48,537" [ref=e2387] [cursor=pointer]':
+                    - /url: /Alienware-AW2726DM-Smartchoice-FreeSync-AdaptiveSync/dp/B0GYG3VLMR/ref=lp_976392031_1_5?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                    - generic [ref=e2388]:
+                      - generic [ref=e2389]: ₹46,999
+                      - generic [ref=e2390]: ₹46,999
+                    - generic [ref=e2391]: "M.R.P: ₹48,537"
+                    - generic [ref=e2392]:
+                      - text: "M.R.P:"
+                      - generic [ref=e2393]:
+                        - generic [ref=e2394]: ₹48,537
+                        - text: ₹48,537
+                  - text: (3% off)
+                - generic [ref=e2399]: Up to 5% back with Amazon Pay ICICI card
+              - generic [ref=e2404]: FREE delivery as soon as Tue, 14 Jul, 7 am - 10 pm
+          - generic [ref=e2408]:
+            - group "Best sellerin Mechanical Pencils" [ref=e2413]:
+              - generic "Best seller" [ref=e2415]
+            - link [ref=e2418] [cursor=pointer]:
+              - /url: /BRUSTRO-Kuro-Precision-Mechanical-Pencil/dp/B0FV2S9Z43/ref=lp_976392031_1_6?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+              - img [ref=e2420]
+            - generic [ref=e2421]:
+              - link "BRUSTRO Kuro Precision Mechanical Pencil | Tip Size - 0.9mm With 20 - HB and 20-2B leads, 3 Eraser Refills| Ideal For Writing, Sketching, Drawing, Mandala Arts and Fine Art Students" [ref=e2423] [cursor=pointer]:
+                - /url: /BRUSTRO-Kuro-Precision-Mechanical-Pencil/dp/B0FV2S9Z43/ref=lp_976392031_1_6?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                - heading "BRUSTRO Kuro Precision Mechanical Pencil | Tip Size - 0.9mm With 20 - HB and 20-2B leads, 3 Eraser Refills| Ideal For Writing, Sketching, Drawing, Mandala Arts and Fine Art Students" [level=2] [ref=e2424]
+              - generic [ref=e2425]:
+                - generic [ref=e2426]:
+                  - text: "4.4"
+                  - button "4.4 out of 5 stars, rating details" [ref=e2428] [cursor=pointer]:
+                    - generic [ref=e2430]: 4.4 out of 5 stars
+                  - link "3,677 ratings" [ref=e2432] [cursor=pointer]:
+                    - /url: /BRUSTRO-Kuro-Precision-Mechanical-Pencil/dp/B0FV2S9Z43/ref=lp_976392031_1_6?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D#customerReviews
+                    - text: (3.6K)
+                - generic [ref=e2433]: 300+ bought in past month
+              - generic [ref=e2434]:
+                - generic [ref=e2436]:
+                  - generic [ref=e2437]: Price, product page
+                  - 'link "₹251.10 M.R.P: ₹279 M.R.P: ₹279" [ref=e2438] [cursor=pointer]':
+                    - /url: /BRUSTRO-Kuro-Precision-Mechanical-Pencil/dp/B0FV2S9Z43/ref=lp_976392031_1_6?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                    - generic [ref=e2439]:
+                      - generic [ref=e2440]: ₹251.10
+                      - generic [ref=e2441]:
+                        - text: ₹
+                        - generic [ref=e2442]:
+                          - text: "251"
+                          - generic [ref=e2443]: .
+                        - text: "10"
+                    - generic [ref=e2444]: "M.R.P: ₹279"
+                    - generic [ref=e2445]:
+                      - text: "M.R.P:"
+                      - generic [ref=e2446]:
+                        - generic [ref=e2447]: ₹279
+                        - text: ₹279
+                  - text: (10% off)
+                - generic [ref=e2452]: Up to 5% back with Amazon Pay ICICI card
+              - generic [ref=e2457]: FREE delivery Sun, 19 Jul on first order
+              - generic [ref=e2459]:
+                - text: More Buying Choices
+                - text: ₹230
+                - link "(6 new offers)" [ref=e2460] [cursor=pointer]:
+                  - /url: /gp/offer-listing/B0FV2S9Z43/ref=lp_976392031_1_6_olp?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5
+          - generic [ref=e2464]:
+            - link [ref=e2467] [cursor=pointer]:
+              - /url: /CP-PLUS-CP-ANW-HPU8H2-N12-Transfer-watchdog/dp/B0D4LNVSDM/ref=lp_976392031_1_7?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+              - img [ref=e2469]
+            - generic [ref=e2470]:
+              - link "CP PLUS 8 Port PoE + 2 Uplink Port CP-ANW-HPU8H2-N12 PoE Switch with High Data Transfer , PoE watchdog AI Function" [ref=e2472] [cursor=pointer]:
+                - /url: /CP-PLUS-CP-ANW-HPU8H2-N12-Transfer-watchdog/dp/B0D4LNVSDM/ref=lp_976392031_1_7?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                - heading "CP PLUS 8 Port PoE + 2 Uplink Port CP-ANW-HPU8H2-N12 PoE Switch with High Data Transfer , PoE watchdog AI Function" [level=2] [ref=e2473]
+              - generic [ref=e2474]:
+                - generic [ref=e2475]:
+                  - text: "4.2"
+                  - button "4.2 out of 5 stars, rating details" [ref=e2477] [cursor=pointer]:
+                    - generic [ref=e2479]: 4.2 out of 5 stars
+                  - link "100 ratings" [ref=e2481] [cursor=pointer]:
+                    - /url: /CP-PLUS-CP-ANW-HPU8H2-N12-Transfer-watchdog/dp/B0D4LNVSDM/ref=lp_976392031_1_7?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D#customerReviews
+                    - text: (100)
+                - generic [ref=e2482]: 400+ bought in past month
+              - generic [ref=e2483]:
+                - generic [ref=e2485]:
+                  - generic [ref=e2486]: Price, product page
+                  - 'link "₹1,649 M.R.P: ₹3,600 M.R.P: ₹3,600" [ref=e2487] [cursor=pointer]':
+                    - /url: /CP-PLUS-CP-ANW-HPU8H2-N12-Transfer-watchdog/dp/B0D4LNVSDM/ref=lp_976392031_1_7?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                    - generic [ref=e2488]:
+                      - generic [ref=e2489]: ₹1,649
+                      - generic [ref=e2490]: ₹1,649
+                    - generic [ref=e2491]: "M.R.P: ₹3,600"
+                    - generic [ref=e2492]:
+                      - text: "M.R.P:"
+                      - generic [ref=e2493]:
+                        - generic [ref=e2494]: ₹3,600
+                        - text: ₹3,600
+                  - text: (54% off)
+                - generic [ref=e2499]: Up to 5% back with Amazon Pay ICICI card
+              - generic [ref=e2504]: FREE delivery Sun, 19 Jul
+          - generic [ref=e2508]:
+            - link [ref=e2511] [cursor=pointer]:
+              - /url: /CMF-NOTHING-Buds-2-Orange/dp/B0FJVXSBFM/ref=lp_976392031_1_8?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+              - img [ref=e2513]
+            - generic [ref=e2514]:
+              - group "colours available" [ref=e2516]:
+                - list [ref=e2517]:
+                  - generic [ref=e2518]:
+                    - listitem:
+                      - link "Orange":
+                        - /url: /CMF-NOTHING-Buds-2-Orange/dp/B0FJVXSBFM/ref=cs_sr_dp_1?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                  - generic [ref=e2521]:
+                    - listitem:
+                      - link "Light Grey":
+                        - /url: /CMF-NOTHING-Buds-2-Orange/dp/B0FJWL7XYR/ref=cs_sr_dp_2?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                  - generic [ref=e2524]:
+                    - listitem:
+                      - link "Dark Grey":
+                        - /url: /CMF-NOTHING-Buds-2-Orange/dp/B0FFN4GPJG/ref=cs_sr_dp_3?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                  - generic [ref=e2527]:
+                    - listitem:
+                      - link "Orange/Red":
+                        - /url: /CMF-NOTHING-Buds-2-Orange/dp/B0D9BKDP7C/ref=cs_sr_dp_4?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                  - generic [ref=e2530]:
+                    - listitem:
+                      - link "orange":
+                        - /url: /CMF-NOTHING-Buds-2-Orange/dp/B0D544PSWC/ref=cs_sr_dp_5?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                  - generic [ref=e2533]:
+                    - listitem:
+                      - link "blue":
+                        - /url: /CMF-NOTHING-Buds-2-Orange/dp/B0D5437K6H/ref=cs_sr_dp_6?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                - link "+5 other colors/patterns" [ref=e2537] [cursor=pointer]:
+                  - /url: /CMF-NOTHING-Buds-2-Orange/dp/B0FJVXSBFM/ref=cs_sr_dp_n?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                  - text: "+5"
+              - link "CMF by Nothing Buds 2 48 dB Hybrid ANC, Ultra Bass Technology 2.0, 55 Hrs Playtime Bluetooth Headset (Orange, in the Ear)" [ref=e2539] [cursor=pointer]:
+                - /url: /CMF-NOTHING-Buds-2-Orange/dp/B0FJVXSBFM/ref=lp_976392031_1_8?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                - heading "CMF by Nothing Buds 2 48 dB Hybrid ANC, Ultra Bass Technology 2.0, 55 Hrs Playtime Bluetooth Headset (Orange, in the Ear)" [level=2] [ref=e2540]
+              - generic [ref=e2541]:
+                - generic [ref=e2542]:
+                  - text: "4.3"
+                  - button "4.3 out of 5 stars, rating details" [ref=e2544] [cursor=pointer]:
+                    - generic [ref=e2546]: 4.3 out of 5 stars
+                  - link "269 ratings" [ref=e2548] [cursor=pointer]:
+                    - /url: /CMF-NOTHING-Buds-2-Orange/dp/B0FJVXSBFM/ref=lp_976392031_1_8?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D#customerReviews
+                    - text: (269)
+                - generic [ref=e2549]: 200+ bought in past month
+              - generic [ref=e2550]:
+                - generic [ref=e2552]:
+                  - generic [ref=e2553]: Price, product page
+                  - 'link "₹2,699 M.R.P: ₹2,999 M.R.P: ₹2,999" [ref=e2554] [cursor=pointer]':
+                    - /url: /CMF-NOTHING-Buds-2-Orange/dp/B0FJVXSBFM/ref=lp_976392031_1_8?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                    - generic [ref=e2555]:
+                      - generic [ref=e2556]: ₹2,699
+                      - generic [ref=e2557]: ₹2,699
+                    - generic [ref=e2558]: "M.R.P: ₹2,999"
+                    - generic [ref=e2559]:
+                      - text: "M.R.P:"
+                      - generic [ref=e2560]:
+                        - generic [ref=e2561]: ₹2,999
+                        - text: ₹2,999
+                  - text: (10% off)
+                - generic [ref=e2566]: Up to 5% back with Amazon Pay ICICI card
+              - generic [ref=e2571]: FREE delivery Sun, 19 Jul
+          - generic [ref=e2575]:
+            - link [ref=e2578] [cursor=pointer]:
+              - /url: /Original-Conditioner-Control-Compatible-Function/dp/B0GXLKNLV8/ref=lp_976392031_1_9?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+              - img [ref=e2580]
+            - generic [ref=e2581]:
+              - link "Original Air Conditioner Remote Control Compatible with voltas ac Remote contr for 1 1.5 2 Ton Voltas Smart Split Ac with WiFi Function 133B" [ref=e2583] [cursor=pointer]:
+                - /url: /Original-Conditioner-Control-Compatible-Function/dp/B0GXLKNLV8/ref=lp_976392031_1_9?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                - heading "Original Air Conditioner Remote Control Compatible with voltas ac Remote contr for 1 1.5 2 Ton Voltas Smart Split Ac with WiFi Function 133B" [level=2] [ref=e2584]
+              - generic [ref=e2585]:
+                - generic [ref=e2586]:
+                  - text: "3.7"
+                  - button "3.7 out of 5 stars, rating details" [ref=e2588] [cursor=pointer]:
+                    - generic [ref=e2590]: 3.7 out of 5 stars
+                  - link "3,536 ratings" [ref=e2592] [cursor=pointer]:
+                    - /url: /Original-Conditioner-Control-Compatible-Function/dp/B0GXLKNLV8/ref=lp_976392031_1_9?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D#customerReviews
+                    - text: (3.5K)
+                - generic [ref=e2593]: 1K+ bought in past month
+              - generic [ref=e2594]:
+                - generic [ref=e2596]:
+                  - generic [ref=e2597]: Price, product page
+                  - 'link "₹299 ( ₹29,900 /100 g) M.R.P: ₹999 M.R.P: ₹999" [ref=e2598] [cursor=pointer]':
+                    - /url: /Original-Conditioner-Control-Compatible-Function/dp/B0GXLKNLV8/ref=lp_976392031_1_9?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                    - generic [ref=e2599]:
+                      - generic [ref=e2600]: ₹299
+                      - generic [ref=e2601]: ₹299
+                    - generic [ref=e2602]:
+                      - text: (
+                      - generic [ref=e2603]:
+                        - generic [ref=e2604]: ₹29,900
+                        - text: ₹29,900
+                      - text: /100 g)
+                    - generic [ref=e2605]: "M.R.P: ₹999"
+                    - generic [ref=e2606]:
+                      - text: "M.R.P:"
+                      - generic [ref=e2607]:
+                        - generic [ref=e2608]: ₹999
+                        - text: ₹999
+                  - text: (70% off)
+                - generic [ref=e2613]: Up to 5% back with Amazon Pay ICICI card
+              - generic [ref=e2618]: FREE delivery Sun, 19 Jul on first order
+          - generic [ref=e2622]:
+            - link [ref=e2625] [cursor=pointer]:
+              - /url: /Grand-Theft-Auto-Standard-PlayStation/dp/B0H6X8VNQC/ref=lp_976392031_1_10?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+              - img [ref=e2627]
+            - generic [ref=e2628]:
+              - generic [ref=e2629]:
+                - link "Grand Theft Auto VI | Standard Edition | PlayStation 5" [ref=e2630] [cursor=pointer]:
+                  - /url: /Grand-Theft-Auto-Standard-PlayStation/dp/B0H6X8VNQC/ref=lp_976392031_1_10?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                  - heading "Grand Theft Auto VI | Standard Edition | PlayStation 5" [level=2] [ref=e2631]
+                - generic [ref=e2632]: "PEGI Rating: Ages 18 & Over"
+              - generic [ref=e2633]:
+                - generic [ref=e2635]:
+                  - generic [ref=e2636]: Price, product page
+                  - link "₹5,999" [ref=e2637] [cursor=pointer]:
+                    - /url: /Grand-Theft-Auto-Standard-PlayStation/dp/B0H6X8VNQC/ref=lp_976392031_1_10?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                    - generic [ref=e2638]:
+                      - generic [ref=e2639]: ₹5,999
+                      - generic [ref=e2640]: ₹5,999
+                - generic [ref=e2645]: Up to 5% back with Amazon Pay ICICI card
+              - generic [ref=e2646]:
+                - generic [ref=e2650]: FREE delivery 20 - 28 Nov
+                - generic "This item will be released on November 19, 2026." [ref=e2652]
+          - generic [ref=e2656]:
+            - link [ref=e2659] [cursor=pointer]:
+              - /url: /Earphone-Heaphone-Carrying-Earphones-Accessories-Black/dp/B0DWX68GPW/ref=lp_976392031_1_11?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+              - img [ref=e2661]
+            - generic [ref=e2662]:
+              - group "colours available" [ref=e2664]:
+                - list [ref=e2665]:
+                  - generic [ref=e2666]:
+                    - listitem:
+                      - link "Black (1 Pack)":
+                        - /url: /Earphone-Heaphone-Carrying-Earphones-Accessories-Black/dp/B0DWX68GPW/ref=cs_sr_dp_1?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                  - generic [ref=e2669]:
+                    - listitem:
+                      - link "Black (2 Pack)":
+                        - /url: /Earphone-Heaphone-Carrying-Earphones-Accessories-Black/dp/B0DWWYZQ7N/ref=cs_sr_dp_2?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                  - generic [ref=e2672]:
+                    - listitem:
+                      - link "Black (3 Pack)":
+                        - /url: /Earphone-Heaphone-Carrying-Earphones-Accessories-Black/dp/B0DWX3FZN8/ref=cs_sr_dp_3?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                  - generic [ref=e2675]:
+                    - listitem:
+                      - link "Black (4 Pack)":
+                        - /url: /Earphone-Heaphone-Carrying-Earphones-Accessories-Black/dp/B0DWX84ML7/ref=cs_sr_dp_4?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                  - generic [ref=e2678]:
+                    - listitem:
+                      - link "Black Bow":
+                        - /url: /Earphone-Heaphone-Carrying-Earphones-Accessories-Black/dp/B0G49GPSVW/ref=cs_sr_dp_5?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                  - generic [ref=e2681]:
+                    - listitem:
+                      - link "Black Heart":
+                        - /url: /Earphone-Heaphone-Carrying-Earphones-Accessories-Black/dp/B0G49L12ZJ/ref=cs_sr_dp_6?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                - link "+9 other colors/patterns" [ref=e2685] [cursor=pointer]:
+                  - /url: /Earphone-Heaphone-Carrying-Earphones-Accessories-Black/dp/B0DWX68GPW/ref=cs_sr_dp_n?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                  - text: "+9"
+              - link "Cerlink Earphone Case Heaphone Pouch Cover Leather Carrying Case for Earphones, Headset, Pen Drives, SD Cards, All Mobile Accessories-Black (Pack of-1)" [ref=e2687] [cursor=pointer]:
+                - /url: /Earphone-Heaphone-Carrying-Earphones-Accessories-Black/dp/B0DWX68GPW/ref=lp_976392031_1_11?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                - heading "Cerlink Earphone Case Heaphone Pouch Cover Leather Carrying Case for Earphones, Headset, Pen Drives, SD Cards, All Mobile Accessories-Black (Pack of-1)" [level=2] [ref=e2688]
+              - generic [ref=e2689]:
+                - generic [ref=e2690]:
+                  - text: "4.4"
+                  - button "4.4 out of 5 stars, rating details" [ref=e2692] [cursor=pointer]:
+                    - generic [ref=e2694]: 4.4 out of 5 stars
+                  - link "289 ratings" [ref=e2696] [cursor=pointer]:
+                    - /url: /Earphone-Heaphone-Carrying-Earphones-Accessories-Black/dp/B0DWX68GPW/ref=lp_976392031_1_11?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D#customerReviews
+                    - text: (289)
+                - generic [ref=e2697]: 3K+ bought in past month
+              - generic [ref=e2698]:
+                - generic [ref=e2700]:
+                  - generic [ref=e2701]: Price, product page
+                  - 'link "₹89 M.R.P: ₹899 M.R.P: ₹899" [ref=e2702] [cursor=pointer]':
+                    - /url: /Earphone-Heaphone-Carrying-Earphones-Accessories-Black/dp/B0DWX68GPW/ref=lp_976392031_1_11?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                    - generic [ref=e2703]:
+                      - generic [ref=e2704]: ₹89
+                      - generic [ref=e2705]: ₹89
+                    - generic [ref=e2706]: "M.R.P: ₹899"
+                    - generic [ref=e2707]:
+                      - text: "M.R.P:"
+                      - generic [ref=e2708]:
+                        - generic [ref=e2709]: ₹899
+                        - text: ₹899
+                  - text: (90% off)
+                - generic [ref=e2714]: Up to 5% back with Amazon Pay ICICI card
+              - generic [ref=e2719]: FREE delivery Sun, 19 Jul on first order
+          - generic [ref=e2723]:
+            - link [ref=e2726] [cursor=pointer]:
+              - /url: /Zebronics-Transfer-Compatible-Braided-Chromebook/dp/B0FSCS6592/ref=lp_976392031_1_12?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+              - img [ref=e2728]
+            - generic [ref=e2729]:
+              - link "Zebronics Type C to HDMI Cable, 4K @ 60Hz | 1080p @ 240Hz, 18Gbps Data Transfer, 3D Compatible, 1M (3.2ft) Braided Cable, for Laptop, Mobile, iPad Pro, MacBook, Chromebook, TV (CHA20)" [ref=e2731] [cursor=pointer]:
+                - /url: /Zebronics-Transfer-Compatible-Braided-Chromebook/dp/B0FSCS6592/ref=lp_976392031_1_12?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                - heading "Zebronics Type C to HDMI Cable, 4K @ 60Hz | 1080p @ 240Hz, 18Gbps Data Transfer, 3D Compatible, 1M (3.2ft) Braided Cable, for Laptop, Mobile, iPad Pro, MacBook, Chromebook, TV (CHA20)" [level=2] [ref=e2732]
+              - generic [ref=e2733]:
+                - generic [ref=e2734]:
+                  - text: "4.0"
+                  - button "4.0 out of 5 stars, rating details" [ref=e2736] [cursor=pointer]:
+                    - generic [ref=e2738]: 4.0 out of 5 stars
+                  - link "205 ratings" [ref=e2740] [cursor=pointer]:
+                    - /url: /Zebronics-Transfer-Compatible-Braided-Chromebook/dp/B0FSCS6592/ref=lp_976392031_1_12?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D#customerReviews
+                    - text: (205)
+                - generic [ref=e2741]: 1K+ bought in past month
+              - generic [ref=e2742]:
+                - generic [ref=e2744]:
+                  - generic [ref=e2745]: Price, product page
+                  - 'link "₹699 M.R.P: ₹2,999 M.R.P: ₹2,999" [ref=e2746] [cursor=pointer]':
+                    - /url: /Zebronics-Transfer-Compatible-Braided-Chromebook/dp/B0FSCS6592/ref=lp_976392031_1_12?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=SA26QG04YY7TY8BX5PS5&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D
+                    - generic [ref=e2747]:
+                      - generic [ref=e2748]: ₹699
+                      - generic [ref=e2749]: ₹699
+                    - generic [ref=e2750]: "M.R.P: ₹2,999"
+                    - generic [ref=e2751]:
+                      - text: "M.R.P:"
+                      - generic [ref=e2752]:
+                        - generic [ref=e2753]: ₹2,999
+                        - text: ₹2,999
+                  - text: (77% off)
+                - generic [ref=e2758]: Up to 5% back with Amazon Pay ICICI card
+              - generic [ref=e2763]: FREE delivery Sun, 19 Jul
+        - link "See all results" [ref=e2767] [cursor=pointer]:
+          - /url: /s?i=computers&rh=n%3A976392031&s=popularity-rank&fs=true&ref=lp_976392031_sar
+  - generic [ref=e2770]:
+    - button "Back to top" [ref=e2771] [cursor=pointer]:
+      - generic [ref=e2772]: Back to top
+    - generic [ref=e2773]:
+      - generic [ref=e2774]:
+        - heading "Get to Know Us" [level=6] [ref=e2775]
+        - list [ref=e2776]:
+          - listitem [ref=e2777]:
+            - link "About Amazon" [ref=e2778] [cursor=pointer]:
+              - /url: https://www.aboutamazon.in/?utm_source=gateway&utm_medium=footer
+          - listitem [ref=e2779]:
+            - link "Careers" [ref=e2780] [cursor=pointer]:
+              - /url: https://amazon.jobs
+          - listitem [ref=e2781]:
+            - link "Press Releases" [ref=e2782] [cursor=pointer]:
+              - /url: https://press.aboutamazon.in/?utm_source=gateway&utm_medium=footer
+          - listitem [ref=e2783]:
+            - link "Amazon Science" [ref=e2784] [cursor=pointer]:
+              - /url: https://www.amazon.science
+      - generic [ref=e2786]:
+        - heading "Connect with Us" [level=6] [ref=e2787]
+        - list [ref=e2788]:
+          - listitem [ref=e2789]:
+            - link "Facebook" [ref=e2790] [cursor=pointer]:
+              - /url: https://www.facebook.com/AmazonIN
+          - listitem [ref=e2791]:
+            - link "Twitter" [ref=e2792] [cursor=pointer]:
+              - /url: https://x.com/AmazonIN
+          - listitem [ref=e2793]:
+            - link "Instagram" [ref=e2794] [cursor=pointer]:
+              - /url: https://www.instagram.com/amazondotin
+      - generic [ref=e2796]:
+        - heading "Make Money with Us" [level=6] [ref=e2797]
+        - list [ref=e2798]:
+          - listitem [ref=e2799]:
+            - link "Sell on Amazon" [ref=e2800] [cursor=pointer]:
+              - /url: /b/?node=2838698031&ld=AZINSOANavDesktopFooter_C&ref_=nav_footer_sell_C
+          - listitem [ref=e2801]:
+            - link "Sell under Amazon Accelerator" [ref=e2802] [cursor=pointer]:
+              - /url: https://accelerator.amazon.in/?ref_=map_1_b2b_GW_FT
+          - listitem [ref=e2803]:
+            - link "Protect and Build Your Brand" [ref=e2804] [cursor=pointer]:
+              - /url: https://brandservices.amazon.in/?ref=AOINABRLGNRFOOT&ld=AOINABRLGNRFOOT
+          - listitem [ref=e2805]:
+            - link "Amazon Global Selling" [ref=e2806] [cursor=pointer]:
+              - /url: https://sell.amazon.in/grow-your-business/amazon-global-selling.html?ld=AZIN_Footer_V1&ref=AZIN_Footer_V1
+          - listitem [ref=e2807]:
+            - link "Supply to Amazon" [ref=e2808] [cursor=pointer]:
+              - /url: https://supply.amazon.com/?ref_=footer_sta&lang=en-IN
+          - listitem [ref=e2809]:
+            - link "Become an Affiliate" [ref=e2810] [cursor=pointer]:
+              - /url: https://affiliate-program.amazon.in/?utm_campaign=assocshowcase&utm_medium=footer&utm_source=GW&ref_=footer_assoc
+          - listitem [ref=e2811]:
+            - link "Fulfilment by Amazon" [ref=e2812] [cursor=pointer]:
+              - /url: https://services.amazon.in/services/fulfilment-by-amazon/benefits.html/ref=az_footer_fba?ld=AWRGINFBAfooter
+          - listitem [ref=e2813]:
+            - link "Advertise Your Products" [ref=e2814] [cursor=pointer]:
+              - /url: https://advertising.amazon.in/?ref=Amz.in
+          - listitem [ref=e2815]:
+            - link "Amazon Pay on Merchants" [ref=e2816] [cursor=pointer]:
+              - /url: https://www.amazonpay.in/merchant
+      - generic [ref=e2818]:
+        - heading "Let Us Help You" [level=6] [ref=e2819]
+        - list [ref=e2820]:
+          - listitem [ref=e2821]:
+            - link "Your Account" [ref=e2822] [cursor=pointer]:
+              - /url: /gp/css/homepage.html?ref_=footer_ya
+          - listitem [ref=e2823]:
+            - link "Returns Centre" [ref=e2824] [cursor=pointer]:
+              - /url: /gp/css/returns/homepage.html?ref_=footer_hy_f_4
+          - listitem [ref=e2825]:
+            - link "Recalls and Product Safety Alerts" [ref=e2826] [cursor=pointer]:
+              - /url: https://www.amazon.in/your-product-safety-alerts?ref_=footer_bsx_ypsa
+          - listitem [ref=e2827]:
+            - link "100% Purchase Protection" [ref=e2828] [cursor=pointer]:
+              - /url: /gp/help/customer/display.html?nodeId=201083470&ref_=footer_swc
+          - listitem [ref=e2829]:
+            - link "Amazon App Download" [ref=e2830] [cursor=pointer]:
+              - /url: /gp/browse.html?node=6967393031&ref_=footer_mobapp
+          - listitem [ref=e2831]:
+            - link "Help" [ref=e2832] [cursor=pointer]:
+              - /url: /gp/help/customer/display.html?nodeId=200507590&ref_=footer_gw_m_b_he
+    - generic [ref=e2834]:
+      - link "Amazon India Home" [ref=e2837] [cursor=pointer]:
+        - /url: /ref=footer_logo
+      - generic [ref=e2840]:
+        - generic [ref=e2841]:
+          - link "Choose a language for shopping. Current selection is English." [ref=e2842] [cursor=pointer]:
+            - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang
+            - generic [ref=e2844]: English
+          - button "Expand to Change Language or Country" [ref=e2845] [cursor=pointer]
+        - button "Choose a country/region for shopping. The current selection is India." [ref=e2846] [cursor=pointer]:
+          - generic [ref=e2848]: India
+    - generic "More on Amazon" [ref=e2849]:
+      - generic "More on Amazon" [ref=e2850]:
+        - list [ref=e2851]:
+          - listitem [ref=e2852]:
+            - link "AbeBooks Books, art & collectibles" [ref=e2853] [cursor=pointer]:
+              - /url: https://www.abebooks.com/
+              - heading "AbeBooks" [level=5] [ref=e2854]
+              - generic [ref=e2855]:
+                - text: Books, art
+                - text: "& collectibles"
+          - listitem [ref=e2856]
+          - listitem [ref=e2857]:
+            - link "Amazon Web Services Scalable Cloud Computing Services" [ref=e2858] [cursor=pointer]:
+              - /url: https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=IN_amazonfooter
+              - heading "Amazon Web Services" [level=5] [ref=e2859]
+              - generic [ref=e2860]:
+                - text: Scalable Cloud
+                - text: Computing Services
+          - listitem [ref=e2861]
+          - listitem [ref=e2862]:
+            - link "Audible Download Audio Books" [ref=e2863] [cursor=pointer]:
+              - /url: https://www.audible.in/
+              - heading "Audible" [level=5] [ref=e2864]
+              - generic [ref=e2865]:
+                - text: Download
+                - text: Audio Books
+          - listitem [ref=e2866]
+          - listitem [ref=e2867]:
+            - link "IMDb Movies, TV & Celebrities" [ref=e2868] [cursor=pointer]:
+              - /url: https://www.imdb.com/
+              - heading "IMDb" [level=5] [ref=e2869]
+              - generic [ref=e2870]:
+                - text: Movies, TV
+                - text: "& Celebrities"
+        - list [ref=e2871]:
+          - listitem [ref=e2872]:
+            - link "Shopbop Designer Fashion Brands" [ref=e2873] [cursor=pointer]:
+              - /url: https://www.shopbop.com/
+              - heading "Shopbop" [level=5] [ref=e2874]
+              - generic [ref=e2875]:
+                - text: Designer
+                - text: Fashion Brands
+          - listitem [ref=e2876]
+          - listitem [ref=e2877]:
+            - link "Amazon Business Everything For Your Business" [ref=e2878] [cursor=pointer]:
+              - /url: /business?ref=footer_aingw
+              - heading "Amazon Business" [level=5] [ref=e2879]
+              - generic [ref=e2880]:
+                - text: Everything For
+                - text: Your Business
+          - listitem [ref=e2881]
+          - listitem [ref=e2882]:
+            - link "Amazon Music Stream millions of songs" [ref=e2883] [cursor=pointer]:
+              - /url: /music/player?ref=footer_apm
+              - heading "Amazon Music" [level=5] [ref=e2884]
+              - generic [ref=e2885]: Stream millions of songs
+          - listitem [ref=e2886]
+          - listitem [ref=e2887]
+    - generic [ref=e2888]:
+      - list [ref=e2889]:
+        - listitem [ref=e2890]:
+          - link "Conditions of Use & Sale" [ref=e2891] [cursor=pointer]:
+            - /url: /gp/help/customer/display.html?nodeId=200545940&ref_=footer_cou
+        - listitem [ref=e2892]:
+          - link "Privacy Notice" [ref=e2893] [cursor=pointer]:
+            - /url: /gp/help/customer/display.html?nodeId=200534380&ref_=footer_privacy
+        - listitem [ref=e2894]:
+          - link "Interest-Based Ads" [ref=e2895] [cursor=pointer]:
+            - /url: /gp/help/customer/display.html?nodeId=202075050&ref_=footer_iba
+      - generic [ref=e2896]: © 1996-2026, Amazon.com, Inc. or its affiliates
