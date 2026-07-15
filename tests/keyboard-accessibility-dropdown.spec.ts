@@ -29,5 +29,7 @@ test.describe('Category Dropdown Tests', () => {
     // 4. Verify ARIA attributes (role, aria-expanded, aria-controls, aria-activedescendant where applicable)
     const ariaExpanded = await category.getAttribute('aria-expanded');
     if (ariaExpanded !== null) await expect(['true', 'false']).toContain(ariaExpanded);
+
+    //Some latest changes are not sync
   });
 });
